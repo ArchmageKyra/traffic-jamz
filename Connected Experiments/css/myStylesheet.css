@@ -1,7 +1,19 @@
-#map {
+#columnWrapper {
   position: relative;
   height: 62vh;
-  width: 96%;
+  width: 100%;
+}
+
+#columnRight {
+  float: right;
+  width: 46%;
+  margin-left: 4%;
+}
+
+#map {
+  float: left;
+  height: 62vh;
+  width: 50%;
 }
 
 #outer {

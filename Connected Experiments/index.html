@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="css/myStylesheet.css" />
 
   <!--library scripts-->
+  <script src="lib/jquery-3.5.1.js"></script>
   <script src="lib/d3.min.js"></script>
   <script src="lib/d3.parcoords.js"></script>
   <script src="lib/divgrid.js"></script>
@@ -22,18 +23,23 @@
   <script src="lib/leaflet-omnivore.min.js"></script>
   <script src="lib/geojson.min.js"></script>
 
+  <!--my scripts-->
+  <script src="js/parcoordsModule.js"></script>
+
 </head>
 
 <body>
-  <script src="js/parcoordsModule.js"></script>
-  <div id="map"></div>
-  <div id="outer">
-    <div id="pcp" class="parcoords" style="width:96%;height:30vh;"></div>
+  <div id="columnWrapper">
+    <div id="map"></div>
+    <div id="columnRight">
+      <h1>Traffic Accidents in Colorado</h1>
+      put a blurb here, possibly button to start tutorial ... idk
+    </div>
   </div>
 
-
-
-  <!--<script src="js/markerclusterModule.js"></script>-->
+  <div id="outer">
+    <div id="pcp" class="parcoords" style="width:100%;height:30vh;margin-top:3vh;"></div>
+  </div>
 
 </body>
 

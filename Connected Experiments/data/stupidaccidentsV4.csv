@@ -1,106 +1,13 @@
 ﻿lat,lng,Severity,Start_Time,hour,month,Civil_Twilight,Description,Visibility(mi),Wind_Speed(mph),Precipitation(in),Weather_Condition
-38.647331,-104.69506,3,6/5/2019 16:03,16,6,Day,At US-85/US-87/Exit 128 - Accident.,6,15,0.52,T-Storm
-40.30295,-104.98044,3,7/1/2019 19:34,19,7,Day,At CO-56/Exit 250 - Accident.,10,22,0.46,T-Storm / Windy
-38.7618,-102.77849,4,7/20/2019 22:47,22,7,Night,Closed between CO-59/CR-20 and CO-96/CR-40/S Wansted St/W 15th St - Road closed due to accident.,2,32,0.45,T-Storm
-39.725599,-104.82461,3,9/6/2019 17:21,17,9,Day,At CO-30/6th Ave/Exit 9 - Accident.,10,6,0.38,Light Rain
-40.11737,-104.980201,3,7/1/2019 18:49,18,7,Day,At CO-52/Exit 235 - Accident.,10,15,0.26,Light Rain
-39.56392,-104.87177,3,7/7/2019 16:43,16,7,Day,At County Line Rd/Exit 195 - Accident.,7,18,0.23,Light Rain
-39.508767,-106.14379,4,5/8/2019 18:56,18,5,Day,Closed between CO-91/Exit 195 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.25,0,0.23,Snow
-38.318294,-104.681123,3,7/20/2019 18:31,18,7,Day,At CO-45/N Pueblo Blvd - Accident.,3,23,0.21,T-Storm
-39.72968,-104.82517,3,5/7/2019 17:08,17,5,Day,At CO-30/6th Ave/Exit 9 - Accident.,2,0,0.2,T-Storm
-39.27279,-106.3111,4,10/23/2019 22:43,22,10,Night,Closed at CR-20/Deer Crossing Dr - Road closed due to accident.,0.5,3,0.19,Snow
-39.31858,-106.33507,4,10/23/2019 22:43,22,10,Night,Closed at CO-91 - Road closed due to accident.,0.5,3,0.19,Snow
-39.77537,-104.860736,3,7/4/2019 19:19,19,7,Day,At Havana Street/Exit 280 - Accident.,10,0,0.18,Light Rain
-40.386397,-104.99325,3,5/28/2019 7:25,7,5,Day,At US-34/Eisenhower Blvd/Exit 257 - Accident.,10,13,0.16,Light Rain
-37.875911,-107.884651,3,5/1/2019 13:07,13,5,Day,At CO-145-spur - Accident.,7,3,0.15,Light Rain
-37.88338,-107.887992,3,5/1/2019 13:07,13,5,Day,At CR-630/Cr-d65 - Accident.,7,3,0.15,Light Rain
-39.608419,-106.080201,2,5/29/2019 14:37,14,5,Day,At I-70/US-6/Blue River Pky - Accident.,0.25,0,0.11,Heavy Snow
-39.62763,-106.06916,4,4/30/2019 1:31,1,4,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,5,0.1,Snow
-39.57889,-104.87586,3,9/8/2019 17:59,17,9,Day,At Dry Creek Rd/Exit 196 - Accident.,7,9,0.09,Light Rain
-39.76606,-104.8275,3,10/28/2019 6:47,6,10,Night,Ramp to I-70 Westbound and Peoria St - Accident.,0.75,0,0.08,Light Snow
-39.70043,-104.8292,3,10/10/2019 9:52,9,10,Day,At Mississippi Ave/Exit 7 - Accident.,0.5,5,0.08,Snow
+39.72553,-105.10752,4,8/20/2019 17:22,17,8,Day,Closed at CO-391/Kipling St - Road closed due to accident. Construction work.,5,21,0,Fair
+39.885211,-104.98766,3,8/20/2019 17:58,17,8,Day,At 104th Ave/Exit 221 - Accident.,5,21,0,Fair
 38.274806,-104.505108,4,6/17/2019 17:30,17,6,Day,Closed at CO-233/Baxter Rd - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Fair
 38.27522,-104.49662,4,6/17/2019 17:30,17,6,Day,Closed at CO-47/CO-96 - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Fair
-38.928188,-104.813227,4,3/13/2019 22:45,22,3,Night,Closed between I-25 BL/Nevada Ave/Exit 148 and Founders Pky/Exit 184 - Road closed due to accident. Construction work.,10,16.1,0.06,Light Rain
-38.274806,-104.505108,4,6/17/2019 17:51,17,6,Day,Closed at CO-233/Baxter Rd - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Light Rain
-38.27522,-104.49662,4,6/17/2019 17:51,17,6,Day,Closed at Paul Harvey Blvd - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Light Rain
-39.76606,-104.8275,3,9/8/2019 17:57,17,9,Day,Ramp to I-70 Westbound and Peoria St - Accident.,9,7,0.06,Light Rain
-39.76513,-105.607628,3,8/11/2019 10:47,10,8,Day,At CR-308/Exit 235 - Accident.,3,5,0.06,Rain
-39.630035,-104.905278,3,6/21/2019 18:29,18,6,Day,At I-225 - Accident.,7,10,0.06,T-Storm
-37.13344,-104.52154,3,3/2/2019 19:48,19,3,Night,At CR-69.4/Exit 11 - Accident.,0.2,8.1,0.05,Heavy Snow
-39.34665,-104.47362,4,9/4/2019 16:05,16,9,Day,Closed at County Road 134 - Road closed due to accident.,5,14,0.05,T-Storm
-38.189642,-104.63292,3,7/27/2019 19:53,19,7,Day,At CO-45/Pueblo Blvd/Exit 94 - Accident.,8,10,0.05,Light Rain
-38.794342,-104.796491,2,3/29/2019 20:44,20,3,Night,At CO-29/Circle Dr/Exit 138 - Accident.,1.8,15,0.05,Light Snow
-38.79994,-104.79953,2,3/29/2019 21:15,21,3,Night,At CO-29/Circle Dr/Exit 138 - Accident. Lane blocked.,5,15,0.05,Light Snow
-40.007259,-105.332739,3,1/11/2019 6:50,6,1,Night,At CO-93/CO-7/Broadway St/Broadway - Accident.,4,,0.05,Rain
-38.322779,-104.696758,3,8/5/2019 22:36,22,8,Night,At Purcell Blvd - Accident.,5,15,0.05,T-Storm
-39.52678,-104.86773,3,5/20/2019 17:58,17,5,Day,At Ridgegate Pkwy/Exit 192 - Accident. Two lanes blocked.,3,7,0.05,Wintry Mix
-38.539704,-104.962029,4,6/30/2019 16:46,16,6,Day,Closed at Buttes - Road closed due to accident.,3,15,0.04,T-Storm
-38.549142,-104.950262,4,6/30/2019 16:46,16,6,Day,Closed at Cr-f45 - Road closed due to accident.,3,15,0.04,T-Storm
-39.54929,-104.86938,3,5/8/2019 7:41,7,5,Day,Ramp to E-470 Northbound/CO-470 WB - Accident.,3,12,0.04,Light Rain
-39.84661,-104.92396,3,5/8/2019 8:59,8,5,Day,At CO-224/74th Ave/Exit 8 - Accident.,4,17,0.04,Light Rain
-40.38127,-104.9936,2,6/3/2019 16:48,16,6,Day,At CO-402/Exit 255 - Accident. Left lane blocked.,10,12,0.04,Light Rain
-39.74671,-105.43701,4,5/8/2019 22:56,22,5,Night,Closed between I-70/US-6 and US-6/CO-119 - Road closed due to accident.,1,12,0.04,Light Snow
-39.74262,-105.43115,4,5/8/2019 22:56,22,5,Night,Closed at I-70/US-6 - Road closed due to accident.,1,12,0.04,Light Snow
-39.74013,-104.72026,3,5/20/2019 22:39,22,5,Night,At E-470/Exit 289 - Accident.,0.75,7,0.04,Light Snow
-39.65532,-104.83398,3,10/10/2019 8:53,8,10,Day,At I-225 - Accident.,0.5,5,0.04,Snow
-39.776431,-104.875114,3,4/10/2019 13:28,13,4,Day,At Havana Street/Exit 280 - Accident.,1,13,0.04,Wintry Mix
 39.51999,-104.86709,3,9/6/2019 18:41,18,9,Day,At Lincoln Ave/Exit 193 - Accident.,10,12,0.03,Fair
 39.108006,-105.890418,3,5/29/2019 19:01,19,5,Day,At US-24 (North) - Accident.,10,0,0.03,Fair
 39.245239,-104.880369,3,8/1/2019 19:56,19,8,Day,At Upper Lake Gulch Rd/Exit 172 - Accident.,10,10,0.03,Fair
 39.567608,-105.049934,3,8/8/2019 15:55,15,8,Day,At CO-75/Platte Canyon Rd - Accident.,10,14,0.03,Fair
-39.44541,-104.87551,3,9/6/2019 18:13,18,9,Day,At Happy Canyon Rd/Exit 187 - Accident.,10,9,0.03,Light Rain
-39.74628,-105.39774,4,5/8/2019 22:56,22,5,Night,Closed at CO-119 - Road closed due to accident.,5,8,0.03,Light Rain
-39.555111,-104.870529,3,7/27/2019 19:17,19,7,Day,At CO-470/E-470/Exit 194 - Accident.,10,7,0.03,Light Rain
-38.527273,-102.785731,4,7/20/2019 22:47,22,7,Night,Closed at US-40 - Road closed due to accident.,10,22,0.03,Light Rain
-39.34785,-106.05474,3,12/14/2019 18:42,18,12,Night,At CR-10/Park Hill Rd - Accident. Single alternate lane traffic.,1,12,0.03,Light Snow
-39.31292,-106.05911,3,12/14/2019 18:42,18,12,Night,At CR-850/Blue Lakes Rd - Accident. Single alternate lane traffic.,1,12,0.03,Light Snow
-38.23235,-104.61389,3,12/15/2019 18:59,18,12,Night,At Indiana Ave/Exit 96 - Accident.,1,5,0.03,Light Snow
-37.921,-104.82395,3,10/28/2019 12:37,12,10,Day,At Graneros Rd/Exit 71 - Accident.,0.75,7,0.03,Light Snow
-39.885176,-104.882407,4,3/13/2019 9:30,9,3,Day,Closed between at US-85 and CO-2 - Road closed due to accident.,0.8,42.6,0.03,Light Snow
-39.88534,-104.881064,4,3/13/2019 9:30,9,3,Day,Closed at at US-85 - Road closed due to accident.,0.8,42.6,0.03,Light Snow
-39.74211,-104.82549,3,4/11/2019 5:54,5,4,Night,At US-40/US-287/Colfax Ave/Exit 10 - Accident.,2,5,0.03,Light Snow
-40.1569,-104.97871,3,5/9/2019 9:26,9,5,Day,At CO-119/Exit 240 - Accident.,4,6,0.03,Light Snow
-40.479467,-104.987431,2,4/30/2019 16:46,16,4,Day,At I-25 - Accident. Lane blocked.,1,5,0.03,Light Snow
-39.55517,-104.86915,4,10/10/2019 10:43,10,10,Day,Closed between I-25/US-87/CO-470 and Peoria St/Exit 2 - Road closed due to accident.,0.5,12,0.03,Snow
-38.27163,-104.60469,4,11/22/2019 9:41,9,11,Day,Closed between 1st St/Exit 98 and 13th St/Exit 99 - Road closed due to accident. Construction work.,0.5,6,0.03,Snow
-38.31592,-104.61543,3,11/22/2019 9:39,9,11,Day,At US-50/Exit 101 - Accident.,0.5,6,0.03,Snow
-39.64507,-106.38209,4,12/13/2019 12:37,12,12,Day,At Vail Rd/Exit 176 - Accident.,0,18,0.02,Heavy Snow
-37.9758,-104.78004,3,6/22/2019 17:41,17,6,Day,At CR-345/Exit 77 - Accident.,5,21,0.02,T-Storm
-38.738843,-104.747253,3,1/11/2019 4:56,4,1,Night,At CO-16/Exit 132 - Accident.,10,11.5,0.02,Light Rain
-39.5771,-104.87484,3,3/13/2019 6:21,6,3,Night,At Dry Creek Rd/Exit 196 - Accident.,2,10.4,0.02,Light Rain
-39.114784,-108.574293,3,3/21/2019 16:08,16,3,Day,At CR-24/Exit 28 - Accident.,3,12.7,0.02,Light Rain
-38.308752,-104.625501,4,3/22/2019 22:35,22,3,Night,Closed at I-25/US-85/US-87/CO-47 - Road closed due to accident. Construction work.,5,25.3,0.02,Light Rain
-39.639292,-104.885755,4,5/8/2019 10:29,10,5,Day,Closed at Yosemite St/Exit 2 - Road closed due to accident.,2,12,0.02,Light Rain
-40.35979,-104.98377,3,5/20/2019 3:47,3,5,Night,At CR-16/Exit 254 - Accident.,5,5,0.02,Light Rain
-40.236648,-104.98001,3,7/1/2019 19:34,19,7,Day,At CO-56/Exit 250 - Accident. Lane blocked.,10,7,0.02,Light Rain
-40.236648,-104.98001,3,7/1/2019 20:01,20,7,Day,At CO-56/Exit 250 - Accident. Lane blocked.,10,5,0.02,Light Rain
-39.67921,-105.90351,4,7/7/2019 17:57,17,7,Day,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident. Road marking work.,10,9,0.02,Light Rain
-39.64324,-106.30459,3,8/11/2019 15:13,15,8,Day,At Bighorn Rd/Exit 180 - Accident.,10,5,0.02,Light Rain
-39.64919,-106.021329,3,8/11/2019 15:09,15,8,Day,At Eisenhower Memorial Tunl (West) - Accident.,10,5,0.02,Light Rain
-38.861942,-104.914414,3,7/27/2019 18:55,18,7,Day,At US-24-BL/Manitou Ave (East) - Accident.,10,8,0.02,Light Rain
-39.67841,-104.82897,3,12/28/2019 10:17,10,12,Day,At Iliff Ave/Exit 5 - Accident. Two lanes blocked.,1,16,0.02,Light Snow
-39.62199,-106.0731,2,12/13/2019 22:55,22,12,Night,At US-6/CO-9/Exit 205 - Accident. Lane blocked.,2,3,0.02,Light Snow
-39.76332,-105.58064,3,12/14/2019 7:59,7,12,Day,At CR-275/Exit 238 - Accident.,0.75,10,0.02,Light Snow
-39.6444,-106.30777,4,10/10/2019 7:12,7,10,Day,Closed between Bighorn Rd/Exit 180 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.75,8,0.02,Light Snow
-39.6444,-106.30777,4,10/18/2019 7:53,7,10,Day,Closed between Vail Rd/Exit 176 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident. Road marking work.,6,3,0.02,Light Snow
-39.566,-104.87238,3,10/23/2019 22:07,22,10,Night,At County Line Rd/Exit 195 - Accident.,1,6,0.02,Light Snow
-39.28905,-104.89585,3,10/28/2019 11:17,11,10,Day,At Tomah Rd/Exit 174 - Accident.,1,,0.02,Light Snow
-37.86042,-104.82897,4,10/28/2019 13:01,13,10,Day,Closed between Graneros Rd/Exit 71 and CR-110/CR-650/Exit 64 - Road closed due to accident. Road surface in poor condition.,0.75,,0.02,Light Snow
-39.63212,-104.9062,3,11/22/2019 5:39,5,11,Night,At I-225 - Accident.,1,7,0.02,Light Snow
-39.56187,-104.87165,2,11/22/2019 5:45,5,11,Night,At CO-470/E-470/Exit 194 - Accident.,1,7,0.02,Light Snow
-39.55089,-104.86982,3,11/22/2019 7:44,7,11,Day,At CO-470/E-470/Exit 194 - Accident.,1,3,0.02,Light Snow
-39.45056,-104.87576,3,11/22/2019 7:48,7,11,Day,At Happy Canyon Rd/Exit 187 - Accident.,1,3,0.02,Light Snow
-39.38256,-104.86037,3,11/22/2019 9:54,9,11,Day,At US-85/Exit 183 - Accident.,1,0,0.02,Light Snow
-39.776431,-104.875114,3,1/11/2019 15:50,15,1,Day,At Havana Street/Exit 280 - Accident.,0.8,12.7,0.02,Light Snow
-39.771881,-104.822352,3,1/22/2019 5:09,5,1,Night,At I-225 - Accident.,2,23,0.02,Light Snow
-40.16393,-104.97946,3,5/9/2019 9:15,9,5,Day,At CO-119/Exit 240 - Accident.,3,6,0.02,Light Snow
-39.52678,-104.86773,3,5/20/2019 19:17,19,5,Day,At Exit 192 - Accident. Two lanes blocked.,1,8,0.02,Light Snow
 39.266413,-105.956917,3,2/22/2019 18:03,18,2,Day,At CR-7 - Accident.,10,4.6,0.02,Fair
-39.522981,-104.8675,3,5/20/2019 17:35,17,5,Day,At Ridgegate Pkwy/Exit 192 - Accident.,1,7,0.02,Rain
-39.15218,-104.85794,3,12/5/2019 12:37,12,12,Day,At Greenland Rd/Exit 167 - Accident.,0.5,,0.02,Snow
-39.52926,-106.21624,4,4/10/2019 10:15,10,4,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Road surface in poor condition.,0.5,5,0.02,Snow
-38.27615,-104.60407,3,9/1/2019 18:18,18,9,Day,At 6th St/Exit 99A - Accident.,4,23,0.02,T-Storm / Windy
 39.13537,-104.86279,3,10/23/2019 19:27,19,10,Night,At Greenland Rd/Exit 167 - Accident.,,,0.01,Fair
 40.40251,-104.99352,3,10/30/2019 10:53,10,10,Day,At CO-402/Exit 255 - Accident.,10,7,0.01,Fair
 39.629835,-104.905182,3,9/6/2019 10:35,10,9,Day,At I-225 - Accident.,10,0,0.01,Fair
@@ -113,86 +20,8 @@
 39.55895,-104.8716,4,6/1/2019 16:09,16,6,Day,Ramp closed to CO-470 Westbound - Road closed due to accident.,10,7,0.01,Fair
 39.317307,-104.883611,3,7/5/2019 23:55,23,7,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,10,10,0.01,Fair
 39.40958,-104.86587,3,8/8/2019 17:37,17,8,Day,At Founders Pky/Exit 184 - Accident.,10,8,0.01,Fair
-39.183886,-104.85037,2,3/13/2019 10:48,10,3,Day,At County Line Rd/Exit 163 - Accident.,0.2,,0.01,Heavy Snow
-39.138734,-104.862219,4,3/13/2019 9:27,9,3,Day,At Greenland Rd/Exit 167 - Accident.,0.2,26.5,0.01,Heavy Snow
-39.138734,-104.862219,3,3/13/2019 9:33,9,3,Day,At Greenland Rd/Exit 167 - Accident.,0.2,26.5,0.01,Heavy Snow
-39.678259,-105.937823,4,5/23/2019 20:12,20,5,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.25,5,0.01,Heavy Snow
-39.978111,-105.216118,3,5/22/2019 15:01,15,5,Day,At CO-157/Boulder Rd/Foothill Pky - Accident.,10,6,0.01,Light Rain
-40.402697,-104.99352,3,3/22/2019 19:06,19,3,Day,At CO-402/Exit 255 - Accident.,10,19.6,0.01,Light Rain
-39.702147,-104.987559,3,5/8/2019 16:26,16,5,Day,At I-25 - Accident.,9,15,0.01,Light Rain
-40.40703,-104.997712,4,5/9/2019 11:43,11,5,Day,At I-25/US-87 - Accident.,10,8,0.01,Light Rain
-40.40701,-105.002225,4,5/9/2019 11:41,11,5,Day,Closed at I-25 - Road closed due to accident.,10,8,0.01,Light Rain
-39.621571,-104.95988,3,6/21/2019 18:05,18,6,Day,At CO-88/E Belleview Ave - Accident.,8,13,0.01,Light Rain
-39.623069,-104.95985,3,6/21/2019 18:05,18,6,Day,At CR-42/E Arapahoe Rd - Accident.,8,13,0.01,Light Rain
-39.5458,-107.662786,3,6/21/2019 16:25,16,6,Day,At Manncreek Rd/Exit 94 - Accident.,10,6,0.01,Light Rain
-39.54453,-107.65024,4,6/21/2019 15:52,15,6,Day,Closed at 9th St/Exit 97 - Road closed due to accident.,7,6,0.01,Light Rain
-39.74033,-105.500184,3,7/12/2019 13:31,13,7,Day,At CO-103/Exit 240 - Accident.,10,5,0.01,Light Rain
-39.70043,-104.8292,3,9/6/2019 17:59,17,9,Day,At Mississippi Ave/Exit 7 - Accident.,10,23,0.01,Light Rain
-39.633586,-104.906788,3,7/4/2019 18:13,18,7,Day,At I-225 - Accident.,10,7,0.01,Light Rain
-39.63217,-104.90596,3,12/28/2019 7:36,7,12,Day,At I-225 - Accident.,0.75,14,0.01,Light Snow
-40.60477,-105.00121,3,12/14/2019 14:41,14,12,Day,At Mountain Vista Dr/Exit 271 - Accident.,1,7,0.01,Light Snow
-39.38498,-106.05687,4,12/14/2019 20:32,20,12,Night,Closed between S Main St and CR-10/Park Hill Rd - Road closed due to accident. Winter storm.,4,7,0.01,Light Snow
-39.2911,-106.0666,4,12/14/2019 20:32,20,12,Night,Closed between CR-10/Park Hill Rd and S Main St - Road closed due to accident. Winter storm.,4,7,0.01,Light Snow
-37.63094,-104.76767,3,12/15/2019 6:28,6,12,Night,At I-25-BL/Exit 52 - Accident.,0,0,0.01,Light Snow
-39.6444,-106.30777,4,10/10/2019 6:56,6,10,Day,Closed between Vail Rd/Exit 176 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,1,7,0.01,Light Snow
-39.47887,-104.8724,3,10/27/2019 8:55,8,10,Day,At Oak Ln/Exit 190 - Accident.,1,9,0.01,Light Snow
-38.63515,-107.98675,4,10/28/2019 8:41,8,10,Day,Closed at Carnation Rd - Road closed due to accident.,0.75,5,0.01,Light Snow
-38.63515,-107.98675,4,10/28/2019 8:41,8,10,Day,Closed at Carnation Rd - Road closed due to accident.,0.75,5,0.01,Light Snow
-38.24618,-104.61187,3,10/28/2019 8:17,8,10,Day,At El Dorado Ave/Exit 97B - Accident.,0.5,7,0.01,Light Snow
-39.53316,-104.86805,3,10/28/2019 10:07,10,10,Day,At Lincoln Ave/Exit 193 - Accident.,1,3,0.01,Light Snow
-39.10762,-105.89023,3,10/29/2019 19:23,19,10,Night,At US-24 (North) - Accident.,1,8,0.01,Light Snow
-39.05861,-105.85265,3,10/29/2019 19:23,19,10,Night,At CR-7 - Accident.,1,8,0.01,Light Snow
-40.40187,-104.99355,3,11/11/2019 4:57,4,11,Night,At CO-402/Exit 255 - Accident.,3,7,0.01,Light Snow
-39.53685,-104.86837,3,11/11/2019 5:45,5,11,Night,At Lincoln Ave/Exit 193 - Accident.,1,8,0.01,Light Snow
-39.52973,-106.21644,4,11/11/2019 7:31,7,11,Day,Closed between Bighorn Rd/Exit 180 and CO-91/Exit 195 - Road closed due to accident. Road marking work.,2,9,0.01,Light Snow
-38.24644,-104.61187,3,11/22/2019 8:24,8,11,Day,At El Dorado Ave/Exit 97B - Accident.,0.5,5,0.01,Light Snow
-39.67921,-105.90351,4,11/22/2019 8:32,8,11,Day,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident. Road marking work.,1,8,0.01,Light Snow
-39.40987,-104.86633,3,11/22/2019 9:32,9,11,Day,At Founders Pky/Exit 184 - Accident.,1,,0.01,Light Snow
-39.40987,-104.86633,3,11/22/2019 10:06,10,11,Day,At Founders Pky/Exit 184 - Accident.,2,,0.01,Light Snow
-39.289102,-104.895833,3,3/29/2019 22:24,22,3,Night,At Tomah Rd/Exit 174 - Accident.,5,,0.01,Light Snow
-39.56693,-104.87415,2,3/30/2019 7:22,7,3,Day,Ramp to County Line Rd/Exit 195 - Accident. Left lane blocked.,0.8,5.8,0.01,Light Snow
-39.57105,-104.8733,2,3/30/2019 7:22,7,3,Day,Ramp to E County Line Rd - Accident. Left lane blocked.,0.8,5.8,0.01,Light Snow
-39.44505,-104.87575,3,3/2/2019 17:51,17,3,Day,At Castle Rock Pkwy/Exit 185 - Accident.,0.5,15,0.01,Light Snow
-39.670299,-104.82931,3,2/6/2019 22:34,22,2,Night,At CO-83/Parker Rd/Exit 4 - Accident.,4,3.5,0.01,Light Snow
-39.377359,-106.19358,4,2/18/2019 21:01,21,2,Night,Closed at I-70/US-6/Exit 195 - Road closed due to accident.,0.8,5.8,0.01,Light Snow
-39.537103,-104.86861,3,2/22/2019 18:03,18,2,Day,At Lincoln Ave/Exit 193 - Accident.,1.5,6.9,0.01,Light Snow
-39.710753,-104.82666,3,2/22/2019 18:03,18,2,Day,At E Alameda Ave/Exit 8 - Accident.,0.8,5.8,0.01,Light Snow
-38.318583,-104.682193,3,2/23/2019 6:47,6,2,Day,At CO-45/N Pueblo Blvd - Accident.,1.8,17.3,0.01,Light Snow
-38.246083,-104.61187,3,2/26/2019 2:54,2,2,Night,At El Dorado Ave/Exit 97B - Accident.,0.5,3.5,0.01,Light Snow
-38.259101,-104.60509,3,2/26/2019 6:26,6,2,Day,At 1st St/Exit 98 - Accident.,0.5,4.6,0.01,Light Snow
-38.261514,-104.60546,3,2/26/2019 6:26,6,2,Day,At Santa Fe Ave/Ilex St/Exit 98 - Accident.,0.5,4.6,0.01,Light Snow
-39.56442,-105.033414,3,1/11/2019 12:48,12,1,Day,At US-85/Santa Fe Dr - Accident.,0.2,16.1,0.01,Light Snow
-39.630035,-104.905278,3,1/11/2019 16:04,16,1,Day,At I-225 - Accident.,0.5,12.7,0.01,Light Snow
-37.08679,-104.52226,4,1/18/2019 14:37,14,1,Day,Closed between US-85/Exit 8 and CR-69.4/Exit 11 - Road closed due to accident.,1.2,15,0.01,Light Snow
-39.31385,-103.82623,4,1/24/2019 7:56,7,1,Day,Closed between CR-134/Exit 348 and CR-118/Exit 354 - Road closed due to accident. Roadwork.,1,,0.01,Light Snow
-39.35518,-103.867738,4,1/24/2019 8:00,8,1,Day,Closed between CO-86/Exit 352 and CO-70/CR-166/Exit 340 - Road closed due to accident. Roadwork.,0.8,,0.01,Light Snow
-39.49218,-104.87318,3,1/28/2019 10:40,10,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,0.8,,0.01,Light Snow
-37.321006,-108.090171,4,4/10/2019 16:45,16,4,Day,Closed at CO-140 - Road closed due to accident.,6,8,0.01,Light Snow
-39.50189,-104.87458,3,4/10/2019 18:30,18,4,Day,At Oak Ln/Exit 190 - Accident. Two lanes blocked.,0.75,18,0.01,Light Snow
-39.341909,-106.05302,3,4/10/2019 20:25,20,4,Night,At CR-850/Blue Lakes Rd - Accident.,3,8,0.01,Light Snow
-39.563392,-104.888445,3,4/13/2019 14:24,14,4,Day,At Yosemite St - Accident.,1,5,0.01,Light Snow
-40.174925,-104.97997,3,4/29/2019 18:00,18,4,Day,At CO-119/Exit 240 - Accident.,5,0,0.01,Light Snow
-40.199032,-104.98038,3,4/29/2019 18:09,18,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,2,0,0.01,Light Snow
-39.694479,-105.798084,3,5/8/2019 22:09,22,5,Night,At Woodward Ave/Exit 226 - Accident.,0.75,13,0.01,Light Snow
-39.37038,-104.86441,4,5/21/2019 4:53,4,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,1,12,0.01,Light Snow
-40.393965,-104.99348,3,5/21/2019 6:50,6,5,Day,At CO-402/Exit 255 - Accident.,1,10,0.01,Light Snow
-40.38127,-104.9936,2,5/21/2019 7:00,7,5,Day,At CO-402/Exit 255 - Accident.,1,10,0.01,Light Snow
-40.563019,-105.00155,3,5/21/2019 7:28,7,5,Day,At CO-68/Harmony Rd/Exit 265 - Accident.,3,9,0.01,Light Snow
-40.497411,-103.263859,2,5/21/2019 17:17,17,5,Day,At CR-Q/Exit 102 - Accident. Left lane blocked.,5,16,0.01,Light Snow
-38.2309,-104.61384,3,10/29/2019 15:33,15,10,Day,At Indiana Ave/Exit 96 - Accident.,0.75,24,0.01,Light Snow
 39.12535,-105.90688,3,3/11/2019 10:31,10,3,Day,At US-285 (South) - Accident.,10,4.6,0.01,Fair
 40.21737,-104.82123,4,1/11/2019 6:37,6,1,Night,Closed between Grand Ave and County Road 34 - Road closed due to accident.,7,4.6,0.01,Fair
-37.63082,-104.76795,3,12/15/2019 11:41,11,12,Day,At CO-10/Exit 50 - Accident.,0.25,8,0.01,Snow
-38.27163,-104.60469,4,11/22/2019 9:19,9,11,Day,Closed between 6th St/Exit 99A and 13th St/Exit 99 - Road closed due to accident.,0.75,6,0.01,Snow
-39.3824,-104.86037,3,2/6/2019 13:24,13,2,Day,At US-85/Exit 183 - Accident.,0.5,8.1,0.01,Snow
-39.50741,-104.87237,3,1/11/2019 17:52,17,1,Night,At Ridgegate Pkwy/Exit 192 - Accident.,0.5,12.7,0.01,Snow
-39.433169,-105.759016,3,5/20/2019 13:31,13,5,Day,At CR-62/Geneva Rd/Guanella Pass Rd - Accident.,0.25,12,0.01,Snow
-39.282904,-104.896898,3,7/20/2019 17:21,17,7,Day,At Tomah Rd/Exit 174 - Accident. Roadway reduced to 1 lane.,10,10,0.01,T-Storm
-39.282904,-104.896898,3,7/20/2019 17:21,17,7,Day,At Tomah Rd/Exit 174 - Accident. Roadway reduced to 1 lane.,10,10,0.01,T-Storm
-38.67316,-104.70899,4,11/21/2019 7:16,7,11,Day,Closed between Ray Nixon Rd/Exit 125 and CO-16/Exit 132 - Road closed due to accident. Traffic problem.,1,6,0.01,Wintry Mix
-39.72553,-105.10752,4,8/20/2019 17:22,17,8,Day,Closed at CO-391/Kipling St - Road closed due to accident. Construction work.,5,21,0,Blowing Dust / Windy
-39.885211,-104.98766,3,8/20/2019 17:58,17,8,Day,At 104th Ave/Exit 221 - Accident.,5,21,0,Blowing Dust / Windy
-39.59195,-104.88308,3,2/23/2019 15:57,15,2,Day,At CO-88/Arapahoe Rd/Exit 197 - Accident.,10,24.2,0,Blowing Snow
 37.95766,-104.79942,3,12/28/2019 14:56,14,12,Day,At CO-165/Exit 74 - Accident.,10,31,0,Fair
 39.34214,-103.84536,3,10/10/2019 8:27,8,10,Day,At CR-134/Exit 348 - Accident.,8,28,0,Fair
 39.843321,-104.98448,3,9/5/2019 16:51,16,9,Day,At US-36/Exit 217 - Accident.,10,21,0,Fair
@@ -218,7 +47,6 @@
 39.77836,-104.895773,3,7/25/2019 18:29,18,7,Day,At Quebec St/Exit 278 - Accident.,10,21,0,Fair
 38.056565,-104.72009,3,7/29/2019 19:27,19,7,Day,At Exit 83 - Accident.,10,24,0,Fair
 38.06933,-104.71127,3,7/29/2019 19:27,19,7,Day,At CR-345/Exit 77 - Accident.,10,24,0,Fair
-39.97167,-104.98801,2,5/20/2019 5:55,5,5,Day,At E-470/Northwest Pky - Accident. Right lane blocked.,4,8,0,Drizzle
 39.73597,-105.0144,3,12/22/2019 23:11,23,12,Night,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,10,3,0,Fair
 39.56778,-107.52108,3,12/22/2019 23:17,23,12,Night,At 9th St/Exit 97 - Accident.,10,0,0,Fair
 39.78395,-105.02839,2,12/23/2019 5:39,5,12,Night,At Federal Blvd/Exit 272 - Accident.,10,5,0,Fair
@@ -2416,8 +2244,8 @@
 39.77133,-104.99073,3,5/29/2019 12:31,12,5,Day,At Park Ave/Exit 213 - Accident.,10,0,0,Fair
 39.628624,-105.01047,3,5/29/2019 15:28,15,5,Day,At CO-88/W Belleview Ave - Accident.,10,3,0,Fair
 39.62844,-105.010583,3,5/29/2019 14:16,14,5,Day,At CO-88/W Belleview Ave - Accident. Right lane blocked.,10,,0,Fair
-40.307169,-105.388555,3,5/29/2019 19:58,19,5,Day,Between CO-7/S St Vrain Ave and US-36/CO-66/5th Ave/Main St - Overturned vehicle. Blocked ahead.,10,3,0,Fair
-40.247545,-105.334406,3,5/29/2019 19:58,19,5,Day,Between US-36/CO-66/5th Ave/Main St and CO-7/S St Vrain Ave - Overturned vehicle. Blocked ahead.,10,3,0,Fair
+40.307169,-105.388555,3,5/29/2019 19:58,19,5,Day,Between CO-7/S St VHeavy Rain Ave and US-36/CO-66/5th Ave/Main St - Overturned vehicle. Blocked ahead.,10,3,0,Fair
+40.247545,-105.334406,3,5/29/2019 19:58,19,5,Day,Between US-36/CO-66/5th Ave/Main St and CO-7/S St VHeavy Rain Ave - Overturned vehicle. Blocked ahead.,10,3,0,Fair
 39.702147,-104.987559,3,5/29/2019 15:56,15,5,Day,At I-25 - Accident.,10,3,0,Fair
 39.65245,-106.96001,4,5/29/2019 16:09,16,5,Day,Closed between US-6/Exit 140 and North River Dr/Exit 116 - Road closed due to accident.,10,7,0,Fair
 39.838332,-104.98351,3,5/29/2019 16:56,16,5,Day,At 84th Ave/Exit 219 - Accident.,10,7,0,Fair
@@ -2516,7 +2344,7 @@
 40.442321,-104.888822,4,6/2/2019 22:03,22,6,Night,Closed between CR-66/Eastman Park Dr and US-34 - Road closed due to accident.,10,12,0,Fair
 39.429732,-104.87901,3,6/2/2019 21:57,21,6,Night,At Happy Canyon Rd/Exit 187 - Accident.,10,8,0,Fair
 40.323738,-105.420726,4,6/2/2019 22:42,22,6,Night,Closed at US-36/CO-66/5th Ave/Main St - Road closed due to accident.,10,0,0,Fair
-40.28811,-105.37427,4,6/2/2019 22:42,22,6,Night,Closed at CO-7/S St Vrain Ave - Road closed due to accident.,10,0,0,Fair
+40.28811,-105.37427,4,6/2/2019 22:42,22,6,Night,Closed at CO-7/S St VHeavy Rain Ave - Road closed due to accident.,10,0,0,Fair
 40.442321,-104.888822,4,6/2/2019 22:44,22,6,Night,Closed between Crossroads Blvd and US-34 - Road closed due to accident.,10,7,0,Fair
 40.409807,-104.86987,4,6/2/2019 22:44,22,6,Night,Closed between US-34 and Crossroads Blvd - Road closed due to accident.,10,0,0,Fair
 39.77969,-104.971915,3,6/3/2019 3:23,3,6,Night,At Brighton Blvd/Exit 275 - Accident.,10,7,0,Fair
@@ -3890,398 +3718,6 @@
 38.752958,-104.745918,2,6/10/2019 17:04,17,6,Day,At US-85-87 - Accident. in the right lane.,10,23,0,Fair
 38.752958,-104.745918,3,6/10/2019 16:44,16,6,Day,Between CO-83/S Academy Blvd and Fontaine Blvd - Accident. in the right lane.,10,23,0,Fair
 39.113308,-104.865658,3,7/18/2019 11:16,11,7,Day,At CO-105/Exit 161 - Accident.,10,21,0,Fair
-39.77966,-104.97238,3,12/26/2019 8:14,8,12,Day,At Brighton Blvd/Exit 275 - Accident.,0.12,17,0,Fog
-40.08,-104.8488,4,12/26/2019 8:42,8,12,Day,Closed at County Road 21 - Road closed due to accident.,0,0,0,Fog
-40.08005,-104.86745,4,12/26/2019 8:42,8,12,Day,Closed at County Road 23 - Road closed due to accident.,0,0,0,Fog
-38.25683,-104.60617,2,10/30/2019 21:48,21,10,Night,Between El Dorado Ave/Exit 97B and 1st St/Exit 98 - Accident. Right lane blocked. Road surface in poor condition.,2,6,0,Fog
-39.74134,-104.62177,4,11/6/2019 15:24,15,11,Day,Closed between County Road 23 N and Yullie Rd - Road closed due to accident.,0.5,9,0,Fog
-39.73813,-104.37745,4,11/6/2019 15:24,15,11,Day,Closed between Yullie Rd and County Road 23 N - Road closed due to accident.,0.5,9,0,Fog
-39.73813,-104.37745,4,11/6/2019 12:45,12,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,15,0,Fog
-39.74134,-104.62177,4,11/6/2019 12:45,12,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,15,0,Fog
-39.74134,-104.62177,4,11/6/2019 14:42,14,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,8,0,Fog
-39.73813,-104.37745,4,11/6/2019 14:42,14,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,8,0,Fog
-39.7783,-104.89807,3,11/6/2019 20:27,20,11,Night,At I-270/Exit 279 - Accident.,2,9,0,Fog
-39.04133,-104.27498,3,11/21/2019 7:52,7,11,Day,At Yoder St - Accident.,1,8,0,Fog
-39.73485,-105.16585,3,11/21/2019 8:26,8,11,Day,At US-40/Colfax Ave/Exit 262 - Accident.,1,5,0,Fog
-39.25693,-104.88999,3,11/21/2019 9:16,9,11,Day,At Tomah Rd/Exit 174 - Accident.,2,0,0,Fog
-39.825117,-104.966714,3,10/2/2019 6:43,6,10,Day,At I-76/Exit 1 - Accident.,0.5,5,0,Fog
-38.584983,-104.668482,3,10/2/2019 7:50,7,10,Day,At El Centro Blvd/Exit 119 - Accident.,0.88,12,0,Fog
-39.98766,-105.23704,3,10/2/2019 7:10,7,10,Day,At Table Mesa Dr - Accident.,1,3,0,Fog
-40.559381,-105.001115,3,10/2/2019 7:31,7,10,Day,At Prospect Rd/Exit 268 - Accident.,2,6,0,Fog
-39.843321,-104.98448,3,9/9/2019 6:37,6,9,Day,At US-36/Exit 217 - Accident.,0.06,5,0,Fog
-39.597934,-106.269971,4,4/29/2019 7:21,7,4,Day,At CR-16/Shrine Pass Rd/Exit 190 - Accident.,0.5,3,0,Fog
-39.643427,-106.305557,4,4/29/2019 7:26,7,4,Day,Closed between Bighorn Rd/Exit 180 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.5,3,0,Fog
-39.69422,-105.73004,2,4/29/2019 18:25,18,4,Day,Between CR-321/Stevens Gulch Rd/Exit 221 and US-40/Exit 232 - Accident. Left lane blocked. Heavy snowfall expected.,1,10,0,Fog
-39.125577,-104.86466,3,5/4/2019 6:49,6,5,Day,At CO-105/Exit 161 - Accident.,1,9,0,Fog
-39.680941,-104.82867,3,5/7/2019 7:32,7,5,Day,At Mississippi Ave/Exit 7 - Accident.,2,14,0,Fog
-39.796929,-105.048478,3,5/7/2019 7:39,7,5,Day,At CO-95/Sheridan Blvd/Exit 1 - Accident.,0.25,3,0,Fog
-39.671491,-104.9282,3,5/20/2019 7:35,7,5,Day,At Evans Ave/Exit 203 - Accident.,2,7,0,Fog
-39.6758,-104.93135,2,5/20/2019 7:40,7,5,Day,At Evans Ave/Exit 203 - Accident. Left lane blocked.,2,7,0,Fog
-39.90957,-104.9906,2,5/21/2019 7:15,7,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,0.5,8,0,Fog
-39.77841,-104.91289,3,5/21/2019 7:54,7,5,Day,At Dahlia St/Exit 277 - Accident.,0.25,8,0,Fog
-39.94118,-105.13984,3,5/21/2019 8:10,8,5,Day,At Flatiron Cir - Accident.,0.25,8,0,Fog
-39.68143,-105.88914,4,5/23/2019 6:21,6,5,Day,Closed at Montezuma Rd - Road closed due to accident.,1,15,0,Fog
-39.636582,-105.891793,4,5/23/2019 6:21,6,5,Day,Closed at I-70 (East) - Road closed due to accident.,1,15,0,Fog
-39.636582,-105.891793,4,5/23/2019 7:00,7,5,Day,Closed at US-6/Exit 216 - Road closed due to accident.,1,17,0,Fog
-39.68123,-105.88995,4,5/23/2019 7:00,7,5,Day,Closed at Frisco - Road closed due to accident.,1,17,0,Fog
-39.7873,-104.98934,3,5/23/2019 7:37,7,5,Day,At I-70/Exit 214 - Accident.,2,6,0,Fog
-39.73664,-105.01436,3,4/30/2019 7:04,7,4,Day,At Zuni St/Exit 209C - Accident.,2,6,0,Fog
-39.5647,-104.915713,3,4/30/2019 9:58,9,4,Day,At CO-177/University Blvd - Accident.,2,5,0,Fog
-39.924412,-105.110708,3,5/1/2019 8:12,8,5,Day,At E Flatiron Crossing Dr - Accident.,1,8,0,Fog
-39.924412,-105.110708,3,5/1/2019 8:24,8,5,Day,At E Flatiron Crossing Dr - Accident.,0.12,8,0,Fog
-39.73808,-104.41455,4,8/16/2019 7:54,7,8,Day,Closed between CR-34/Kiowa-Bennett Rd/Exit 305 and Wagner St/Exit 310 - Road closed due to accident.,0.25,9,0,Fog
-40.029472,-104.818019,4,8/16/2019 8:00,8,8,Day,Closed at Cr 8 - Road closed due to accident.,2,7,0,Fog
-38.34313,-104.61977,3,10/29/2019 17:39,17,10,Day,At Pace Rd/Exit 104 - Accident.,0.5,24,0,Fog
-39.26077,-104.70336,4,4/30/2019 10:12,10,4,Day,Closed at S Lake Gulch Rd - Road closed due to accident.,0.5,30,0,Fog
-39.27094,-104.73631,4,4/30/2019 10:12,10,4,Day,Closed at S Russellville Rd - Road closed due to accident.,0.5,30,0,Fog
-39.26077,-104.70336,4,4/30/2019 10:12,10,4,Day,Closed at Lake Gulch Rd - Road closed due to accident.,0.5,30,0,Fog
-39.27094,-104.73631,4,4/30/2019 10:12,10,4,Day,Closed at Russellville Rd - Road closed due to accident.,0.5,30,0,Fog
-39.68491,-104.95162,2,12/27/2019 16:21,16,12,Day,Between CO-2/Colorado Blvd/Exit 204 and Downing St/Exit 206 - Accident. Left lane blocked.,6,7,0,Fog
-38.48541,-106.33623,3,10/18/2019 13:41,13,10,Day,At CO-114 - Accident.,1,15,0,Fog
-38.72941,-104.73733,3,11/6/2019 16:04,16,11,Day,At CO-83/Academy Blvd/Exit 135 - Accident.,6,17,0,Fog
-39.78042,-104.99044,2,12/28/2019 13:26,13,12,Day,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,1,22,0,Fog
-39.82391,-104.96168,3,10/10/2019 8:35,8,10,Day,At I-270/Exit 6 - Accident.,0.5,8,0,Heavy Snow
-39.79723,-105.04791,3,10/10/2019 8:39,8,10,Day,Ramp to CO-95/Sheridan Blvd - Accident.,0.5,8,0,Heavy Snow
-39.77988,-105.13801,4,10/10/2019 8:35,8,10,Day,Closed at CO-58/Exit 265 - Road closed due to accident.,0.5,8,0,Heavy Snow
-37.64569,-104.78106,3,10/28/2019 6:39,6,10,Night,At CO-10/Exit 50 - Accident.,0.5,7,0,Heavy Snow
-37.66041,-104.79633,3,10/28/2019 5:40,5,10,Night,Between Airport Rd/Exit 55 and CO-10/Exit 50 - Accident. Right lane blocked. Road surface in poor condition.,0.5,,0,Heavy Snow
-39.61976,-104.8994,3,1/24/2019 8:06,8,1,Day,At Orchard Rd/Exit 198 - Accident.,0.2,24.2,0,Heavy Snow
-40.449132,-104.99193,3,4/10/2019 15:22,15,4,Day,At CO-392/Exit 262 - Accident.,0.25,21,0,Heavy Snow
-39.097496,-104.863884,3,9/6/2019 18:19,18,9,Day,At CO-105/Exit 161 - Accident.,1,8,0,T-Storm
-39.87168,-104.9877,3,7/13/2019 20:31,20,7,Day,At Thornton Pky/Exit 220 - Accident.,8,18,0,T-Storm
-39.72543,-105.02242,3,11/6/2019 19:09,19,11,Night,At CO-88/Federal Blvd - Accident.,2,7,0,Light Rain
-39.90957,-104.9906,2,10/1/2019 5:45,5,10,Night,At CO-128/120th Ave/Exit 223 - Accident. Left lane blocked.,1,0,0,Light Rain
-38.785278,-104.78968,3,10/2/2019 3:52,3,10,Night,At CO-29/Circle Dr/Exit 138 - Accident.,3,6,0,Light Rain
-39.776431,-104.875114,3,3/29/2019 6:30,6,3,Day,At Havana Street/Exit 280 - Accident.,0.4,6.9,0,Light Rain
-39.776488,-104.873629,3,3/29/2019 6:52,6,3,Day,At I-270/Exit 279 - Accident.,0.4,6.9,0,Light Rain
-39.602214,-104.888992,3,4/10/2019 8:12,8,4,Day,At Orchard Rd/Exit 198 - Accident.,0.75,7,0,Light Rain
-39.856301,-104.987278,3,4/10/2019 12:01,12,4,Day,At 84th Ave/Exit 219 - Accident.,1,13,0,Light Rain
-39.77999,-104.9519,3,4/22/2019 6:35,6,4,Day,At Steele St/Exit 276 - Accident.,1,8,0,Light Rain
-39.71571,-105.19175,2,4/22/2019 6:47,6,4,Day,Between US-6/6th Ave/Exit 261 and I-70-BL/Exit 241 - Accident.,1,8,0,Light Rain
-39.8231,-104.9673,3,4/22/2019 6:57,6,4,Day,At I-270/Exit 6 - Accident.,1,9,0,Light Rain
-39.77841,-104.91289,3,5/7/2019 6:54,6,5,Day,At Dahlia St/Exit 277 - Accident.,0.75,0,0,Light Rain
-39.72542,-105.022004,3,5/20/2019 7:47,7,5,Day,At CO-88/Federal Blvd - Accident.,1,6,0,Light Rain
-39.986161,-105.212738,3,5/22/2019 15:15,15,5,Day,At Louisville - Accident. Two lanes blocked.,10,7,0,Light Rain
-38.864143,-104.66338,4,5/2/2019 7:06,7,5,Day,Closed between E Woodmen Rd and US-24-BL/E Platte Ave/N Powers Blvd - Road closed due to accident.,3,13,0,Light Rain
-39.56392,-104.87177,3,6/22/2019 20:35,20,6,Day,At County Line Rd/Exit 195 - Accident.,10,5,0,Light Rain
-38.60606,-104.68029,3,7/30/2019 17:19,17,7,Day,At Pikes Peak Meadows/Exit 122 - Accident.,10,8,0,Light Rain
-39.13818,-104.86255,3,11/16/2019 18:39,18,11,Night,At County Line Rd/Exit 163 - Accident.,10,21,0,Light Rain
-38.87957,-104.94656,3,10/27/2019 9:39,9,10,Day,At US-24-BL/Manitou Ave (West) - Accident.,10,12,0,Light Freezing Drizzle
-39.77712,-104.88257,2,11/6/2019 20:17,20,11,Night,Between I-270/Exit 279 and Havana Street/Exit 280 - Accident. Right lane blocked.,7,9,0,Light Freezing Drizzle
-39.571809,-105.02961,4,2/6/2019 8:10,8,2,Day,Closed at Mineral Ave - Road closed due to accident.,0.2,5.8,0,Fog
-39.57938,-105.02594,4,2/6/2019 8:10,8,2,Day,Closed between CO-75/W Bowles Ave/W Littleton Blvd and CO-470 - Road closed due to accident.,0.2,5.8,0,Fog
-39.57938,-105.02594,4,2/6/2019 8:19,8,2,Day,Closed between CO-75/W Bowles Ave/W Littleton Blvd and CO-470 - Road closed due to accident.,0.2,5.8,0,Fog
-39.78009,-104.93226,3,12/5/2019 9:35,9,12,Day,At Dahlia St/Exit 277 - Accident.,10,5,0,Light Rain
-39.78553,-105.08371,3,12/5/2019 11:43,11,12,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,40,3,0,Light Rain
-40.33178,-104.98035,3,12/5/2019 14:51,14,12,Day,At CO-56/Exit 250 - Accident.,10,12,0,Light Rain
-39.644777,-105.178717,3,4/10/2019 8:13,8,4,Day,At Hampden Ave - Accident.,1,12,0,Light Rain
-39.77537,-104.860736,3,4/10/2019 8:43,8,4,Day,At Havana Street/Exit 280 - Accident.,2,14,0,Light Rain
-39.6966,-104.82921,3,4/10/2019 8:42,8,4,Day,At Mississippi Ave/Exit 7 - Accident.,2,14,0,Light Rain
-39.342034,-104.874956,3,4/12/2019 13:28,13,4,Day,At Tomah Rd/Exit 174 - Accident.,10,6,0,Light Rain
-39.65481,-102.802184,4,4/28/2019 19:32,19,4,Day,Closed at CO-59/Cr-f - Road closed due to accident.,10,20,0,Light Rain
-39.885439,-104.98767,3,4/28/2019 21:19,21,4,Night,At 104th Ave/Exit 221 - Accident.,40,14,0,Light Rain
-39.900221,-104.988178,3,5/7/2019 13:09,13,5,Day,At 104th Ave/Exit 221 - Accident.,3,15,0,Light Rain
-39.77841,-104.91289,3,5/7/2019 14:36,14,5,Day,At Dahlia St/Exit 277 - Accident.,3,17,0,Light Rain
-39.78566,-105.0832,3,5/7/2019 14:45,14,5,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,3,17,0,Light Rain
-39.53177,-104.86793,3,5/8/2019 17:41,17,5,Day,At Lincoln Ave/Exit 193 - Accident.,10,15,0,Light Rain
-39.835804,-105.024092,3,5/18/2019 14:02,14,5,Day,At Federal Blvd - Accident.,10,6,0,Light Rain
-39.71143,-104.99904,3,5/20/2019 6:19,6,5,Day,At CO-26/Alameda Ave/Exit 208 - Accident.,1,10,0,Light Rain
-39.76038,-105.00582,3,5/20/2019 15:09,15,5,Day,At 20th St/Exit 212 - Accident.,15,7,0,Light Rain
-39.75354,-105.01485,2,5/20/2019 17:47,17,5,Day,At Speer Blvd/Exit 212 - Accident. Right lane blocked.,4,7,0,Light Rain
-39.77836,-104.895773,3,5/20/2019 16:29,16,5,Day,At Quebec St/Exit 278 - Accident.,4,7,0,Light Rain
-39.73479,-105.01503,3,5/20/2019 17:38,17,5,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,4,7,0,Light Rain
-39.69622,-105.21534,3,5/20/2019 18:26,18,5,Day,At Grapevine Rd/Exit 256 - Accident.,4,7,0,Light Rain
-39.68108,-105.18844,2,5/21/2019 6:09,6,5,Day,At CO-26/W Alameda Pkwy - Accident.,0.75,7,0,Light Rain
-39.70473,-105.19299,2,5/21/2019 6:11,6,5,Day,At I-70/US-6 - Accident.,0.75,7,0,Light Rain
-39.52242,-107.78233,2,5/21/2019 13:04,13,5,Day,At CO-13/Taughenbaugh Blvd/Exit 90 - Accident.,6,9,0,Light Rain
-39.723457,-105.011526,3,5/22/2019 16:35,16,5,Day,At US-6/6th Ave/Exit 209 - Accident.,7,8,0,Light Rain
-39.987149,-104.98768,3,5/22/2019 18:08,18,5,Day,At E-470/Northwest Pky - Accident.,10,0,0,Light Rain
-39.783247,-105.127782,3,5/22/2019 18:13,18,5,Day,At Kipling St/Exit 267 - Accident.,7,3,0,Light Rain
-39.897632,-104.987501,3,5/22/2019 19:29,19,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,10,6,0,Light Rain
-39.908215,-104.990561,3,5/22/2019 19:26,19,5,Day,At CO-128/120th Ave/Exit 223 - Accident. Two lanes blocked.,10,6,0,Light Rain
-39.672869,-104.929459,3,5/26/2019 16:49,16,5,Day,At Yale Ave/Exit 202 - Accident.,10,9,0,Light Rain
-40.33279,-104.98006,4,5/26/2019 20:44,20,5,Day,Closed between CO-56/Exit 250 and CR-16/Exit 254 - Road closed due to accident.,10,10,0,Light Rain
-40.33279,-104.98006,4,5/26/2019 21:05,21,5,Night,Closed between CO-60/Exit 252 and CR-16/Exit 254 - Road closed due to accident.,10,10,0,Light Rain
-39.740607,-104.82522,3,5/1/2019 14:36,14,5,Day,At US-40/US-287/Colfax Ave/Exit 10 - Accident.,10,10,0,Light Rain
-39.59486,-104.88345,3,5/1/2019 21:01,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
-39.59462,-104.884005,3,5/1/2019 21:01,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
-39.59486,-104.88345,3,5/1/2019 21:19,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
-40.33043,-104.81183,4,6/2/2019 18:02,18,6,Day,Closed between CR-396 and US-85 - Road closed due to accident.,10,17,0,Light Rain
-40.33043,-104.81183,4,6/2/2019 18:22,18,6,Day,Closed between County Road 396 and County Road 42 - Road closed due to accident.,10,17,0,Light Rain
-39.73664,-105.01436,3,6/5/2019 22:09,22,6,Night,At Zuni St/Exit 209C - Accident.,10,10,0,Light Rain
-39.72889,-105.01489,2,6/5/2019 22:28,22,6,Night,At US-6/6th Ave/Exit 209 - Accident.,10,6,0,Light Rain
-38.216597,-104.253067,3,6/7/2019 19:19,19,6,Day,At CR-725/68th Ln - Accident.,10,6,0,Light Rain
-38.21275,-104.249442,3,6/7/2019 19:19,19,6,Day,At CO-209 - Accident.,10,6,0,Light Rain
-39.740457,-105.014645,4,6/9/2019 3:00,3,6,Night,Closed between I-25/CO-33/Auraria Pky and US-287/CO-88/Federal Blvd - Road closed due to accident. Police activity ongoing.,10,9,0,Light Rain
-38.61402,-104.68617,3,6/13/2019 16:23,16,6,Day,Between Ray Nixon Rd/Exit 125 and Pikes Peak Meadows/Exit 122 - Accident. emergency vehicles at scene.,10,8,0,Light Rain
-40.203661,-104.86549,4,6/18/2019 12:05,12,6,Day,Closed at County Road 25.5 - Road closed due to accident.,10,5,0,Light Rain
-39.863804,-104.98748,3,6/21/2019 13:43,13,6,Day,At Thornton Pky/Exit 220 - Accident.,10,8,0,Light Rain
-39.95748,-104.98814,3,6/21/2019 14:45,14,6,Day,At E 144th Ave/Exit 226 - Accident.,5,6,0,Light Rain
-39.77836,-104.895773,3,6/21/2019 14:21,14,6,Day,At Quebec St/Exit 278 - Accident.,5,10,0,Light Rain
-39.57931,-104.8761,3,6/21/2019 15:29,15,6,Day,At Dry Creek Rd/Exit 196 - Accident.,10,7,0,Light Rain
-40.453057,-104.99219,3,6/21/2019 18:01,18,6,Day,At Crossroads Blvd/Exit 259 - Accident.,10,6,0,Light Rain
-39.68874,-104.97125,3,6/21/2019 19:18,19,6,Day,At University Blvd/Exit 205 - Accident. Left lane blocked.,10,3,0,Light Rain
-39.882321,-104.98746,3,6/22/2019 16:29,16,6,Day,At 104th Ave/Exit 221 - Accident.,4,10,0,Light Rain
-40.383712,-106.613184,3,6/23/2019 7:39,7,6,Day,At CR-19 - Accident.,10,8,0,Light Rain
-39.61976,-104.8994,3,6/28/2019 23:49,23,6,Night,At Orchard Rd/Exit 198 - Accident.,10,20,0,Light Rain
-39.64884,-105.18074,3,6/30/2019 22:10,22,6,Night,At CO-8/Morrison Rd - Accident.,10,6,0,Light Rain
-39.68164,-105.892327,3,7/7/2019 19:24,19,7,Day,At US-6/Exit 216 - Accident.,10,5,0,Light Rain
-39.78004,-104.93171,3,7/8/2019 15:30,15,7,Day,At Monaco St/Exit 277 - Accident.,35,7,0,Light Rain
-39.65813,-104.92051,3,7/13/2019 15:43,15,7,Day,At Yale Ave/Exit 202 - Accident.,10,14,0,Light Rain
-39.10308,-105.989862,4,7/14/2019 19:48,19,7,Day,Closed at CR-20 - Road closed due to accident.,10,3,0,Light Rain
-39.153657,-105.999216,4,7/14/2019 20:09,20,7,Day,Closed at Leadville - Road closed due to accident.,10,3,0,Light Rain
-39.10308,-105.989862,4,7/14/2019 20:09,20,7,Day,Closed at CR-20 - Road closed due to accident.,10,3,0,Light Rain
-39.924212,-105.110843,3,7/15/2019 15:53,15,7,Day,At Wadsworth Pky/CO-121/CO-128 - Accident.,12,7,0,Light Rain
-39.77841,-104.91289,3,7/15/2019 18:54,18,7,Day,At Dahlia St/Exit 277 - Accident.,40,20,0,Light Rain
-39.81999,-104.97922,3,7/21/2019 22:11,22,7,Night,At I-25/Exit 5 - Accident.,10,9,0,Light Rain
-39.6966,-104.82921,3,8/8/2019 14:15,14,8,Day,At Mississippi Ave/Exit 7 - Accident.,10,8,0,Light Rain
-39.771929,-104.822968,3,8/11/2019 16:15,16,8,Day,At I-225 - Accident.,10,13,0,Light Rain
-38.282353,-104.55614,3,8/21/2019 17:00,17,8,Day,At Newpark Ln/Troy Ave - Accident.,10,6,0,Light Rain
-39.8236,-104.978695,4,6/4/2019 16:13,16,6,Day,Closed at Washington St - Road closed due to accident.,10,23,0,Light Rain
-39.762,-105.02516,4,8/4/2019 22:42,22,8,Night,Closed between Federal Blvd and Clay St - Road closed due to accident.,10,22,0,Light Rain
-39.762,-105.020542,4,8/4/2019 22:42,22,8,Night,Closed at Federal Blvd - Road closed due to accident.,10,22,0,Light Rain
-39.604586,-104.890348,3,9/6/2019 15:25,15,9,Day,At Orchard Rd/Exit 198 - Accident.,10,8,0,Light Rain
-39.192287,-104.851079,3,9/6/2019 17:01,17,9,Day,At Upper Lake Gulch Rd/Exit 172 - Accident.,10,16,0,Light Rain
-39.959146,-105.16927,3,5/17/2019 14:35,14,5,Day,At McCaslin Blvd - Accident.,10,22,0,Light Rain
-39.68142,-104.93705,2,5/26/2019 17:30,17,5,Day,Between Evans Ave/Exit 203 and Yale Ave/Exit 202 - Accident.,10,14,0,Light Rain
-38.89672,-104.842626,2,5/28/2019 14:13,14,5,Day,At Garden of the Gods Rd - Accident. Lane blocked.,10,16,0,Light Rain
-39.74009,-104.914701,3,6/3/2019 15:22,15,6,Day,At Monaco Pky - Accident.,10,12,0,Light Rain
-39.72573,-105.058798,3,6/7/2019 12:27,12,6,Day,At CO-121/Wadsworth Blvd - Accident.,30,5,0,Light Rain
-39.776551,-104.876398,3,6/8/2019 17:07,17,6,Day,At Havana Street/Exit 280 - Accident.,10,15,0,Light Rain
-39.900221,-104.988178,3,6/13/2019 15:22,15,6,Day,At 104th Ave/Exit 221 - Accident.,10,5,0,Light Rain
-39.85214,-104.98638,3,6/13/2019 15:34,15,6,Day,At 84th Ave/Exit 219 - Accident. Three lanes blocked.,10,5,0,Light Rain
-39.78014,-104.95929,2,6/13/2019 15:56,15,6,Day,Between York St/Exit 275 and Washington St/Exit 275A - Accident. Right lane blocked.,10,5,0,Light Rain
-39.88976,-105.07393,2,6/13/2019 15:52,15,6,Day,At 104th Ave - Accident. Left lane blocked.,10,5,0,Light Rain
-39.897632,-104.987501,3,6/15/2019 17:57,17,6,Day,At CO-128/120th Ave/Exit 223 - Accident.,20,15,0,Light Rain
-39.783247,-105.127782,3,6/21/2019 20:37,20,6,Day,At Kipling St/Exit 267 - Accident.,5,3,0,Light Rain
-39.77012,-104.99179,3,6/22/2019 14:55,14,6,Day,At I-70/Exit 214 - Accident.,10,0,0,Light Rain
-39.643813,-104.912912,3,6/27/2019 18:30,18,6,Day,At US-285/Hampden Ave/Exit 201 - Accident.,10,9,0,Light Rain
-39.78377,-105.096181,3,6/30/2019 18:40,18,6,Day,At Kipling St/Exit 267 - Accident.,10,13,0,Light Rain
-39.555111,-104.870529,3,6/1/2019 14:32,14,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,28,0,Light Rain
-39.54929,-104.86938,3,6/1/2019 14:32,14,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,28,0,Light Rain
-39.555111,-104.870529,4,6/1/2019 13:43,13,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,13,0,Light Rain
-39.54929,-104.86938,4,6/1/2019 13:43,13,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,13,0,Light Rain
-39.113308,-104.865658,3,7/4/2019 16:51,16,7,Day,At CO-105/Exit 161 - Accident.,10,14,0,Light Rain
-39.77012,-104.99179,3,7/4/2019 19:19,19,7,Day,At Park Ave/Exit 213 - Accident. Left lane blocked.,10,6,0,Light Rain
-39.77012,-104.99179,2,7/4/2019 20:22,20,7,Day,At Park Ave/Exit 213 - Accident. Left lane blocked.,10,3,0,Light Rain
-39.815443,-104.98299,3,7/4/2019 19:57,19,7,Day,At I-76/Exit 216 - Accident.,10,3,0,Light Rain
-39.723457,-105.011526,3,7/4/2019 21:33,21,7,Night,At US-6/6th Ave/Exit 209 - Accident.,10,5,0,Light Rain
-39.84497,-104.9846,3,7/14/2019 13:23,13,7,Day,At 84th Ave/Exit 219 - Accident.,20,15,0,Light Rain
-39.933124,-105.123779,3,7/24/2019 17:39,17,7,Day,At 96th St/Storagetek Dr - Accident.,30,18,0,Light Rain
-39.630035,-104.905278,3,7/25/2019 13:37,13,7,Day,At I-225 - Accident.,10,9,0,Light Rain
-39.35653,-106.05986,3,12/27/2019 12:40,12,12,Day,At CR-10/Park Hill Rd - Accident.,1,0,0,Light Snow
-39.75418,-105.65942,3,12/27/2019 16:36,16,12,Day,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,3,3,0,Light Snow
-39.75418,-105.65942,2,12/27/2019 18:55,18,12,Night,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,6,3,0,Light Snow
-39.75418,-105.65942,3,12/27/2019 16:56,16,12,Day,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,3,3,0,Light Snow
-39.78924,-104.90619,3,12/28/2019 9:24,9,12,Day,At US-85/CO-2/Vasquez Blvd/Exit 2 - Accident.,1,18,0,Light Snow
-39.68426,-104.82898,3,12/28/2019 11:24,11,12,Day,At Iliff Ave/Exit 5 - Accident.,3,16,0,Light Snow
-39.29875,-104.89064,3,12/28/2019 14:34,14,12,Day,At Tomah Rd/Exit 174 - Accident.,0.75,,0,Light Snow
-38.60514,-107.97337,4,12/28/2019 20:41,20,12,Night,Closed between Montrose and Delta - Road closed due to accident.,3,3,0,Light Snow
-39.12382,-104.86469,3,12/28/2019 20:08,20,12,Night,At County Line Rd/Exit 163 - Accident.,8,15,0,Light Snow
-39.12382,-104.86469,3,12/28/2019 21:14,21,12,Night,At County Line Rd/Exit 163 - Accident.,8,15,0,Light Snow
-39.75964,-105.65416,3,12/5/2019 10:51,10,12,Day,At US-40/Exit 232 - Accident.,5,14,0,Light Snow
-39.82424,-104.96196,3,12/5/2019 13:23,13,12,Day,Ramp to I-270 - Accident.,0.75,6,0,Light Snow
-39.74984,-105.01722,3,12/5/2019 19:05,19,12,Night,At 23rd Ave/Exit 211 - Accident.,3,0,0,Light Snow
-39.52397,-107.777,4,12/12/2019 9:48,9,12,Day,Closed between CO-13/Taughenbaugh Blvd/Exit 90 and CR-240/Exit 105 - Road closed due to accident.,2,3,0,Light Snow
-39.52023,-107.79051,4,12/12/2019 8:55,8,12,Day,Closed at CO-13/Taughenbaugh Blvd/Exit 90 - Road closed due to accident.,1,3,0,Light Snow
-39.60797,-106.08053,4,12/14/2019 19:26,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Road marking work.,1,13,0,Light Snow
-39.67759,-105.93947,4,12/14/2019 19:38,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Road marking work.,2,14,0,Light Snow
-39.31624,-106.05716,3,12/14/2019 22:31,22,12,Night,At CR-10/Park Hill Rd - Accident.,5,3,0,Light Snow
-39.31624,-106.05716,3,12/14/2019 20:11,20,12,Night,At CR-850/Blue Lakes Rd - Accident.,2,3,0,Light Snow
-39.60797,-106.08053,4,12/14/2019 19:06,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,3,12,0,Light Snow
-39.2911,-106.0666,3,12/14/2019 22:21,22,12,Night,Between CR-10/Park Hill Rd and S Main St - Accident. Single alternate lane traffic.,3,5,0,Light Snow
-39.2911,-106.0666,3,12/14/2019 22:39,22,12,Night,Between CR-10/Park Hill Rd and S Main St - Accident. Single alternate lane traffic.,5,3,0,Light Snow
-38.06718,-104.71224,3,12/15/2019 10:22,10,12,Day,At Exit 83 - Accident.,3,3,0,Light Snow
-38.06724,-104.71243,3,12/15/2019 10:22,10,12,Day,At CR-345/Exit 77 - Accident.,3,3,0,Light Snow
-38.06718,-104.71224,3,12/15/2019 11:11,11,12,Day,At Exit 83 - Accident.,2,6,0,Light Snow
-39.36824,-104.86484,3,12/15/2019 17:43,17,12,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,4,,0,Light Snow
-40.33197,-104.98005,3,10/10/2019 6:23,6,10,Night,At CO-60/Exit 252 - Accident.,1,17,0,Light Snow
-39.84209,-105.03965,3,10/10/2019 6:09,6,10,Night,At Federal Blvd - Accident.,4,8,0,Light Snow
-39.72527,-105.17192,3,10/10/2019 6:41,6,10,Day,At Denver West Colorado Mills Blvd - Accident.,2,8,0,Light Snow
-39.79723,-105.04791,3,10/10/2019 7:12,7,10,Day,Ramp to CO-95/Sheridan Blvd - Accident.,1,8,0,Light Snow
-39.79723,-105.04791,3,10/10/2019 6:33,6,10,Night,At CO-95/Sheridan Blvd/Exit 1 - Accident.,2,8,0,Light Snow
-39.79691,-105.04863,3,10/10/2019 6:33,6,10,Night,At CO-95/Sheridan Blvd/Exit 1 - Accident.,2,8,0,Light Snow
-39.83505,-105.02072,3,10/10/2019 6:39,6,10,Day,At Federal Blvd - Accident.,2,8,0,Light Snow
-39.71111,-104.82667,3,10/10/2019 7:15,7,10,Day,At E Alameda Ave/Exit 8 - Accident.,3,5,0,Light Snow
-39.71162,-104.99944,3,10/10/2019 7:00,7,10,Day,At CO-26/Alameda Ave/Exit 208 - Accident.,4,12,0,Light Snow
-39.7783,-104.89807,3,10/10/2019 7:12,7,10,Day,At I-270/Exit 279 - Accident.,1,8,0,Light Snow
-39.56346,-104.88799,3,10/10/2019 7:15,7,10,Day,At Quebec St - Accident.,4,12,0,Light Snow
-39.72968,-104.82517,3,10/10/2019 7:36,7,10,Day,At CO-30/6th Ave/Exit 9 - Accident.,2,7,0,Light Snow
-39.90016,-104.98816,3,10/10/2019 10:18,10,10,Day,At 104th Ave/Exit 221 - Accident.,0.75,6,0,Light Snow
-39.92445,-105.1112,3,10/10/2019 10:16,10,10,Day,At Wadsworth Pky/CO-121/CO-128 - Accident.,0.75,6,0,Light Snow
-39.88521,-104.98766,3,10/10/2019 10:06,10,10,Day,At 104th Ave/Exit 221 - Accident.,0.75,6,0,Light Snow
-39.8276,-104.98729,3,10/10/2019 11:44,11,10,Day,At Broadway - Accident.,0.75,7,0,Light Snow
-39.78364,-105.00322,3,10/10/2019 10:20,10,10,Day,At Pecos St/Exit 273 - Accident.,0.75,6,0,Light Snow
-39.82745,-104.98729,3,10/10/2019 10:12,10,10,Day,At I-25/US-87 - Accident.,0.75,6,0,Light Snow
-39.92397,-105.11001,3,10/10/2019 10:16,10,10,Day,At E Flatiron Crossing Dr - Accident.,0.75,6,0,Light Snow
-39.91631,-105.09464,3,10/10/2019 10:58,10,10,Day,At US-36/Denver-Boulder Tpke - Accident.,0.75,6,0,Light Snow
-39.6676,-104.83008,3,10/10/2019 12:52,12,10,Day,At Iliff Ave/Exit 5 - Accident.,3,6,0,Light Snow
-39.77966,-104.97237,3,10/10/2019 12:20,12,10,Day,At Brighton Blvd/Exit 275 - Accident.,0.75,7,0,Light Snow
-38.32278,-104.69676,3,10/10/2019 13:38,13,10,Day,At Purcell Blvd - Accident.,1,12,0,Light Snow
-39.6831,-105.88792,4,10/18/2019 8:03,8,10,Day,Closed between US-6/Exit 216 and I-70-BR/US-5/US-6/Exit 26 - Road closed due to accident. Maintenance work.,1,0,0,Light Snow
-39.34842,-105.83639,3,10/20/2019 9:21,9,10,Day,At CR-34/Packer Ln - Accident.,3,14,0,Light Snow
-39.34578,-105.84176,3,10/20/2019 9:21,9,10,Day,At CR-77/Tarryall Rd - Accident.,3,14,0,Light Snow
-39.64285,-106.37219,3,10/20/2019 14:58,14,10,Day,At Bighorn Rd/Exit 180 - Accident.,4,14,0,Light Snow
-39.52986,-106.21612,4,10/21/2019 8:09,8,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,2,9,0,Light Snow
-39.5299,-106.21611,4,10/21/2019 10:02,10,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,2,7,0,Light Snow
-39.60459,-104.89035,3,10/23/2019 15:49,15,10,Day,At Orchard Rd/Exit 198 - Accident.,4,15,0,Light Snow
-39.60459,-104.89035,3,10/23/2019 16:19,16,10,Day,At Orchard Rd/Exit 198 - Accident.,5,18,0,Light Snow
-39.31858,-106.33507,4,10/24/2019 2:43,2,10,Night,Closed at CO-91 - Road closed due to accident.,4,7,0,Light Snow
-39.27279,-106.3111,4,10/24/2019 2:43,2,10,Night,Closed at CR-20/Deer Crossing Dr - Road closed due to accident.,4,7,0,Light Snow
-39.11424,-104.8655,3,10/24/2019 6:09,6,10,Night,At County Line Rd/Exit 163 - Accident.,6,10,0,Light Snow
-39.78432,-105.11509,3,10/27/2019 8:25,8,10,Day,At CO-72/44th Ave/Ward Rd/Exit 266 - Accident.,2,7,0,Light Snow
-39.79794,-104.98667,3,10/27/2019 9:35,9,10,Day,At 58th Ave/Exit 215 - Accident.,1,8,0,Light Snow
-39.93942,-104.98779,3,10/27/2019 9:53,9,10,Day,At 136th Ave - Accident.,2,9,0,Light Snow
-40.11692,-104.98021,3,10/27/2019 17:53,17,10,Day,At CO-52/Exit 235 - Accident.,4,8,0,Light Snow
-39.78407,-104.98937,3,10/27/2019 20:19,20,10,Night,At I-70/Exit 214 - Accident.,1,8,0,Light Snow
-39.6595,-106.6368,3,10/27/2019 20:43,20,10,Night,At CO-131/Exit 157 - Accident.,1,9,0,Light Snow
-39.566,-104.87238,3,10/27/2019 23:13,23,10,Night,At County Line Rd/Exit 195 - Accident.,0.5,8,0,Light Snow
-39.62303,-105.19424,4,10/28/2019 4:13,4,10,Night,Closed between CO-470 and CR-120/S Parmalee Gulch Rd - Road closed due to accident. Maintenance work.,1,3,0,Light Snow
-39.83848,-104.98352,3,10/28/2019 8:09,8,10,Day,At 84th Ave/Exit 219 - Accident.,2,6,0,Light Snow
-39.73479,-105.01503,3,10/28/2019 8:45,8,10,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,1,6,0,Light Snow
-39.73808,-105.01387,4,10/28/2019 8:49,8,10,Day,Ramp closed to Exit 210B - Road closed due to accident.,1,6,0,Light Snow
-39.83029,-105.0044,3,10/28/2019 10:29,10,10,Day,At Pecos St - Accident.,6,0,0,Light Snow
-39.88521,-104.98766,3,10/28/2019 11:21,11,10,Day,At 104th Ave/Exit 221 - Accident.,6,0,0,Light Snow
-37.06382,-104.52031,3,10/28/2019 9:11,9,10,Day,At US-85/Exit 8 - Accident.,1,13,0,Light Snow
-39.64871,-104.9161,3,10/29/2019 6:07,6,10,Night,At I-225 - Accident.,0.75,13,0,Light Snow
-39.63005,-104.90502,3,10/29/2019 11:15,11,10,Day,At I-225 - Accident.,0.5,14,0,Light Snow
-39.27349,-103.70317,4,10/29/2019 12:39,12,10,Day,Closed between I-70-BL/US-287/US-40/Exit 361 and E-470/Exit 289 - Road closed due to accident. Road marking work.,8,16,0,Light Snow
-39.51999,-104.86709,3,10/29/2019 13:43,13,10,Day,At Lincoln Ave/Exit 193 - Accident.,0.75,10,0,Light Snow
-39.6676,-104.83008,3,10/29/2019 15:51,15,10,Day,At Iliff Ave/Exit 5 - Accident.,2,13,0,Light Snow
-39.73479,-105.01503,3,10/29/2019 16:03,16,10,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,1,10,0,Light Snow
-39.91393,-104.98993,3,10/30/2019 0:51,0,10,Night,At CO-128/120th Ave/Exit 223 - Accident.,2,5,0,Light Snow
-39.80003,-104.98559,3,10/30/2019 0:25,0,10,Night,At 58th Ave/Exit 215 - Accident.,3,6,0,Light Snow
-39.91127,-104.99075,4,10/30/2019 2:20,2,10,Night,Closed at 104th Ave/Exit 221 - Road closed due to accident. Road marking work.,3,6,0,Light Snow
-39.51999,-104.86709,3,10/30/2019 6:17,6,10,Night,At Lincoln Ave/Exit 193 - Accident.,6,5,0,Light Snow
-39.18353,-104.85036,3,10/30/2019 6:55,6,10,Night,At County Line Rd/Exit 163 - Accident.,4,,0,Light Snow
-39.5299,-106.21611,4,10/30/2019 7:50,7,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,6,7,0,Light Snow
-39.74741,-104.74411,3,10/30/2019 7:29,7,10,Day,At CO-32/Tower Rd/Exit 286 - Accident.,6,5,0,Light Snow
-39.77514,-104.86001,3,10/30/2019 9:13,9,10,Day,At Peoria St/Exit 281 - Accident.,3,5,0,Light Snow
-39.6676,-104.83008,3,10/30/2019 9:23,9,10,Day,At Iliff Ave/Exit 5 - Accident.,3,5,0,Light Snow
-39.95073,-105.15447,3,10/30/2019 10:03,10,10,Day,At Flatiron Cir - Accident.,3,8,0,Light Snow
-39.53682,-104.86859,3,11/11/2019 7:05,7,11,Day,At Lincoln Ave/Exit 193 - Accident.,2,6,0,Light Snow
-39.50662,-106.20242,3,11/11/2019 7:15,7,11,Day,At CO-91/Exit 195 - Accident.,1,7,0,Light Snow
-38.25731,-104.93246,3,11/11/2019 7:57,7,11,Day,At CR-200/Red Creek Rd - Accident.,9,9,0,Light Snow
-37.49399,-104.66965,3,11/11/2019 9:45,9,11,Day,At CR-310/Exit 41 - Accident.,5,7,0,Light Snow
-39.77287,-105.17474,4,11/11/2019 9:35,9,11,Day,Closed between CR-58/44th Ave and I-70 - Road closed due to accident.,4,0,0,Light Snow
-39.77516,-105.15045,4,11/11/2019 9:35,9,11,Day,Ramp closed to McIntyre Street - Road closed due to accident.,4,0,0,Light Snow
-39.6584,-104.9209,3,11/21/2019 12:17,12,11,Day,At US-285/Hampden Ave/Exit 201 - Accident.,2,3,0,Light Snow
-39.81286,-104.98305,3,11/21/2019 13:34,13,11,Day,At I-76/Exit 216 - Accident.,1,0,0,Light Snow
-39.73597,-105.0144,3,11/21/2019 16:12,16,11,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,3,6,0,Light Snow
-39.70185,-105.20201,3,11/21/2019 22:38,22,11,Night,At CO-470/Exit 260 - Accident.,4,3,0,Light Snow
-39.71446,-105.1927,3,11/21/2019 22:38,22,11,Night,Between US-6/6th Ave/Exit 261 and I-70-BL/US-40/CO-26/Exit 259 - Accident.,4,3,0,Light Snow
-37.65362,-104.7895,3,11/22/2019 3:42,3,11,Night,At CO-10/Exit 50 - Accident.,7,10,0,Light Snow
-38.88153,-104.83611,3,11/22/2019 7:09,7,11,Day,At CO-38/Fillmore St/Exit 145 - Accident.,0.75,3,0,Light Snow
-38.87324,-104.83453,2,11/22/2019 5:35,5,11,Night,Between CO-38/Fillmore St/Exit 145 and Fontanero St/Exit 144 - Accident. Left lane blocked.,1,0,0,Light Snow
-38.87324,-104.83453,3,11/22/2019 5:35,5,11,Night,Between Garden of the Gods Rd/Exit 146 and Fontanero St/Exit 144 - Accident. Left lane blocked. Road surface in poor condition.,1,0,0,Light Snow
-38.87324,-104.83453,3,11/22/2019 5:55,5,11,Night,Between Garden of the Gods Rd/Exit 146 and Fontanero St/Exit 144 - Accident. Left lane blocked. Road surface in poor condition.,1,0,0,Light Snow
-39.27735,-103.75256,3,11/22/2019 8:30,8,11,Day,At CR-118/Exit 354 - Accident.,6,8,0,Light Snow
-38.72512,-104.73299,4,11/22/2019 9:41,9,11,Day,Closed between US-85/US-87/Exit 128 and CO-83/Academy Blvd/Exit 135 - Road closed due to accident. Road surface in poor condition.,4,0,0,Light Snow
-38.72801,-104.73592,3,11/22/2019 9:48,9,11,Day,At CO-83/Academy Blvd/Exit 135 - Accident.,4,0,0,Light Snow
-38.56854,-104.65515,3,11/22/2019 13:06,13,11,Day,At El Centro Blvd/Exit 119 - Accident.,10,3,0,Light Snow
-40.40661,-104.86504,3,3/13/2019 16:24,16,3,Day,At CO-257/CR-19/CR-21 - Accident.,0.8,41.4,0,Light Snow
-39.31809,-105.87977,3,3/29/2019 20:30,20,3,Night,At CR-34/Packer Ln - Accident.,4,3.5,0,Light Snow
-38.89784,-104.82992,3,3/30/2019 8:54,8,3,Day,At Garden of the Gods Rd/Exit 146 - Accident.,10,16.1,0,Light Snow
-38.901003,-104.828623,3,3/30/2019 7:37,7,3,Day,At Garden of the Gods Rd/Exit 146 - Accident. Right lane blocked.,2,10.4,0,Light Snow
-39.113308,-104.865658,3,3/30/2019 7:44,7,3,Day,At CO-105/Exit 161 - Accident.,2,10.4,0,Light Snow
-39.44505,-104.87575,3,3/1/2019 12:40,12,3,Day,At Castle Rock Pkwy/Exit 185 - Accident.,4,13.8,0,Light Snow
-40.726144,-104.993369,3,3/2/2019 4:23,4,3,Night,At Owl Canyon Road/Exit 281 - Accident.,1,20.7,0,Light Snow
-40.35979,-104.98377,3,3/2/2019 7:15,7,3,Day,At CR-16/Exit 254 - Accident.,1.2,12.7,0,Light Snow
-39.44541,-104.87551,3,3/2/2019 15:00,15,3,Day,At Happy Canyon Rd/Exit 187 - Accident.,4,18.4,0,Light Snow
-40.305603,-104.357427,3,3/2/2019 20:38,20,3,Night,At CO-37/CR-53 - Accident.,1.8,9.2,0,Light Snow
-40.320763,-104.405703,3,3/2/2019 20:38,20,3,Night,At CR-87 - Accident.,1.8,9.2,0,Light Snow
-39.555111,-104.870529,3,3/3/2019 14:22,14,3,Day,At CO-470/E-470/Exit 194 - Accident.,2,4.6,0,Light Snow
-37.462951,-104.6582,3,3/3/2019 20:17,20,3,Night,At CR-310/Exit 41 - Accident.,5,,0,Light Snow
-39.57938,-105.02594,4,2/6/2019 11:19,11,2,Day,Closed between Mineral Ave and Santa Fe Dr - Road closed due to accident.,1,9.2,0,Light Snow
-39.72538,-105.02993,3,2/6/2019 16:13,16,2,Day,At CO-88/Federal Blvd - Accident. Lane blocked.,1.5,10.4,0,Light Snow
-39.42908,-104.87908,2,2/6/2019 19:58,19,2,Night,At Castle Rock Pkwy/Exit 185 - Accident. Left lane blocked.,9,6.9,0,Light Snow
-39.56392,-104.87177,3,2/6/2019 20:10,20,2,Night,At County Line Rd/Exit 195 - Accident.,2,8.1,0,Light Snow
-39.712048,-104.999689,3,2/6/2019 20:26,20,2,Night,At CO-26/Alameda Ave/Exit 208 - Accident.,2,8.1,0,Light Snow
-39.712048,-104.999689,3,2/6/2019 21:22,21,2,Night,At CO-26/Alameda Ave/Exit 208 - Accident.,0.8,8.1,0,Light Snow
-39.63541,-104.901324,3,2/16/2019 13:31,13,2,Day,At I-25/Exit 1 - Accident. Right lane blocked.,0.8,15,0,Light Snow
-39.63541,-104.90282,3,2/16/2019 13:31,13,2,Day,Ramp to I-225 - Accident. Right lane blocked.,0.8,15,0,Light Snow
-39.44541,-104.87551,3,2/18/2019 6:08,6,2,Night,At Happy Canyon Rd/Exit 187 - Accident.,3,6.9,0,Light Snow
-40.700179,-104.99916,3,2/18/2019 16:44,16,2,Day,At Mountain Vista Dr/Exit 271 - Accident.,9,,0,Light Snow
-39.7149,-104.827,3,2/18/2019 18:52,18,2,Night,At E Alameda Ave/Exit 8 - Accident.,9,8.1,0,Light Snow
-39.72968,-104.82517,2,2/18/2019 19:13,19,2,Night,At CO-30/6th Ave/Exit 9 - Accident. Lane blocked.,9,8.1,0,Light Snow
-39.377359,-106.19358,4,2/18/2019 19:30,19,2,Night,Closed at I-70/US-6/Exit 195 - Road closed due to accident.,1.8,6.9,0,Light Snow
-39.60617,-104.89161,3,2/19/2019 11:53,11,2,Day,At CO-88/Arapahoe Rd/Exit 197 - Accident.,3,4.6,0,Light Snow
-39.643813,-104.912912,3,2/19/2019 16:24,16,2,Day,At US-285/Hampden Ave/Exit 201 - Accident.,8,9.2,0,Light Snow
-40.481129,-104.737802,4,2/20/2019 8:00,8,2,Day,Closed between US-85 and CR-27 - Road closed due to accident.,0.2,,0,Light Snow
-40.48043,-104.81632,4,2/20/2019 8:00,8,2,Day,Closed between CR-27 and US-85 - Road closed due to accident.,0.2,,0,Light Snow
-40.481129,-104.737802,4,2/20/2019 9:21,9,2,Day,Closed between Pikes Peak Dr and County Road 27 - Road closed due to accident.,4,3.5,0,Light Snow
-40.48043,-104.81632,4,2/20/2019 9:21,9,2,Day,Closed between County Road 27 and Pikes Peak Dr - Road closed due to accident.,4,3.5,0,Light Snow
-40.40703,-104.997712,3,2/22/2019 6:36,6,2,Day,At I-25/US-87 - Accident.,2.5,8.1,0,Light Snow
-39.384282,-108.149316,3,2/22/2019 8:02,8,2,Day,At CR-215/Exit 75 - Accident.,2,,0,Light Snow
-39.384282,-108.149316,3,2/22/2019 8:21,8,2,Day,At CR-215/Exit 75 - Accident.,1.5,,0,Light Snow
-38.23983,-104.61179,3,2/26/2019 3:15,3,2,Night,At Central Avenue/Exit 97 - Accident. Left lane blocked.,0.5,5.8,0,Light Snow
-39.566223,-104.872419,3,1/1/2019 1:13,1,1,Night,At County Line Rd/Exit 195 - Accident.,1.5,,0,Light Snow
-39.633586,-104.906788,3,1/12/2019 1:56,1,1,Night,At I-225 - Accident.,1,10.4,0,Light Snow
-39.50696,-104.87279,3,1/12/2019 6:20,6,1,Night,At Oak Ln/Exit 190 - Accident.,3,5.8,0,Light Snow
-38.433728,-106.757281,4,1/21/2019 21:45,21,1,Night,Closed at Cr-ww13 - Road closed due to accident.,2.5,3.5,0,Light Snow
-38.433729,-106.757281,4,1/21/2019 22:27,22,1,Night,Closed at Cr-ww13 - Road closed due to accident.,8,3.5,0,Light Snow
-39.50741,-104.87237,3,1/22/2019 9:29,9,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,4,23,0,Light Snow
-39.50741,-104.87237,3,1/22/2019 9:35,9,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,5,21.9,0,Light Snow
-37.759617,-102.603427,3,1/22/2019 12:31,12,1,Day,At CR-8.2 - Accident.,3,25.3,0,Light Snow
-37.762813,-102.604931,3,1/22/2019 12:31,12,1,Day,At CO-116/Cr-rr - Accident.,3,25.3,0,Light Snow
-39.16867,-106.00183,3,1/23/2019 16:24,16,1,Day,At US-24 - Accident.,2.5,9.2,0,Light Snow
-39.52242,-107.78233,4,1/24/2019 9:14,9,1,Day,Closed between US-6/Exit 87 and Manncreek Rd/Exit 94 - Road closed due to accident.,5,,0,Light Snow
-38.097818,-104.688153,3,1/28/2019 10:16,10,1,Day,At Verde Rd/Exit 87 - Accident.,0.8,16.1,0,Light Snow
-39.88534,-104.88172,4,1/28/2019 10:23,10,1,Day,Closed at 112th Ave - Road closed due to accident.,2,17.3,0,Light Snow
-39.522981,-104.8675,3,1/28/2019 11:52,11,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,1.8,,0,Light Snow
-39.57531,-106.11292,4,4/10/2019 11:52,11,4,Day,Closed between CO-9/Exit 203 and CR-1220/CR-1070/Exit 198 - Road closed due to accident. Road surface in poor condition.,3,9,0,Light Snow
-39.98766,-105.23704,3,4/10/2019 18:40,18,4,Day,At Table Mesa Dr - Accident.,1,14,0,Light Snow
-39.72525,-105.134316,3,4/10/2019 18:46,18,4,Day,At Union Blvd/Simms St - Accident.,0.5,17,0,Light Snow
-39.78343,-105.06275,3,4/10/2019 20:37,20,4,Night,At Harlan St/Exit 270 - Accident.,0.5,10,0,Light Snow
-39.72542,-105.022004,3,4/10/2019 20:43,20,4,Night,At CO-88/Federal Blvd - Accident.,0.5,10,0,Light Snow
-39.7258,-105.00963,4,4/10/2019 20:46,20,4,Night,Ramp closed to US-6/6th Ave/Exit 209 - Road closed due to accident.,0.5,10,0,Light Snow
-39.671491,-104.9282,3,4/11/2019 5:43,5,4,Night,At Evans Ave/Exit 203 - Accident.,1,6,0,Light Snow
-39.630035,-104.905278,3,4/11/2019 5:42,5,4,Night,At I-225 - Accident.,1,6,0,Light Snow
-39.289595,-104.895339,3,4/11/2019 6:30,6,4,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,7,14,0,Light Snow
-39.349147,-104.872365,3,4/12/2019 15:52,15,4,Day,At Tomah Rd/Exit 174 - Accident.,2,13,0,Light Snow
-39.635563,-104.894489,2,4/12/2019 17:54,17,4,Day,Between Yosemite St/Exit 2 and I-25/Exit 1 - Accident. Right lane blocked.,4,13,0,Light Snow
-39.8304,-105.00535,3,4/12/2019 22:08,22,4,Night,At Pecos St - Accident.,7,6,0,Light Snow
-39.815443,-104.98299,3,4/12/2019 22:32,22,4,Night,At I-76/Exit 216 - Accident.,7,5,0,Light Snow
-39.566223,-104.872419,3,4/13/2019 12:58,12,4,Day,At County Line Rd/Exit 195 - Accident.,9,3,0,Light Snow
-39.113239,-104.865383,3,4/13/2019 16:49,16,4,Day,At County Line Rd/Exit 163 - Accident.,5,5,0,Light Snow
-39.62763,-106.06916,4,4/28/2019 22:07,22,4,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Wet and icy roads.,2,0,0,Light Snow
-40.174925,-104.97997,3,4/29/2019 17:01,17,4,Day,At CO-119/Exit 240 - Accident.,1,0,0,Light Snow
-40.199032,-104.98038,3,4/29/2019 17:29,17,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,5,0,0,Light Snow
-40.199032,-104.98038,3,4/29/2019 19:07,19,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,3,0,0,Light Snow
-39.77969,-104.971915,3,4/29/2019 18:40,18,4,Day,At Brighton Blvd/Exit 275 - Accident.,1,0,0,Light Snow
-39.125577,-104.86466,3,5/8/2019 22:44,22,5,Night,At CO-105/Exit 161 - Accident.,4,15,0,Light Snow
-39.18985,-104.85064,2,5/8/2019 22:56,22,5,Night,At Greenland Rd/Exit 167 - Accident.,4,16,0,Light Snow
-39.604871,-105.22938,3,5/9/2019 4:29,4,5,Night,At CR-64/N Turkey Creek Rd - Accident.,4,9,0,Light Snow
-39.61595,-105.23241,4,5/9/2019 5:48,5,5,Day,Closed at Brookmont Rd - Road closed due to accident.,1,10,0,Light Snow
-39.461031,-104.87428,3,5/9/2019 6:23,6,5,Day,At Castle Pines Pky/Exit 188 - Accident.,6,10,0,Light Snow
-39.78012,-104.951889,3,5/9/2019 7:35,7,5,Day,At Steele St/Exit 276 - Accident.,1,5,0,Light Snow
-39.937247,-104.98793,3,5/9/2019 7:45,7,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,2,3,0,Light Snow
-39.77841,-104.91289,3,5/9/2019 14:15,14,5,Day,At Dahlia St/Exit 277 - Accident.,2,5,0,Light Snow
-39.64925,-106.021151,4,5/20/2019 16:13,16,5,Day,Between US-6/CO-9/Exit 205 and US-6/Exit 216 - Multi-vehicle accident involving vehicle.,2,8,0,Light Snow
-39.77836,-104.895773,3,5/20/2019 19:53,19,5,Day,At Quebec St/Exit 278 - Accident.,3,7,0,Light Snow
-39.77841,-104.91289,3,5/20/2019 20:13,20,5,Day,At Dahlia St/Exit 277 - Accident.,3,7,0,Light Snow
-39.37038,-104.86441,4,5/21/2019 4:04,4,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,2,12,0,Light Snow
-39.37038,-104.86441,4,5/21/2019 5:05,5,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,1,13,0,Light Snow
-39.139459,-104.862336,3,5/21/2019 6:56,6,5,Day,At County Line Rd/Exit 163 - Accident.,1,17,0,Light Snow
-39.65655,-104.84673,2,5/21/2019 10:24,10,5,Day,At CO-83/Parker Rd/Exit 4 - Accident.,3,12,0,Light Snow
-39.885439,-104.98767,3,5/21/2019 9:50,9,5,Day,At 104th Ave/Exit 221 - Accident.,1,12,0,Light Snow
-39.900221,-104.988178,3,5/21/2019 10:10,10,5,Day,At 104th Ave/Exit 221 - Accident.,1,12,0,Light Snow
-39.85214,-104.98638,2,5/21/2019 10:17,10,5,Day,At 84th Ave/Exit 219 - Accident.,8,10,0,Light Snow
-39.6458,-106.31097,3,5/21/2019 16:33,16,5,Day,At Bighorn Rd/Exit 180 - Accident.,3,12,0,Light Snow
-39.844169,-104.98467,3,4/30/2019 2:00,2,4,Night,At US-36/Exit 217 - Accident.,4,5,0,Light Snow
-37.883977,-107.888371,4,5/1/2019 12:46,12,5,Day,Closed at CR-630/Cr-d65 - Road closed due to accident.,7,0,0,Light Snow
-37.86182,-107.87005,4,5/1/2019 12:46,12,5,Day,Closed at CO-145-spur - Road closed due to accident.,7,0,0,Light Snow
-39.36824,-104.86484,3,12/28/2019 12:44,12,12,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,1,40,0,Light Snow
-39.6298,-104.90516,3,12/28/2019 13:12,13,12,Day,At I-225 - Accident.,0.75,21,0,Light Snow
-38.28907,-104.60679,3,10/29/2019 14:25,14,10,Day,At US-50/Exit 100 - Accident.,1,25,0,Light Snow
-37.316615,-108.077987,4,4/10/2019 16:45,16,4,Day,Closed at Highway 160 Business - Road closed due to accident.,6,22,0,Light Snow
-39.555111,-104.870529,3,4/10/2019 20:19,20,4,Night,At CO-470/E-470/Exit 194 - Accident.,0.75,22,0,Light Snow
-39.08669,-104.86124,2,5/21/2019 6:32,6,5,Day,At CO-105/Exit 161 - Accident. Road surface in poor condition.,1,21,0,Light Snow
-39.12827,-104.86392,2,5/21/2019 7:03,7,5,Day,At County Line Rd/Exit 163 - Accident.,0.88,21,0,Light Snow
-38.998051,-104.77843,3,5/21/2019 8:16,8,5,Day,At CO-83 - Accident.,8,26,0,Light Snow
-38.901003,-104.828623,2,5/21/2019 8:47,8,5,Day,At Garden of the Gods Rd/Exit 146 - Accident.,7,23,0,Light Snow
-39.51046,-106.14422,4,5/23/2019 19:26,19,5,Day,Closed between CO-91/Exit 195 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,1,22,0,Light Snow
-39.438798,-105.751709,3,5/20/2019 13:31,13,5,Day,At CR-872 - Accident.,3,18,0,Light Snow
 39.72543,-105.09776,3,12/7/2019 13:50,13,12,Day,At CR-31 - Accident.,20,39,0,Fair
 39.85574,-104.98716,3,12/7/2019 18:36,18,12,Night,At 84th Ave/Exit 219 - Accident.,10,22,0,Fair
 39.88472,-104.98766,3,12/7/2019 18:38,18,12,Night,At 104th Ave/Exit 221 - Accident.,10,22,0,Fair
@@ -4372,8 +3808,6 @@
 39.7839,-105.0251,4,8/15/2019 13:24,13,8,Day,Ramp closed to Federal Blvd/Exit 272 - Road closed due to accident.,10,24,0,Fair
 40.174815,-104.97997,3,8/17/2019 15:45,15,8,Day,At CO-119/Exit 240 - Accident.,7,28,0,Fair
 40.177779,-104.98002,3,8/17/2019 15:45,15,8,Day,At CO-119/Exit 240 - Accident. Lane blocked.,7,28,0,Fair
-39.90016,-104.98816,3,11/7/2019 11:54,11,11,Day,At 104th Ave/Exit 221 - Accident.,8,0,0,Fog
-39.73664,-105.01436,3,5/28/2019 19:52,19,5,Day,At Zuni St/Exit 209C - Accident.,3,13,0,Rain
 39.86397,-104.98748,3,10/23/2019 17:23,17,10,Day,At Thornton Pky/Exit 220 - Accident.,10,25,0,Fair
 39.78004,-104.93171,3,9/27/2019 15:37,15,9,Day,At Monaco St/Exit 277 - Accident.,10,17,0,Fair
 39.77828,-104.91709,3,9/27/2019 15:04,15,9,Day,Between Dahlia St/Exit 277 and Quebec St/Exit 278 - Accident. Left lane blocked.,10,8,0,Fair
@@ -4418,47 +3852,6 @@
 39.79794,-104.98667,3,8/8/2019 15:39,15,8,Day,At 58th Ave/Exit 215 - Accident.,10,6,0,Fair
 39.643471,-105.176512,3,8/8/2019 16:37,16,8,Day,At CO-8/Morrison Rd - Accident.,10,6,0,Fair
 39.7847,-105.08638,3,8/21/2019 19:41,19,8,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,15,12,0,Fair
-37.63082,-104.76795,3,12/28/2019 14:48,14,12,Day,At CO-10/Exit 50 - Accident.,0.25,3,0,Snow
-37.72112,-104.82224,3,12/15/2019 11:53,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Snow
-37.7211,-104.82223,3,12/15/2019 11:55,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Snow
-37.72112,-104.82224,3,12/15/2019 11:58,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Snow
-39.80963,-104.98308,3,10/10/2019 9:27,9,10,Day,At I-76/Exit 216 - Accident.,0.5,9,0,Snow
-39.6978,-105.20628,4,10/23/2019 22:37,22,10,Night,Closed at Grapevine Rd/Exit 256 - Road closed due to accident. Road marking work.,1,0,0,Snow
-39.73813,-104.37745,4,11/6/2019 13:41,13,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,14,0,Snow
-39.74134,-104.62177,4,11/6/2019 13:41,13,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,14,0,Snow
-39.72542,-105.02212,3,11/22/2019 6:09,6,11,Night,At CO-88/Federal Blvd - Accident.,0.75,5,0,Snow
-39.7254,-105.15401,3,11/22/2019 6:57,6,11,Day,At Denver West Colorado Mills Blvd - Accident.,0.75,5,0,Snow
-39.43942,-104.9616,4,3/13/2019 16:48,16,3,Day,Closed at Delva Way - Road closed due to accident.,0.1,28.8,0,Snow
-39.26523,-106.29029,4,1/28/2019 11:05,11,1,Day,Closed between US-24 and I-70/US-6/Exit 195 - Road closed due to accident.,0.5,15,0,Snow
-39.783931,-104.98937,3,4/10/2019 20:01,20,4,Night,At I-70/Exit 214 - Accident.,0.5,9,0,Snow
-39.77133,-104.99073,3,4/10/2019 19:49,19,4,Day,At Park Ave/Exit 213 - Accident.,0.5,9,0,Snow
-39.337434,-104.876639,3,4/12/2019 16:25,16,4,Day,At Tomah Rd/Exit 174 - Accident. Right lane blocked.,0.5,9,0,Snow
-39.78042,-104.99044,2,12/28/2019 13:14,13,12,Day,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,0.5,22,0,Snow / Windy
-38.34313,-104.61977,3,10/29/2019 17:01,17,10,Day,At Pace Rd/Exit 104 - Accident.,0.25,28,0,Snow / Windy
-39.516843,-104.867828,3,4/10/2019 20:31,20,4,Night,At Ridgegate Pkwy/Exit 192 - Accident.,0.5,25,0,Snow / Windy
-39.508202,-104.87215,3,4/10/2019 20:37,20,4,Night,Between Ridgegate Pkwy/Exit 192 and Oak Ln/Exit 190 - Accident. Two lanes blocked.,0.5,25,0,Snow / Windy
-39.026758,-104.833459,3,8/31/2019 14:56,14,8,Day,At Gleneagle Dr/Exit 156 - Accident.,10,13,0,Thunder
-39.565548,-105.067068,3,9/4/2019 15:18,15,9,Day,At CO-121/Wadsworth Blvd - Accident.,10,18,0,Thunder
-39.88192,-104.98746,2,5/26/2019 18:06,18,5,Day,At 104th Ave/Exit 221 - Accident.,15,13,0,Thunder
-40.04062,-104.98037,3,5/28/2019 13:28,13,5,Day,At CR-8/Exit 232 - Accident.,10,16,0,Thunder
-39.987149,-104.98768,3,5/28/2019 14:20,14,5,Day,At E-470/Northwest Pky - Accident.,10,16,0,Thunder
-39.093962,-104.862951,3,6/7/2019 14:39,14,6,Day,At County Line Rd/Exit 163 - Accident.,10,13,0,Thunder
-39.5637,-105.02719,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 - Accident. Lane blocked.,10,12,0,Thunder
-39.56362,-105.03403,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 Eastbound - Accident. Lane blocked.,10,12,0,Thunder
-39.564,-105.03329,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 Eastbound - Accident. Lane blocked.,10,12,0,Thunder
-39.55874,-104.999732,3,6/14/2019 15:05,15,6,Day,At Broadway - Accident.,10,13,0,Thunder
-39.763587,-104.784281,3,6/27/2019 17:58,17,6,Day,At Airport Blvd/Exit 285 - Accident.,10,0,0,Thunder
-38.287875,-104.606232,3,7/1/2019 16:01,16,7,Day,At US-50/Exit 100 - Accident.,10,9,0,Thunder
-39.494648,-105.341378,4,7/7/2019 14:55,14,7,Day,Closed at CR-97/S Foxton Rd - Road closed due to accident.,10,9,0,Thunder
-39.496417,-105.335597,4,7/7/2019 14:23,14,7,Day,Closed at CR-62/Geneva Rd/Guanella Pass Rd - Road closed due to accident.,10,0,0,Thunder
-39.4985,-105.333623,4,7/7/2019 14:55,14,7,Day,Closed at Elk Creek Rd - Road closed due to accident.,10,9,0,Thunder
-39.105571,-104.864532,3,7/13/2019 18:07,18,7,Day,At County Line Rd/Exit 163 - Accident.,10,0,0,Thunder
-39.630035,-104.905278,3,7/20/2019 14:33,14,7,Day,At I-225 - Accident.,10,18,0,Thunder
-38.67294,-104.70881,2,7/22/2019 16:53,16,7,Day,Between US-85/US-87/Exit 128 and CO-16/Exit 132 - Accident.,10,0,0,Thunder
-38.6754,-104.71073,3,8/9/2019 15:15,15,8,Day,At CO-16/Exit 132 - Accident.,10,16,0,Thunder
-39.84661,-104.92396,3,6/8/2019 17:35,17,6,Day,At CO-224/74th Ave/Exit 8 - Accident.,10,22,0,T-Storm
-39.55632,-104.87795,3,6/30/2019 16:13,16,6,Day,At I-25/US-87/E-470 - Accident.,10,21,0,T-Storm
-39.284526,-104.896331,3,8/9/2019 16:38,16,8,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,10,21,0,T-Storm
 39.695722,-105.761418,3,6/2/2019 12:39,12,6,Day,At Woodward Ave/Exit 226 - Accident.,10,24,0,Fair
 40.38127,-104.9936,3,6/3/2019 16:09,16,6,Day,Between US-34/Eisenhower Blvd/Exit 257 and CR-16/Exit 254 - Accident. Left lane blocked.,10,21,0,Fair
 39.76038,-105.00582,3,6/5/2019 19:55,19,6,Day,At 20th St/Exit 212 - Accident.,30,17,0,Fair
@@ -4488,59 +3881,6 @@
 38.42775,-105.076983,4,7/27/2019 18:08,18,7,Day,Closed at CO-115 - Road closed due to accident. Serious fire.,10,14,0,Fair
 38.948456,-104.812579,3,8/10/2019 15:19,15,8,Day,At Academy Blvd/Exit 150 - Accident.,10,9,0,Fair
 39.16516,-104.853074,3,8/11/2019 14:43,14,8,Day,At Greenland Rd/Exit 167 - Accident.,10,13,0,Fair
-39.29276,-103.79761,4,6/14/2019 15:16,15,6,Day,Closed between CR-118/Exit 354 and CO-86/Exit 352 - Road closed due to accident. Vehicle fire. emergency vehicles at scene.,10,14,0,T-Storm
-39.910359,-104.822058,4,6/14/2019 15:47,15,6,Day,Closed between CO-2/Exit 16 and CO-E-470/Exit 18 - Road closed due to accident.,10,10,0,T-Storm
-39.16303,-104.853876,3,6/17/2019 14:13,14,6,Day,At Greenland Rd/Exit 167 - Accident.,10,16,0,T-Storm
-39.44505,-104.87575,3,6/21/2019 14:23,14,6,Day,At Castle Rock Pkwy/Exit 185 - Accident.,4,12,0,T-Storm
-39.78361,-105.099309,3,6/30/2019 18:22,18,6,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,10,13,0,T-Storm
-40.30295,-104.98044,3,7/15/2019 16:36,16,7,Day,At CO-56/Exit 250 - Accident.,10,10,0,T-Storm
-39.82452,-104.95921,3,7/21/2019 22:45,22,7,Night,Between CO-224/74th Ave/Exit 8 and I-25/Exit 5 - Accident. Right lane blocked.,10,8,0,T-Storm
-39.80217,-104.93567,3,7/25/2019 13:27,13,7,Day,At York St/Exit 1 - Accident.,10,9,0,T-Storm
-39.900221,-104.988178,3,6/14/2019 15:53,15,6,Day,At 104th Ave/Exit 221 - Accident.,20,30,0,T-Storm / Windy
-39.776551,-104.876398,3,7/6/2019 15:09,15,7,Day,At Havana Street/Exit 280 - Accident.,10,30,0,T-Storm / Windy
-37.00992,-104.48071,3,11/6/2019 21:06,21,11,Night,At Colorado/New Mexico State Line - Accident.,3,9,0,Wintry Mix
-39.53685,-104.86837,3,11/10/2019 23:33,23,11,Night,At Lincoln Ave/Exit 193 - Accident.,1,9,0,Wintry Mix
-39.65856,-104.92069,3,11/21/2019 6:40,6,11,Day,At Yale Ave/Exit 202 - Accident.,3,6,0,Wintry Mix
-39.65856,-104.92069,3,11/21/2019 7:24,7,11,Day,At Yale Ave/Exit 202 - Accident.,0.75,5,0,Wintry Mix
-39.65856,-104.92069,3,11/21/2019 8:14,8,11,Day,At Yale Ave/Exit 202 - Accident.,1,8,0,Wintry Mix
-39.65899,-105.08145,3,11/21/2019 10:31,10,11,Day,At US-285 - Accident.,2,6,0,Wintry Mix
-39.50839,-104.87186,3,11/21/2019 19:30,19,11,Night,At Ridgegate Pkwy/Exit 192 - Accident.,2,5,0,Wintry Mix
-40.4068,-104.903269,3,5/20/2019 8:25,8,5,Day,At CR-17 - Accident.,8,9,0,Wintry Mix
-37.15404,-102.61544,3,12/29/2019 16:20,16,12,Day,At Colorado/Oklahoma State Line - Accident.,,17,0,
-39.97747,-105.21471,3,10/27/2019 18:35,18,10,Night,At CO-157/Boulder Rd/Foothill Pky - Accident.,,5,0,
-37.21026,-103.6389,3,11/15/2019 22:49,22,11,Night,At CO-389 - Accident.,,7,0,
-37.619391,-103.337461,3,9/27/2019 19:01,19,9,Day,At County Road E - Accident.,,7,0,
-37.643243,-103.361512,4,9/27/2019 17:41,17,9,Day,Closed at County Road E - Road closed due to accident.,,14,0,
-37.643243,-103.361512,4,9/27/2019 18:43,18,9,Day,Closed at County Road E - Road closed due to accident.,,7,0,
-40.07321,-104.206993,4,8/31/2019 13:54,13,8,Day,Closed at CR-5/Cr-f - Road closed due to accident.,10,8,0,
-40.07321,-104.206993,4,8/31/2019 13:54,13,8,Day,Closed at County Road 93 - Road closed due to accident.,10,8,0,
-37.137189,-102.604125,3,4/19/2019 10:45,10,4,Day,At Colorado/Oklahoma State Line - Accident.,,,0,
-39.9189,-104.98784,3,5/21/2019 6:40,6,5,Day,At 136th Ave - Accident.,,,0,
-40.58106,-105.011315,2,6/11/2019 7:23,7,6,Day,At CO-14/Mulberry St/Exit 269 - Accident.,10,0,0,
-40.420196,-105.222893,4,6/11/2019 16:20,16,6,Day,Closed at Moodie St - Road closed due to accident. Rescue and recovery work in progress.,10,14,0,
-40.431632,-105.329213,4,6/11/2019 16:20,16,6,Day,Closed at County Road 22H - Road closed due to accident. Rescue and recovery work in progress.,10,14,0,
-40.277594,-104.98031,3,6/14/2019 20:37,20,6,Day,At CR-34/Exit 245 - Accident.,10,12,0,
-40.476249,-104.99205,3,6/15/2019 15:29,15,6,Day,At Crossroads Blvd/Exit 259 - Accident.,10,6,0,
-40.402697,-104.99352,3,6/15/2019 17:43,17,6,Day,At CO-402/Exit 255 - Accident.,10,0,0,
-37.989939,-103.50125,3,6/30/2019 22:38,22,6,Night,At CO-101 - Accident.,,,0,
-37.987184,-103.509078,4,6/30/2019 22:50,22,6,Night,Closed at Las Animas - Road closed due to accident.,,,0,
-37.330735,-102.61554,3,7/23/2019 11:24,11,7,Day,At US-160/Cr-dd - Accident.,,17,0,
-37.307385,-102.615503,4,7/23/2019 15:52,15,7,Day,Closed at US-160/Cr-dd - Road closed due to accident.,,10,0,
-37.355641,-102.615422,4,7/23/2019 15:52,15,7,Day,Closed at Colorado/Oklahoma State Line - Road closed due to accident.,,10,0,
-37.307385,-102.615503,4,7/23/2019 22:09,22,7,Night,Closed at Cr-bb - Road closed due to accident.,,13,0,
-37.355641,-102.615422,4,7/23/2019 22:09,22,7,Night,Closed at Springfield - Road closed due to accident.,,13,0,
-37.38881,-102.27946,3,7/24/2019 15:43,15,7,Day,At US-287/US-385 - Accident. Roadway reduced to 1 lane.,,18,0,
-37.389023,-102.278841,3,7/24/2019 15:43,15,7,Day,At Illinois St - Accident. Roadway reduced to 1 lane.,,18,0,
-37.389023,-102.278841,3,7/24/2019 16:43,16,7,Day,At Two Buttes - Accident. Roadway reduced to 1 lane.,,15,0,
-37.38923,-102.27824,3,7/24/2019 16:43,16,7,Day,At Walsh - Accident. Roadway reduced to 1 lane.,,15,0,
-39.703984,-105.704235,3,7/28/2019 14:59,14,7,Day,At 15th St/Exit 228 - Accident.,10,8,0,
-40.58181,-104.67745,4,8/9/2019 13:30,13,8,Day,Closed at US-85 - Road closed due to accident.,10,7,0,
-40.582299,-104.696379,4,8/9/2019 13:30,13,8,Day,Closed at CR-43 - Road closed due to accident.,10,7,0,
-40.47883,-104.62102,4,8/15/2019 12:28,12,8,Day,Closed at County Road 47 - Road closed due to accident.,10,10,0,
-40.47883,-104.62102,4,8/15/2019 12:28,12,8,Day,Closed at County Road 47 - Road closed due to accident.,10,10,0,
-39.77841,-104.91289,3,1/24/2019 8:24,8,1,Day,At Dahlia St/Exit 277 - Accident.,0.2,16.1,,Blowing Snow
-39.80963,-104.98308,3,1/24/2019 10:51,10,1,Day,At I-76/Exit 216 - Accident.,0.5,,,Blowing Snow
-39.825525,-104.98286,3,1/24/2019 11:06,11,1,Day,At I-25 (North) - Accident.,0.5,,,Blowing Snow
 39.77993,-104.972689,3,3/3/2019 23:33,23,3,Night,At Washington St/Exit 275A - Accident.,10,,,Fair
 39.530219,-106.216035,4,3/4/2019 12:05,12,3,Day,Closed between CR-16/Shrine Pass Rd/Exit 190 and Bighorn Rd/Exit 180 - Road closed due to accident.,,17.3,,Fair
 39.539458,-106.215234,4,3/4/2019 12:15,12,3,Day,Closed at Bighorn Rd/Exit 180 - Road closed due to accident.,,17.3,,Fair
@@ -4626,8 +3966,8 @@
 38.189979,-104.206882,4,3/25/2019 18:16,18,3,Day,Closed at Cherry Rd - Road closed due to accident.,10,16.1,,Fair
 40.267893,-105.353483,4,3/26/2019 1:51,1,3,Night,Closed between CR-47 and CO-66/5th Ave/Main St/Broadway St - Road closed due to accident.,10,5.8,,Fair
 40.24812,-105.289312,4,3/26/2019 1:51,1,3,Night,Closed between CO-66/5th Ave/Main St/Broadway St and CR-47 - Road closed due to accident.,10,5.8,,Fair
-40.267893,-105.353483,4,3/26/2019 2:51,2,3,Night,Closed between CO-7/S St Vrain Ave and US-36/CO-66/5th Ave/Main St - Road closed due to accident.,10,6.9,,Fair
-40.24812,-105.289312,4,3/26/2019 2:51,2,3,Night,Closed between US-36/CO-66/5th Ave/Main St and CO-7/S St Vrain Ave - Road closed due to accident.,10,6.9,,Fair
+40.267893,-105.353483,4,3/26/2019 2:51,2,3,Night,Closed between CO-7/S St VHeavy Rain Ave and US-36/CO-66/5th Ave/Main St - Road closed due to accident.,10,6.9,,Fair
+40.24812,-105.289312,4,3/26/2019 2:51,2,3,Night,Closed between US-36/CO-66/5th Ave/Main St and CO-7/S St VHeavy Rain Ave - Road closed due to accident.,10,6.9,,Fair
 38.49327,-105.91815,4,3/26/2019 7:30,7,3,Day,Closed at CO-291/Oak St - Road closed due to accident.,10,8.1,,Fair
 38.504788,-105.954381,4,3/26/2019 7:30,7,3,Day,Closed at CO-69 - Road closed due to accident.,10,8.1,,Fair
 39.350291,-104.871755,3,3/26/2019 11:40,11,3,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,10,,,Fair
@@ -4711,7 +4051,7 @@
 40.436052,-103.2266,3,2/2/2019 11:45,11,2,Day,At CR-56 - Accident. Lost load. Single alternate lane traffic.,10,5.8,,Fair
 39.342034,-104.874956,3,2/2/2019 12:57,12,2,Day,At Tomah Rd/Exit 174 - Accident.,10,,,Fair
 39.360768,-104.867341,4,2/2/2019 13:56,13,2,Day,Closed at Tomah Rd/Exit 174 - Road closed due to accident.,10,5.8,,Fair
-39.74035,-105.049136,4,2/3/2019 0:42,0,2,Night,Closed at Vrain St - Road closed due to accident. Police activity ongoing.,10,3.5,,Fair
+39.74035,-105.049136,4,2/3/2019 0:42,0,2,Night,Closed at VHeavy Rain St - Road closed due to accident. Police activity ongoing.,10,3.5,,Fair
 39.74035,-105.048284,4,2/3/2019 0:42,0,2,Night,Closed at Xavier St - Road closed due to accident. Police activity ongoing.,10,3.5,,Fair
 38.81492,-104.82227,4,2/3/2019 20:23,20,2,Night,Closed between I-25-BL/Nevada Ave/Exit 140 and US-24/Exit 139 - Road closed due to accident.,10,5.8,,Fair
 39.946449,-104.98804,3,2/4/2019 7:31,7,2,Day,At 136th Ave - Accident.,10,8.1,,Fair
@@ -5456,114 +4796,6 @@
 38.522385,-106.025694,3,8/20/2019 20:31,20,8,Night,At US-285/Main St - Accident.,10,13,,Fair
 38.523556,-106.019208,3,8/20/2019 20:52,20,8,Night,At US-285/Main St - Accident. Lane blocked.,10,14,,Fair
 38.523556,-106.019208,2,8/20/2019 21:14,21,8,Night,At US-285/Main St - Accident. Lane blocked.,10,10,,Fair
-40.97023,-103.68731,3,12/14/2019 20:06,20,12,Night,At Colorado/Nebraska State Line - Accident. Single alternate lane traffic.,1,0,,Fog
-41.00088,-103.68775,3,12/14/2019 20:06,20,12,Night,At Peetz - Accident. Single alternate lane traffic.,1,0,,Fog
-41.00157,-103.68775,4,12/14/2019 22:52,22,12,Night,Closed at Peetz - Road closed due to accident.,0.25,3,,Fog
-39.410257,-105.499447,3,3/7/2019 14:40,14,3,Day,At CR-97/S Foxton Rd - Accident.,0.2,10.4,,Fog
-39.72558,-105.058952,3,2/6/2019 6:50,6,2,Day,At CO-95/Sheridan Blvd - Accident.,0.2,,,Fog
-39.946449,-104.98804,3,3/4/2019 6:35,6,3,Day,At 136th Ave - Accident.,3,,,Fog
-39.567472,-105.051066,3,3/6/2019 7:39,7,3,Day,At CO-75/Platte Canyon Rd - Accident.,3,8.1,,Fog
-39.70103,-104.98754,3,3/6/2019 16:40,16,3,Day,At I-25/US-87 - Accident.,5,5.8,,Fog
-39.20653,-105.99493,2,2/5/2019 23:35,23,2,Night,At US-285 (North) - Accident.,6,18.4,,Fog
-39.207729,-105.994822,2,2/5/2019 23:35,23,2,Night,At US-285 (South) - Accident.,6,18.4,,Fog
-39.800145,-104.985532,3,2/10/2019 13:16,13,2,Day,At 58th Ave/Exit 215 - Accident.,2,8.1,,Fog
-38.660352,-106.087624,3,2/16/2019 11:10,11,2,Day,At CO-291 - Accident.,5,27.6,,Fog
-39.78139,-105.13389,3,2/19/2019 12:56,12,2,Day,Ramp to Ward Rd - Accident.,5,5.8,,Fog
-39.78139,-105.13389,3,2/19/2019 12:59,12,2,Day,Ramp to Ward Rd - Accident.,5,5.8,,Fog
-39.592542,-106.247046,4,2/20/2019 11:46,11,2,Day,Closed at Bighorn Rd/Exit 180 - Road closed due to accident.,5,,,Fog
-39.74984,-105.01722,3,2/26/2019 16:06,16,2,Day,At 23rd Ave/Exit 211 - Accident.,10,6.9,,Fog
-39.74984,-105.01722,3,2/26/2019 17:40,17,2,Day,At 23rd Ave/Exit 211 - Accident.,10,5.8,,Fog
-39.911712,-104.99036,3,2/27/2019 19:40,19,2,Night,At CO-128/120th Ave/Exit 223 - Accident.,7,,,Fog
-39.67921,-105.90351,4,1/11/2019 0:56,0,1,Night,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident.,0.2,8.1,,Fog
-39.701812,-105.331333,3,1/12/2019 6:25,6,1,Night,At US-40/Exit 251 - Accident.,0.2,6.9,,Fog
-39.78434,-105.025243,3,3/13/2019 10:26,10,3,Day,At Federal Blvd/Exit 272 - Accident.,0.4,34.5,,Heavy Snow
-39.78465,-105.02484,4,3/13/2019 9:43,9,3,Day,Ramp closed to Exit 272 - Road closed due to accident.,0.4,21.9,,Heavy Snow
-39.78403,-105.02197,4,3/13/2019 9:43,9,3,Day,Ramp closed to US-287/Federal Blvd - Road closed due to accident.,0.4,21.9,,Heavy Snow
-39.77836,-104.895773,3,2/6/2019 13:50,13,2,Day,At Quebec St/Exit 278 - Accident.,0.2,3.5,,Heavy Snow
-39.72542,-105.022004,3,2/6/2019 15:20,15,2,Day,At CO-88/Federal Blvd - Accident.,0.2,5.8,,Heavy Snow
-39.75646,-105.01333,4,1/28/2019 9:38,9,1,Day,Ramp closed to Exit 212B - Road closed due to accident.,0.5,,,Heavy Snow
-39.75771,-105.00953,4,1/28/2019 9:38,9,1,Day,Ramp closed to Speer Blvd - Road closed due to accident.,0.5,,,Heavy Snow
-39.825525,-104.98286,3,3/29/2019 3:28,3,3,Night,At I-25 (North) - Accident.,2,4.6,,Light Rain
-39.82164,-104.98251,2,3/29/2019 3:50,3,3,Night,At US-36/Exit 217 - Accident. Right lane blocked.,2,5.8,,Light Rain
-39.7873,-104.98934,3,3/7/2019 5:25,5,3,Night,At I-70/Exit 214 - Accident.,0.2,5.8,,Fog
-39.835279,-105.021517,3,3/7/2019 6:10,6,3,Day,At Federal Blvd - Accident.,0.1,6.9,,Fog
-39.72536,-105.118366,3,3/7/2019 7:58,7,3,Day,At CO-391/Kipling St - Accident.,0.1,4.6,,Fog
-39.616403,-104.897202,3,3/25/2019 6:20,6,3,Night,At CO-88/Belleview Ave/Exit 199 - Accident.,0.2,,,Fog
-39.763578,-105.233513,4,2/6/2019 8:02,8,2,Day,Closed at Washington Ave - Road closed due to accident.,0.2,5.8,,Fog
-39.768384,-105.235677,4,2/6/2019 8:02,8,2,Day,Closed at Iowa Dr - Road closed due to accident.,0.2,5.8,,Fog
-38.810573,-102.33227,4,2/6/2019 8:41,8,2,Day,Closed at CR-G (North) - Road closed due to accident.,0.2,15,,Fog
-38.69684,-102.33182,4,2/6/2019 8:41,8,2,Day,Closed at US-40 (East) - Road closed due to accident.,0.2,15,,Fog
-39.2734,-103.71967,2,2/22/2019 2:34,2,2,Night,At CR-118/Exit 354 - Accident.,0.5,11.5,,Fog
-39.273179,-103.715156,2,2/22/2019 2:34,2,2,Night,At I-70-BL/US-287/US-40/Exit 359 - Accident.,0.5,11.5,,Fog
-39.78313,-105.00687,3,2/26/2019 6:46,6,2,Day,At Pecos St/Exit 273 - Accident.,0.1,5.8,,Fog
-39.680941,-104.82867,3,2/27/2019 6:21,6,2,Day,At Mississippi Ave/Exit 7 - Accident.,0.5,8.1,,Fog
-39.39066,-104.75275,4,2/27/2019 8:04,8,2,Day,Closed between N Russelville Rd/CR-69 and E Bayou Gulch Rd - Road closed due to accident.,0.2,,,Fog
-39.39113,-104.75284,4,2/27/2019 8:04,8,2,Day,Closed between CO-86 and Castle Oaks Dr - Road closed due to accident.,0.2,,,Fog
-39.289595,-104.895339,3,2/27/2019 8:32,8,2,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,0.2,,,Fog
-38.423477,-106.406543,4,3/7/2019 12:16,12,3,Day,Closed at Pitkin - Road closed due to accident.,10,12.7,,Light Rain
-38.423477,-106.406543,4,3/7/2019 12:16,12,3,Day,Closed at US-285/Kimberlin Ln - Road closed due to accident.,10,12.7,,Light Rain
-39.8557,-104.91465,2,3/22/2019 18:25,18,3,Day,Between 88th Ave/Exit 10 and 96th Ave/Exit 11 - Accident. Left lane blocked.,10,8.1,,Light Rain
-40.51959,-104.99234,3,1/11/2019 15:36,15,1,Day,At CO-392/Exit 262 - Accident.,10,8.1,,Light Rain
-40.2705,-103.58778,3,8/8/2019 1:15,1,8,Night,Between CO-71/Colorado Ave/Exit 90 and CR-33/Exit 95 - Accident. Lane blocked.,10,8,,Light Rain
-40.27178,-103.58407,4,10/10/2019 10:13,10,10,Day,Closed between US-6/Exit 92 and CO-71/Colorado Ave/Exit 90 - Road closed due to accident.,1,20,,Light Snow
-39.282334,-104.896689,3,3/4/2019 5:05,5,3,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,2.5,,,Light Snow
-39.609559,-105.946742,4,3/6/2019 8:34,8,3,Day,Closed between Swan Mountain Rd and I-70 (East) - Road closed due to accident.,1.2,16.1,,Light Snow
-39.609559,-105.946742,4,3/6/2019 8:34,8,3,Day,Closed between Swan Mountain Rd and I-70 (East) - Road closed due to accident.,1.2,16.1,,Light Snow
-39.609559,-105.946742,4,3/6/2019 10:15,10,3,Day,Closed between Montezuma Rd and I-70 - Road closed due to accident.,5,13.8,,Light Snow
-39.620272,-106.472002,4,3/22/2019 6:53,6,3,Day,Closed at US-24/US-6/Exit 171 - Road closed due to accident.,4,,,Light Snow
-39.60874,-106.45237,3,3/24/2019 4:18,4,3,Night,At US-24/US-6/Exit 171 - Accident.,10,8.1,,Light Snow
-40.8635,-104.958997,3,3/29/2019 19:34,19,3,Day,At Buckeye Road/Exit 288 - Accident.,5,15,,Light Snow
-39.317307,-104.883611,3,3/1/2019 15:28,15,3,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,7,10.4,,Light Snow
-39.783247,-105.127782,3,3/2/2019 16:32,16,3,Day,At Kipling St/Exit 267 - Accident.,1,13.8,,Light Snow
-39.790721,-105.063409,3,3/3/2019 1:02,1,3,Night,At CO-121/Wadsworth Ave/Exit 1 - Accident.,4,5.8,,Light Snow
-39.72558,-105.058952,3,3/3/2019 12:44,12,3,Day,At CO-95/Sheridan Blvd - Accident.,2,,,Light Snow
-39.79794,-104.98667,3,3/3/2019 14:08,14,3,Day,At 58th Ave/Exit 215 - Accident.,1,4.6,,Light Snow
-39.900221,-104.988178,3,3/3/2019 16:35,16,3,Day,At 104th Ave/Exit 221 - Accident.,1,4.6,,Light Snow
-39.80963,-104.98308,3,3/3/2019 17:25,17,3,Day,At I-76/Exit 216 - Accident.,1.5,3.5,,Light Snow
-39.77829,-104.897431,3,3/3/2019 17:59,17,3,Day,At I-270/Exit 279 - Accident.,1.5,3.5,,Light Snow
-39.759714,-105.654023,3,2/3/2019 13:31,13,2,Day,At US-40/Exit 232 - Accident.,1,21.9,,Light Snow
-40.150677,-104.97982,3,2/6/2019 12:12,12,2,Day,At CO-52/Exit 235 - Accident.,2.5,5.8,,Light Snow
-40.196606,-104.98041,4,2/6/2019 12:53,12,2,Day,At CO-119/Exit 240 - Accident.,2,5.8,,Light Snow
-39.229757,-104.877748,3,2/6/2019 13:20,13,2,Day,At Upper Lake Gulch Rd/Exit 172 - Accident.,0.8,11.5,,Light Snow
-39.968304,-105.484344,3,2/6/2019 15:23,15,2,Day,At Sugarloaf Rd - Accident. Single alternate lane traffic.,4,5.8,,Light Snow
-39.02381,-104.83174,3,2/6/2019 16:10,16,2,Day,At Gleneagle Dr/Exit 156 - Accident. Lane blocked.,10,21.9,,Light Snow
-39.282334,-104.896689,3,2/16/2019 14:26,14,2,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,0.8,13.8,,Light Snow
-39.166786,-104.852711,3,2/16/2019 16:06,16,2,Day,At County Line Rd/Exit 163 - Accident.,0.5,21.9,,Light Snow
-39.53282,-106.2158,3,2/17/2019 8:41,8,2,Day,At CR-16/Shrine Pass Rd/Exit 190 - Accident. Blocked ahead.,2,,,Light Snow
-39.78238,-104.99836,3,2/17/2019 21:47,21,2,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident. Right lane blocked.,5,8.1,,Light Snow
-39.78238,-104.99836,3,2/17/2019 21:47,21,2,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident. Right lane blocked.,5,8.1,,Light Snow
-39.73479,-105.01503,3,2/19/2019 14:54,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,3,6.9,,Light Snow
-39.736382,-105.014249,3,2/19/2019 14:54,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident. Lane blocked.,3,6.9,,Light Snow
-39.78432,-105.11509,3,2/19/2019 14:59,14,2,Day,At CO-72/44th Ave/Ward Rd/Exit 266 - Accident.,3,6.9,,Light Snow
-39.736382,-105.014249,2,2/19/2019 14:59,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident. Lane blocked.,3,6.9,,Light Snow
-39.933124,-105.123779,3,2/19/2019 17:30,17,2,Day,At 96th St/Storagetek Dr - Accident.,6,5.8,,Light Snow
-38.99073,-104.81487,2,2/23/2019 3:39,3,2,Night,At Interquest Pky/Exit 153 - Accident.,4,18.4,,Light Snow
-39.52518,-106.21529,4,2/27/2019 18:46,18,2,Night,Closed at CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.2,9.2,,Light Snow
-39.5114,-106.14452,4,1/7/2019 21:47,21,1,Night,Closed at CO-91/Exit 195 - Road closed due to accident.,4,19.6,,Light Snow
-38.470051,-107.163293,2,1/8/2019 8:06,8,1,Day,At CO-92 - Accident.,9,,,Light Snow
-39.656149,-106.625444,3,1/11/2019 1:20,1,1,Night,At Beaver Creek Rd/Exit 163 - Accident.,2,8.1,,Light Snow
-39.654303,-106.612571,4,1/11/2019 2:39,2,1,Night,Closed at Beaver Creek Rd/Exit 163 - Road closed due to accident.,1.5,4.6,,Light Snow
-39.802298,-105.493692,4,1/16/2019 10:15,10,1,Day,Closed between Selak St and US-6 - Road closed due to accident.,0.5,42.6,,Light Snow
-39.802298,-105.493692,4,1/16/2019 10:55,10,1,Day,Closed between CO-46/Golden Gate Canyon Rd and US-6/CO-119 - Road closed due to accident.,0.2,39.1,,Light Snow
-39.166786,-104.852711,3,1/18/2019 11:03,11,1,Day,At County Line Rd/Exit 163 - Accident.,2,13.8,,Light Snow
-40.57642,-105.00147,3,1/24/2019 9:07,9,1,Day,At Prospect Rd/Exit 268 - Accident.,0.8,9.2,,Light Snow
-39.92787,-105.23453,4,1/24/2019 9:12,9,1,Day,Closed between CO-128 and CO-72/Coal Creek Canyon Rd - Road closed due to accident.,1,6.9,,Light Snow
-39.981111,-105.222993,3,1/24/2019 10:39,10,1,Day,At McCaslin Blvd - Accident.,1,,,Light Snow
-39.134844,-104.862869,3,1/24/2019 10:55,10,1,Day,At Greenland Rd/Exit 167 - Accident.,0.8,15,,Light Snow
-39.76312,-104.783701,3,1/24/2019 12:21,12,1,Day,At CO-32/Tower Rd/Exit 286 - Accident.,4,6.9,,Light Snow
-38.95801,-105.09799,3,1/28/2019 6:37,6,1,Night,At US-24/N CR-5 - Accident.,8,10.4,,Light Snow
-38.496329,-105.309102,3,1/28/2019 10:16,10,1,Day,At CO-9 - Accident.,0.5,8.1,,Light Snow
-39.82442,-104.95985,3,1/28/2019 12:09,12,1,Day,Ramp to I-270 - Accident.,1.5,5.8,,Light Snow
-39.77012,-104.99179,3,1/28/2019 12:45,12,1,Day,At I-70/Exit 214 - Accident.,2,4.6,,Light Snow
-39.78364,-105.00322,3,1/28/2019 12:52,12,1,Day,At Pecos St/Exit 273 - Accident.,2,4.6,,Light Snow
-39.58689,-107.19553,3,5/9/2019 20:47,20,5,Night,At Exit 125 - Accident.,0.5,0,,Light Snow
-39.601705,-107.16497,4,5/29/2019 16:58,16,5,Day,At Exit 129 - Accident.,3,3,,Light Snow
-39.602105,-107.163504,4,5/29/2019 15:03,15,5,Day,At Exit 125 - Accident.,3,3,,Light Snow
-39.615395,-107.137846,4,5/29/2019 17:55,17,5,Day,Closed between Exit 129 and US-6/Exit 140 - Road closed due to accident.,3,3,,Light Snow
-39.678838,-105.936065,4,3/13/2019 8:28,8,3,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,16.1,,Light Snow
-39.72558,-105.058952,3,3/29/2019 6:38,6,3,Day,At CO-95/Sheridan Blvd - Accident.,0.5,6.9,,Fog
-40.267769,-103.71129,3,2/22/2019 1:54,1,2,Night,At CR-24/Exit 86 - Accident.,3,13.8,,Fog
-40.26305,-103.77677,2,2/22/2019 2:42,2,2,Night,At Barlow Rd/Exit 82 - Accident.,1.8,13.8,,Fog
 39.77969,-104.971915,3,3/4/2019 5:20,5,3,Night,At Brighton Blvd/Exit 275 - Accident.,10,,,Fair
 39.76038,-105.00582,3,3/4/2019 5:47,5,3,Night,At 20th St/Exit 212 - Accident.,10,,,Fair
 39.79795,-104.93088,3,3/4/2019 5:55,5,3,Night,At CO-35/Quebec St/Sand CR/Exit 4 - Accident.,7,3.5,,Fair
@@ -5607,8 +4839,8 @@
 39.56689,-105.05395,3,3/14/2019 16:36,16,3,Day,At US-85/Santa Fe Dr - Accident.,10,11.5,,Fair
 39.56493,-105.03745,2,3/14/2019 16:45,16,3,Day,At US-85/Santa Fe Dr - Accident. in the left lane.,10,11.5,,Fair
 40.176737,-105.34846,4,3/17/2019 17:54,17,3,Day,Closed at Spruce Dr - Road closed due to accident.,10,8.1,,Fair
-40.16996,-105.415761,4,3/17/2019 17:54,17,3,Day,Closed at CR-84/Old St Vrain Rd - Road closed due to accident.,10,8.1,,Fair
-40.16996,-105.415761,4,3/17/2019 21:53,21,3,Night,Closed at CR-84/Old St Vrain Rd - Road closed due to accident.,10,4.6,,Fair
+40.16996,-105.415761,4,3/17/2019 17:54,17,3,Day,Closed at CR-84/Old St VHeavy Rain Rd - Road closed due to accident.,10,8.1,,Fair
+40.16996,-105.415761,4,3/17/2019 21:53,21,3,Night,Closed at CR-84/Old St VHeavy Rain Rd - Road closed due to accident.,10,4.6,,Fair
 40.176737,-105.34846,4,3/17/2019 21:53,21,3,Night,Closed at Louisville - Road closed due to accident.,10,4.6,,Fair
 40.35979,-104.98377,3,3/17/2019 19:48,19,3,Night,At CR-16/Exit 254 - Accident.,10,9.2,,Fair
 37.920671,-104.824359,4,3/19/2019 5:51,5,3,Night,Closed at CR-670/Exit 67 - Road closed due to accident.,10,19.6,,Fair
@@ -5793,12 +5025,6 @@
 38.316354,-104.673384,3,1/28/2019 13:34,13,1,Day,At Purcell Blvd - Accident.,10,10.4,,Fair
 39.014992,-104.497531,4,1/28/2019 18:04,18,1,Night,Closed at Bradshaw Rd - Road closed due to accident.,10,5.8,,Fair
 39.00563,-104.510196,4,1/28/2019 18:04,18,1,Night,Closed at McKenze Ln - Road closed due to accident.,10,5.8,,Fair
-39.77989,-104.9858,3,3/13/2019 6:41,6,3,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,3,21.9,,Rain
-39.897632,-104.987501,3,3/13/2019 6:47,6,3,Day,At CO-128/120th Ave/Exit 223 - Accident.,3,21.9,,Rain
-39.959146,-105.16927,3,3/13/2019 7:25,7,3,Day,At McCaslin Blvd - Accident.,1.5,24.2,,Rain
-39.78566,-105.0832,3,3/13/2019 7:37,7,3,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,1.5,24.2,,Rain
-40.2514,-103.88455,2,5/20/2019 18:53,18,5,Day,Between CO-144/Exit 79 and CO-52/Main St - Accident. Lane blocked.,5,16,,Rain
-40.2514,-103.88455,2,5/20/2019 18:53,18,5,Day,Between Long Bridge Road/Exit 73 and US-34/I-76-BL/Exit 75 - Accident. Lane blocked.,5,16,,Rain
 39.64324,-106.30459,3,3/4/2019 10:35,10,3,Day,At Bighorn Rd/Exit 180 - Accident.,,10.4,,Fair
 39.78008,-104.93646,3,3/4/2019 10:49,10,3,Day,At Dahlia St/Exit 277 - Accident.,10,,,Fair
 39.959146,-105.16927,3,3/4/2019 15:43,15,3,Day,At McCaslin Blvd - Accident.,10,5.8,,Fair
@@ -5987,23 +5213,781 @@
 39.740607,-104.82522,3,1/30/2019 9:03,9,1,Day,At US-40/US-287/Colfax Ave/Exit 10 - Accident.,10,9.2,,Fair
 39.740136,-104.82522,4,1/30/2019 9:13,9,1,Day,Closed between CO-30/6th Ave/Exit 9 and I-70/US-36/Exit 12 - Road closed due to accident.,10,9.2,,Fair
 39.78012,-104.951889,3,1/30/2019 13:05,13,1,Day,At Steele St - Accident.,30,18.4,,Fair
-39.393219,-106.052881,3,3/13/2019 11:49,11,3,Day,At S Main St - Accident.,0.2,19.6,,Snow
-39.026482,-104.833301,3,2/6/2019 13:10,13,2,Day,At Gleneagle Dr/Exit 156 - Accident.,0.5,18.4,,Snow
-39.58689,-107.19553,2,2/6/2019 18:58,18,2,Night,Between Exit 125 and Exit 121 - Accident. in the right lane.,0.5,11.5,,Snow
-39.632247,-106.058571,3,2/22/2019 16:06,16,2,Day,At US-6/CO-9/Exit 205 - Accident.,0.2,,,Snow
-39.618329,-105.926452,3,2/22/2019 16:18,16,2,Day,At I-70 (East) - Accident.,0.2,5.8,,Snow
-39.654303,-106.612571,4,1/11/2019 3:20,3,1,Night,Closed at Beaver Creek Rd/Exit 163 - Road closed due to accident.,0.2,4.6,,Snow
-39.79794,-104.98667,3,1/11/2019 16:32,16,1,Day,At 58th Ave/Exit 215 - Accident.,0.5,9.2,,Snow
-39.68514,-105.88582,4,1/16/2019 23:31,23,1,Night,Closed between US-6/Exit 216 and US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,38,,Snow
-39.5114,-106.14452,4,1/21/2019 15:00,15,1,Day,Closed between CO-91/Exit 195 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.5,4.6,,Snow
-39.626828,-106.07032,4,1/21/2019 16:12,16,1,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.2,8.1,,Snow
-39.52566,-106.21559,4,1/21/2019 16:42,16,1,Day,Closed at CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.2,5.8,,Snow
-39.894632,-105.337389,3,1/24/2019 8:30,8,1,Day,At Twin Spruce Rd - Accident.,0.5,9.2,,Snow
-39.79794,-104.98667,3,1/28/2019 5:46,5,1,Night,At 58th Ave/Exit 215 - Accident.,0.5,8.1,,Snow
-39.78325,-105.00662,4,1/28/2019 7:40,7,1,Day,Closed between Pecos St/Exit 273 and Federal Blvd/Exit 272 - Road closed due to accident.,0.5,9.2,,Snow
-39.72542,-105.022004,3,1/28/2019 10:31,10,1,Day,At CO-88/Federal Blvd - Accident.,0.5,4.6,,Snow
-40.287211,-103.551418,3,8/7/2019 22:35,22,8,Night,At CR-33/Exit 95 - Accident.,10,13,,Thunder
 39.58657,-107.196269,4,8/1/2019 22:36,22,8,Night,Closed between Exit 125 and Exit 129 - Road closed due to accident.,10,6,,Fair
+39.77966,-104.97238,3,12/26/2019 8:14,8,12,Day,At Brighton Blvd/Exit 275 - Accident.,0.12,17,0,Fog
+40.08,-104.8488,4,12/26/2019 8:42,8,12,Day,Closed at County Road 21 - Road closed due to accident.,0,0,0,Fog
+40.08005,-104.86745,4,12/26/2019 8:42,8,12,Day,Closed at County Road 23 - Road closed due to accident.,0,0,0,Fog
+38.25683,-104.60617,2,10/30/2019 21:48,21,10,Night,Between El Dorado Ave/Exit 97B and 1st St/Exit 98 - Accident. Right lane blocked. Road surface in poor condition.,2,6,0,Fog
+39.74134,-104.62177,4,11/6/2019 15:24,15,11,Day,Closed between County Road 23 N and Yullie Rd - Road closed due to accident.,0.5,9,0,Fog
+39.73813,-104.37745,4,11/6/2019 15:24,15,11,Day,Closed between Yullie Rd and County Road 23 N - Road closed due to accident.,0.5,9,0,Fog
+39.73813,-104.37745,4,11/6/2019 12:45,12,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,15,0,Fog
+39.74134,-104.62177,4,11/6/2019 12:45,12,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,15,0,Fog
+39.74134,-104.62177,4,11/6/2019 14:42,14,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,8,0,Fog
+39.73813,-104.37745,4,11/6/2019 14:42,14,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,8,0,Fog
+39.7783,-104.89807,3,11/6/2019 20:27,20,11,Night,At I-270/Exit 279 - Accident.,2,9,0,Fog
+39.04133,-104.27498,3,11/21/2019 7:52,7,11,Day,At Yoder St - Accident.,1,8,0,Fog
+39.73485,-105.16585,3,11/21/2019 8:26,8,11,Day,At US-40/Colfax Ave/Exit 262 - Accident.,1,5,0,Fog
+39.25693,-104.88999,3,11/21/2019 9:16,9,11,Day,At Tomah Rd/Exit 174 - Accident.,2,0,0,Fog
+39.825117,-104.966714,3,10/2/2019 6:43,6,10,Day,At I-76/Exit 1 - Accident.,0.5,5,0,Fog
+38.584983,-104.668482,3,10/2/2019 7:50,7,10,Day,At El Centro Blvd/Exit 119 - Accident.,0.88,12,0,Fog
+39.98766,-105.23704,3,10/2/2019 7:10,7,10,Day,At Table Mesa Dr - Accident.,1,3,0,Fog
+40.559381,-105.001115,3,10/2/2019 7:31,7,10,Day,At Prospect Rd/Exit 268 - Accident.,2,6,0,Fog
+39.843321,-104.98448,3,9/9/2019 6:37,6,9,Day,At US-36/Exit 217 - Accident.,0.06,5,0,Fog
+39.597934,-106.269971,4,4/29/2019 7:21,7,4,Day,At CR-16/Shrine Pass Rd/Exit 190 - Accident.,0.5,3,0,Fog
+39.643427,-106.305557,4,4/29/2019 7:26,7,4,Day,Closed between Bighorn Rd/Exit 180 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.5,3,0,Fog
+39.69422,-105.73004,2,4/29/2019 18:25,18,4,Day,Between CR-321/Stevens Gulch Rd/Exit 221 and US-40/Exit 232 - Accident. Left lane blocked. Heavy snowfall expected.,1,10,0,Fog
+39.125577,-104.86466,3,5/4/2019 6:49,6,5,Day,At CO-105/Exit 161 - Accident.,1,9,0,Fog
+39.680941,-104.82867,3,5/7/2019 7:32,7,5,Day,At Mississippi Ave/Exit 7 - Accident.,2,14,0,Fog
+39.796929,-105.048478,3,5/7/2019 7:39,7,5,Day,At CO-95/Sheridan Blvd/Exit 1 - Accident.,0.25,3,0,Fog
+39.671491,-104.9282,3,5/20/2019 7:35,7,5,Day,At Evans Ave/Exit 203 - Accident.,2,7,0,Fog
+39.6758,-104.93135,2,5/20/2019 7:40,7,5,Day,At Evans Ave/Exit 203 - Accident. Left lane blocked.,2,7,0,Fog
+39.90957,-104.9906,2,5/21/2019 7:15,7,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,0.5,8,0,Fog
+39.77841,-104.91289,3,5/21/2019 7:54,7,5,Day,At Dahlia St/Exit 277 - Accident.,0.25,8,0,Fog
+39.94118,-105.13984,3,5/21/2019 8:10,8,5,Day,At Flatiron Cir - Accident.,0.25,8,0,Fog
+39.68143,-105.88914,4,5/23/2019 6:21,6,5,Day,Closed at Montezuma Rd - Road closed due to accident.,1,15,0,Fog
+39.636582,-105.891793,4,5/23/2019 6:21,6,5,Day,Closed at I-70 (East) - Road closed due to accident.,1,15,0,Fog
+39.636582,-105.891793,4,5/23/2019 7:00,7,5,Day,Closed at US-6/Exit 216 - Road closed due to accident.,1,17,0,Fog
+39.68123,-105.88995,4,5/23/2019 7:00,7,5,Day,Closed at Frisco - Road closed due to accident.,1,17,0,Fog
+39.7873,-104.98934,3,5/23/2019 7:37,7,5,Day,At I-70/Exit 214 - Accident.,2,6,0,Fog
+39.73664,-105.01436,3,4/30/2019 7:04,7,4,Day,At Zuni St/Exit 209C - Accident.,2,6,0,Fog
+39.5647,-104.915713,3,4/30/2019 9:58,9,4,Day,At CO-177/University Blvd - Accident.,2,5,0,Fog
+39.924412,-105.110708,3,5/1/2019 8:12,8,5,Day,At E Flatiron Crossing Dr - Accident.,1,8,0,Fog
+39.924412,-105.110708,3,5/1/2019 8:24,8,5,Day,At E Flatiron Crossing Dr - Accident.,0.12,8,0,Fog
+39.73808,-104.41455,4,8/16/2019 7:54,7,8,Day,Closed between CR-34/Kiowa-Bennett Rd/Exit 305 and Wagner St/Exit 310 - Road closed due to accident.,0.25,9,0,Fog
+40.029472,-104.818019,4,8/16/2019 8:00,8,8,Day,Closed at Cr 8 - Road closed due to accident.,2,7,0,Fog
+38.34313,-104.61977,3,10/29/2019 17:39,17,10,Day,At Pace Rd/Exit 104 - Accident.,0.5,24,0,Fog
+39.26077,-104.70336,4,4/30/2019 10:12,10,4,Day,Closed at S Lake Gulch Rd - Road closed due to accident.,0.5,30,0,Fog
+39.27094,-104.73631,4,4/30/2019 10:12,10,4,Day,Closed at S Russellville Rd - Road closed due to accident.,0.5,30,0,Fog
+39.26077,-104.70336,4,4/30/2019 10:12,10,4,Day,Closed at Lake Gulch Rd - Road closed due to accident.,0.5,30,0,Fog
+39.27094,-104.73631,4,4/30/2019 10:12,10,4,Day,Closed at Russellville Rd - Road closed due to accident.,0.5,30,0,Fog
+39.68491,-104.95162,2,12/27/2019 16:21,16,12,Day,Between CO-2/Colorado Blvd/Exit 204 and Downing St/Exit 206 - Accident. Left lane blocked.,6,7,0,Fog
+38.48541,-106.33623,3,10/18/2019 13:41,13,10,Day,At CO-114 - Accident.,1,15,0,Fog
+38.72941,-104.73733,3,11/6/2019 16:04,16,11,Day,At CO-83/Academy Blvd/Exit 135 - Accident.,6,17,0,Fog
+39.78042,-104.99044,2,12/28/2019 13:26,13,12,Day,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,1,22,0,Fog
+39.571809,-105.02961,4,2/6/2019 8:10,8,2,Day,Closed at Mineral Ave - Road closed due to accident.,0.2,5.8,0,Fog
+39.57938,-105.02594,4,2/6/2019 8:10,8,2,Day,Closed between CO-75/W Bowles Ave/W Littleton Blvd and CO-470 - Road closed due to accident.,0.2,5.8,0,Fog
+39.57938,-105.02594,4,2/6/2019 8:19,8,2,Day,Closed between CO-75/W Bowles Ave/W Littleton Blvd and CO-470 - Road closed due to accident.,0.2,5.8,0,Fog
+39.90016,-104.98816,3,11/7/2019 11:54,11,11,Day,At 104th Ave/Exit 221 - Accident.,8,0,0,Fog
+40.97023,-103.68731,3,12/14/2019 20:06,20,12,Night,At Colorado/Nebraska State Line - Accident. Single alternate lane traffic.,1,0,,Fog
+41.00088,-103.68775,3,12/14/2019 20:06,20,12,Night,At Peetz - Accident. Single alternate lane traffic.,1,0,,Fog
+41.00157,-103.68775,4,12/14/2019 22:52,22,12,Night,Closed at Peetz - Road closed due to accident.,0.25,3,,Fog
+39.410257,-105.499447,3,3/7/2019 14:40,14,3,Day,At CR-97/S Foxton Rd - Accident.,0.2,10.4,,Fog
+39.72558,-105.058952,3,2/6/2019 6:50,6,2,Day,At CO-95/Sheridan Blvd - Accident.,0.2,,,Fog
+39.946449,-104.98804,3,3/4/2019 6:35,6,3,Day,At 136th Ave - Accident.,3,,,Fog
+39.567472,-105.051066,3,3/6/2019 7:39,7,3,Day,At CO-75/Platte Canyon Rd - Accident.,3,8.1,,Fog
+39.70103,-104.98754,3,3/6/2019 16:40,16,3,Day,At I-25/US-87 - Accident.,5,5.8,,Fog
+39.20653,-105.99493,2,2/5/2019 23:35,23,2,Night,At US-285 (North) - Accident.,6,18.4,,Fog
+39.207729,-105.994822,2,2/5/2019 23:35,23,2,Night,At US-285 (South) - Accident.,6,18.4,,Fog
+39.800145,-104.985532,3,2/10/2019 13:16,13,2,Day,At 58th Ave/Exit 215 - Accident.,2,8.1,,Fog
+38.660352,-106.087624,3,2/16/2019 11:10,11,2,Day,At CO-291 - Accident.,5,27.6,,Fog
+39.78139,-105.13389,3,2/19/2019 12:56,12,2,Day,Ramp to Ward Rd - Accident.,5,5.8,,Fog
+39.78139,-105.13389,3,2/19/2019 12:59,12,2,Day,Ramp to Ward Rd - Accident.,5,5.8,,Fog
+39.592542,-106.247046,4,2/20/2019 11:46,11,2,Day,Closed at Bighorn Rd/Exit 180 - Road closed due to accident.,5,,,Fog
+39.74984,-105.01722,3,2/26/2019 16:06,16,2,Day,At 23rd Ave/Exit 211 - Accident.,10,6.9,,Fog
+39.74984,-105.01722,3,2/26/2019 17:40,17,2,Day,At 23rd Ave/Exit 211 - Accident.,10,5.8,,Fog
+39.911712,-104.99036,3,2/27/2019 19:40,19,2,Night,At CO-128/120th Ave/Exit 223 - Accident.,7,,,Fog
+39.67921,-105.90351,4,1/11/2019 0:56,0,1,Night,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident.,0.2,8.1,,Fog
+39.701812,-105.331333,3,1/12/2019 6:25,6,1,Night,At US-40/Exit 251 - Accident.,0.2,6.9,,Fog
+39.7873,-104.98934,3,3/7/2019 5:25,5,3,Night,At I-70/Exit 214 - Accident.,0.2,5.8,,Fog
+39.835279,-105.021517,3,3/7/2019 6:10,6,3,Day,At Federal Blvd - Accident.,0.1,6.9,,Fog
+39.72536,-105.118366,3,3/7/2019 7:58,7,3,Day,At CO-391/Kipling St - Accident.,0.1,4.6,,Fog
+39.616403,-104.897202,3,3/25/2019 6:20,6,3,Night,At CO-88/Belleview Ave/Exit 199 - Accident.,0.2,,,Fog
+39.763578,-105.233513,4,2/6/2019 8:02,8,2,Day,Closed at Washington Ave - Road closed due to accident.,0.2,5.8,,Fog
+39.768384,-105.235677,4,2/6/2019 8:02,8,2,Day,Closed at Iowa Dr - Road closed due to accident.,0.2,5.8,,Fog
+38.810573,-102.33227,4,2/6/2019 8:41,8,2,Day,Closed at CR-G (North) - Road closed due to accident.,0.2,15,,Fog
+38.69684,-102.33182,4,2/6/2019 8:41,8,2,Day,Closed at US-40 (East) - Road closed due to accident.,0.2,15,,Fog
+39.2734,-103.71967,2,2/22/2019 2:34,2,2,Night,At CR-118/Exit 354 - Accident.,0.5,11.5,,Fog
+39.273179,-103.715156,2,2/22/2019 2:34,2,2,Night,At I-70-BL/US-287/US-40/Exit 359 - Accident.,0.5,11.5,,Fog
+39.78313,-105.00687,3,2/26/2019 6:46,6,2,Day,At Pecos St/Exit 273 - Accident.,0.1,5.8,,Fog
+39.680941,-104.82867,3,2/27/2019 6:21,6,2,Day,At Mississippi Ave/Exit 7 - Accident.,0.5,8.1,,Fog
+39.39066,-104.75275,4,2/27/2019 8:04,8,2,Day,Closed between N Russelville Rd/CR-69 and E Bayou Gulch Rd - Road closed due to accident.,0.2,,,Fog
+39.39113,-104.75284,4,2/27/2019 8:04,8,2,Day,Closed between CO-86 and Castle Oaks Dr - Road closed due to accident.,0.2,,,Fog
+39.289595,-104.895339,3,2/27/2019 8:32,8,2,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,0.2,,,Fog
+39.72558,-105.058952,3,3/29/2019 6:38,6,3,Day,At CO-95/Sheridan Blvd - Accident.,0.5,6.9,,Fog
+40.267769,-103.71129,3,2/22/2019 1:54,1,2,Night,At CR-24/Exit 86 - Accident.,3,13.8,,Fog
+40.26305,-103.77677,2,2/22/2019 2:42,2,2,Night,At Barlow Rd/Exit 82 - Accident.,1.8,13.8,,Fog
+37.13344,-104.52154,3,3/2/2019 19:48,19,3,Night,At CR-69.4/Exit 11 - Accident.,0.2,8.1,0.05,Heavy Snow
+39.64507,-106.38209,4,12/13/2019 12:37,12,12,Day,At Vail Rd/Exit 176 - Accident.,0,18,0.02,Heavy Snow
+39.183886,-104.85037,2,3/13/2019 10:48,10,3,Day,At County Line Rd/Exit 163 - Accident.,0.2,,0.01,Heavy Snow
+39.138734,-104.862219,4,3/13/2019 9:27,9,3,Day,At Greenland Rd/Exit 167 - Accident.,0.2,26.5,0.01,Heavy Snow
+39.138734,-104.862219,3,3/13/2019 9:33,9,3,Day,At Greenland Rd/Exit 167 - Accident.,0.2,26.5,0.01,Heavy Snow
+39.678259,-105.937823,4,5/23/2019 20:12,20,5,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.25,5,0.01,Heavy Snow
+39.82391,-104.96168,3,10/10/2019 8:35,8,10,Day,At I-270/Exit 6 - Accident.,0.5,8,0,Heavy Snow
+39.79723,-105.04791,3,10/10/2019 8:39,8,10,Day,Ramp to CO-95/Sheridan Blvd - Accident.,0.5,8,0,Heavy Snow
+39.77988,-105.13801,4,10/10/2019 8:35,8,10,Day,Closed at CO-58/Exit 265 - Road closed due to accident.,0.5,8,0,Heavy Snow
+37.64569,-104.78106,3,10/28/2019 6:39,6,10,Night,At CO-10/Exit 50 - Accident.,0.5,7,0,Heavy Snow
+37.66041,-104.79633,3,10/28/2019 5:40,5,10,Night,Between Airport Rd/Exit 55 and CO-10/Exit 50 - Accident. Right lane blocked. Road surface in poor condition.,0.5,,0,Heavy Snow
+39.61976,-104.8994,3,1/24/2019 8:06,8,1,Day,At Orchard Rd/Exit 198 - Accident.,0.2,24.2,0,Heavy Snow
+40.449132,-104.99193,3,4/10/2019 15:22,15,4,Day,At CO-392/Exit 262 - Accident.,0.25,21,0,Heavy Snow
+39.78434,-105.025243,3,3/13/2019 10:26,10,3,Day,At Federal Blvd/Exit 272 - Accident.,0.4,34.5,,Heavy Snow
+39.78465,-105.02484,4,3/13/2019 9:43,9,3,Day,Ramp closed to Exit 272 - Road closed due to accident.,0.4,21.9,,Heavy Snow
+39.78403,-105.02197,4,3/13/2019 9:43,9,3,Day,Ramp closed to US-287/Federal Blvd - Road closed due to accident.,0.4,21.9,,Heavy Snow
+39.77836,-104.895773,3,2/6/2019 13:50,13,2,Day,At Quebec St/Exit 278 - Accident.,0.2,3.5,,Heavy Snow
+39.72542,-105.022004,3,2/6/2019 15:20,15,2,Day,At CO-88/Federal Blvd - Accident.,0.2,5.8,,Heavy Snow
+39.75646,-105.01333,4,1/28/2019 9:38,9,1,Day,Ramp closed to Exit 212B - Road closed due to accident.,0.5,,,Heavy Snow
+39.75771,-105.00953,4,1/28/2019 9:38,9,1,Day,Ramp closed to Speer Blvd - Road closed due to accident.,0.5,,,Heavy Snow
+39.97167,-104.98801,2,5/20/2019 5:55,5,5,Day,At E-470/Northwest Pky - Accident. Right lane blocked.,4,8,0,Heavy Rain
+39.76513,-105.607628,3,8/11/2019 10:47,10,8,Day,At CR-308/Exit 235 - Accident.,3,5,0.06,Heavy Rain
+40.007259,-105.332739,3,1/11/2019 6:50,6,1,Night,At CO-93/CO-7/Broadway St/Broadway - Accident.,4,,0.05,Heavy Rain
+39.522981,-104.8675,3,5/20/2019 17:35,17,5,Day,At Ridgegate Pkwy/Exit 192 - Accident.,1,7,0.02,Heavy Rain
+39.73664,-105.01436,3,5/28/2019 19:52,19,5,Day,At Zuni St/Exit 209C - Accident.,3,13,0,Heavy Rain
+39.77989,-104.9858,3,3/13/2019 6:41,6,3,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,3,21.9,,Heavy Rain
+39.897632,-104.987501,3,3/13/2019 6:47,6,3,Day,At CO-128/120th Ave/Exit 223 - Accident.,3,21.9,,Heavy Rain
+39.959146,-105.16927,3,3/13/2019 7:25,7,3,Day,At McCaslin Blvd - Accident.,1.5,24.2,,Heavy Rain
+39.78566,-105.0832,3,3/13/2019 7:37,7,3,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,1.5,24.2,,Heavy Rain
+40.2514,-103.88455,2,5/20/2019 18:53,18,5,Day,Between CO-144/Exit 79 and CO-52/Main St - Accident. Lane blocked.,5,16,,Heavy Rain
+40.2514,-103.88455,2,5/20/2019 18:53,18,5,Day,Between Long Bridge Road/Exit 73 and US-34/I-76-BL/Exit 75 - Accident. Lane blocked.,5,16,,Heavy Rain
+39.59195,-104.88308,3,2/23/2019 15:57,15,2,Day,At CO-88/Arapahoe Rd/Exit 197 - Accident.,10,24.2,0,Heavy Snow
+39.77841,-104.91289,3,1/24/2019 8:24,8,1,Day,At Dahlia St/Exit 277 - Accident.,0.2,16.1,,Heavy Snow
+39.80963,-104.98308,3,1/24/2019 10:51,10,1,Day,At I-76/Exit 216 - Accident.,0.5,,,Heavy Snow
+39.825525,-104.98286,3,1/24/2019 11:06,11,1,Day,At I-25 (North) - Accident.,0.5,,,Heavy Snow
+39.62763,-106.06916,4,4/30/2019 1:31,1,4,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,5,0.1,Heavy Snow
+39.70043,-104.8292,3,10/10/2019 9:52,9,10,Day,At Mississippi Ave/Exit 7 - Accident.,0.5,5,0.08,Heavy Snow
+39.65532,-104.83398,3,10/10/2019 8:53,8,10,Day,At I-225 - Accident.,0.5,5,0.04,Heavy Snow
+39.55517,-104.86915,4,10/10/2019 10:43,10,10,Day,Closed between I-25/US-87/CO-470 and Peoria St/Exit 2 - Road closed due to accident.,0.5,12,0.03,Heavy Snow
+38.27163,-104.60469,4,11/22/2019 9:41,9,11,Day,Closed between 1st St/Exit 98 and 13th St/Exit 99 - Road closed due to accident. Construction work.,0.5,6,0.03,Heavy Snow
+38.31592,-104.61543,3,11/22/2019 9:39,9,11,Day,At US-50/Exit 101 - Accident.,0.5,6,0.03,Heavy Snow
+39.15218,-104.85794,3,12/5/2019 12:37,12,12,Day,At Greenland Rd/Exit 167 - Accident.,0.5,,0.02,Heavy Snow
+39.52926,-106.21624,4,4/10/2019 10:15,10,4,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Road surface in poor condition.,0.5,5,0.02,Heavy Snow
+37.63082,-104.76795,3,12/15/2019 11:41,11,12,Day,At CO-10/Exit 50 - Accident.,0.25,8,0.01,Heavy Snow
+38.27163,-104.60469,4,11/22/2019 9:19,9,11,Day,Closed between 6th St/Exit 99A and 13th St/Exit 99 - Road closed due to accident.,0.75,6,0.01,Heavy Snow
+39.3824,-104.86037,3,2/6/2019 13:24,13,2,Day,At US-85/Exit 183 - Accident.,0.5,8.1,0.01,Heavy Snow
+39.50741,-104.87237,3,1/11/2019 17:52,17,1,Night,At Ridgegate Pkwy/Exit 192 - Accident.,0.5,12.7,0.01,Heavy Snow
+39.433169,-105.759016,3,5/20/2019 13:31,13,5,Day,At CR-62/Geneva Rd/Guanella Pass Rd - Accident.,0.25,12,0.01,Heavy Snow
+37.63082,-104.76795,3,12/28/2019 14:48,14,12,Day,At CO-10/Exit 50 - Accident.,0.25,3,0,Heavy Snow
+37.72112,-104.82224,3,12/15/2019 11:53,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Heavy Snow
+37.7211,-104.82223,3,12/15/2019 11:55,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Heavy Snow
+37.72112,-104.82224,3,12/15/2019 11:58,11,12,Day,At Butte Rd/Exit 59 - Accident.,0.25,8,0,Heavy Snow
+39.80963,-104.98308,3,10/10/2019 9:27,9,10,Day,At I-76/Exit 216 - Accident.,0.5,9,0,Heavy Snow
+39.6978,-105.20628,4,10/23/2019 22:37,22,10,Night,Closed at Grapevine Rd/Exit 256 - Road closed due to accident. Road marking work.,1,0,0,Heavy Snow
+39.73813,-104.37745,4,11/6/2019 13:41,13,11,Day,Closed between Wagner St and Smith Rd - Road closed due to accident.,0.25,14,0,Heavy Snow
+39.74134,-104.62177,4,11/6/2019 13:41,13,11,Day,Closed between Smith Rd and Wagner St - Road closed due to accident.,0.25,14,0,Heavy Snow
+39.72542,-105.02212,3,11/22/2019 6:09,6,11,Night,At CO-88/Federal Blvd - Accident.,0.75,5,0,Heavy Snow
+39.7254,-105.15401,3,11/22/2019 6:57,6,11,Day,At Denver West Colorado Mills Blvd - Accident.,0.75,5,0,Heavy Snow
+39.43942,-104.9616,4,3/13/2019 16:48,16,3,Day,Closed at Delva Way - Road closed due to accident.,0.1,28.8,0,Heavy Snow
+39.26523,-106.29029,4,1/28/2019 11:05,11,1,Day,Closed between US-24 and I-70/US-6/Exit 195 - Road closed due to accident.,0.5,15,0,Heavy Snow
+39.783931,-104.98937,3,4/10/2019 20:01,20,4,Night,At I-70/Exit 214 - Accident.,0.5,9,0,Heavy Snow
+39.77133,-104.99073,3,4/10/2019 19:49,19,4,Day,At Park Ave/Exit 213 - Accident.,0.5,9,0,Heavy Snow
+39.337434,-104.876639,3,4/12/2019 16:25,16,4,Day,At Tomah Rd/Exit 174 - Accident. Right lane blocked.,0.5,9,0,Heavy Snow
+39.393219,-106.052881,3,3/13/2019 11:49,11,3,Day,At S Main St - Accident.,0.2,19.6,,Heavy Snow
+39.026482,-104.833301,3,2/6/2019 13:10,13,2,Day,At Gleneagle Dr/Exit 156 - Accident.,0.5,18.4,,Heavy Snow
+39.58689,-107.19553,2,2/6/2019 18:58,18,2,Night,Between Exit 125 and Exit 121 - Accident. in the right lane.,0.5,11.5,,Heavy Snow
+39.632247,-106.058571,3,2/22/2019 16:06,16,2,Day,At US-6/CO-9/Exit 205 - Accident.,0.2,,,Heavy Snow
+39.618329,-105.926452,3,2/22/2019 16:18,16,2,Day,At I-70 (East) - Accident.,0.2,5.8,,Heavy Snow
+39.654303,-106.612571,4,1/11/2019 3:20,3,1,Night,Closed at Beaver Creek Rd/Exit 163 - Road closed due to accident.,0.2,4.6,,Heavy Snow
+39.79794,-104.98667,3,1/11/2019 16:32,16,1,Day,At 58th Ave/Exit 215 - Accident.,0.5,9.2,,Heavy Snow
+39.68514,-105.88582,4,1/16/2019 23:31,23,1,Night,Closed between US-6/Exit 216 and US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,38,,Heavy Snow
+39.5114,-106.14452,4,1/21/2019 15:00,15,1,Day,Closed between CO-91/Exit 195 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.5,4.6,,Heavy Snow
+39.626828,-106.07032,4,1/21/2019 16:12,16,1,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.2,8.1,,Heavy Snow
+39.52566,-106.21559,4,1/21/2019 16:42,16,1,Day,Closed at CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.2,5.8,,Heavy Snow
+39.894632,-105.337389,3,1/24/2019 8:30,8,1,Day,At Twin Spruce Rd - Accident.,0.5,9.2,,Heavy Snow
+39.79794,-104.98667,3,1/28/2019 5:46,5,1,Night,At 58th Ave/Exit 215 - Accident.,0.5,8.1,,Heavy Snow
+39.78325,-105.00662,4,1/28/2019 7:40,7,1,Day,Closed between Pecos St/Exit 273 and Federal Blvd/Exit 272 - Road closed due to accident.,0.5,9.2,,Heavy Snow
+39.72542,-105.022004,3,1/28/2019 10:31,10,1,Day,At CO-88/Federal Blvd - Accident.,0.5,4.6,,Heavy Snow
+39.78042,-104.99044,2,12/28/2019 13:14,13,12,Day,At I-25/US-87/Valley Hwy/Exit 274 - Accident.,0.5,22,0,Heavy Snow
+38.34313,-104.61977,3,10/29/2019 17:01,17,10,Day,At Pace Rd/Exit 104 - Accident.,0.25,28,0,Heavy Snow
+39.516843,-104.867828,3,4/10/2019 20:31,20,4,Night,At Ridgegate Pkwy/Exit 192 - Accident.,0.5,25,0,Heavy Snow
+39.508202,-104.87215,3,4/10/2019 20:37,20,4,Night,Between Ridgegate Pkwy/Exit 192 and Oak Ln/Exit 190 - Accident. Two lanes blocked.,0.5,25,0,Heavy Snow
+38.87957,-104.94656,3,10/27/2019 9:39,9,10,Day,At US-24-BL/Manitou Ave (West) - Accident.,10,12,0,Light Rain
+39.77712,-104.88257,2,11/6/2019 20:17,20,11,Night,Between I-270/Exit 279 and Havana Street/Exit 280 - Accident. Right lane blocked.,7,9,0,Light Rain
+39.57889,-104.87586,3,9/8/2019 17:59,17,9,Day,At Dry Creek Rd/Exit 196 - Accident.,7,9,0.09,Light Rain
+38.928188,-104.813227,4,3/13/2019 22:45,22,3,Night,Closed between I-25 BL/Nevada Ave/Exit 148 and Founders Pky/Exit 184 - Road closed due to accident. Construction work.,10,16.1,0.06,Light Rain
+38.274806,-104.505108,4,6/17/2019 17:51,17,6,Day,Closed at CO-233/Baxter Rd - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Light Rain
+38.27522,-104.49662,4,6/17/2019 17:51,17,6,Day,Closed at Paul Harvey Blvd - Road closed due to accident. emergency vehicles at scene.,10,,0.06,Light Rain
+39.76606,-104.8275,3,9/8/2019 17:57,17,9,Day,Ramp to I-70 Westbound and Peoria St - Accident.,9,7,0.06,Light Rain
+38.189642,-104.63292,3,7/27/2019 19:53,19,7,Day,At CO-45/Pueblo Blvd/Exit 94 - Accident.,8,10,0.05,Light Rain
+39.54929,-104.86938,3,5/8/2019 7:41,7,5,Day,Ramp to E-470 Northbound/CO-470 WB - Accident.,3,12,0.04,Light Rain
+39.84661,-104.92396,3,5/8/2019 8:59,8,5,Day,At CO-224/74th Ave/Exit 8 - Accident.,4,17,0.04,Light Rain
+40.38127,-104.9936,2,6/3/2019 16:48,16,6,Day,At CO-402/Exit 255 - Accident. Left lane blocked.,10,12,0.04,Light Rain
+39.44541,-104.87551,3,9/6/2019 18:13,18,9,Day,At Happy Canyon Rd/Exit 187 - Accident.,10,9,0.03,Light Rain
+39.74628,-105.39774,4,5/8/2019 22:56,22,5,Night,Closed at CO-119 - Road closed due to accident.,5,8,0.03,Light Rain
+39.555111,-104.870529,3,7/27/2019 19:17,19,7,Day,At CO-470/E-470/Exit 194 - Accident.,10,7,0.03,Light Rain
+38.527273,-102.785731,4,7/20/2019 22:47,22,7,Night,Closed at US-40 - Road closed due to accident.,10,22,0.03,Light Rain
+38.738843,-104.747253,3,1/11/2019 4:56,4,1,Night,At CO-16/Exit 132 - Accident.,10,11.5,0.02,Light Rain
+39.5771,-104.87484,3,3/13/2019 6:21,6,3,Night,At Dry Creek Rd/Exit 196 - Accident.,2,10.4,0.02,Light Rain
+39.114784,-108.574293,3,3/21/2019 16:08,16,3,Day,At CR-24/Exit 28 - Accident.,3,12.7,0.02,Light Rain
+38.308752,-104.625501,4,3/22/2019 22:35,22,3,Night,Closed at I-25/US-85/US-87/CO-47 - Road closed due to accident. Construction work.,5,25.3,0.02,Light Rain
+39.639292,-104.885755,4,5/8/2019 10:29,10,5,Day,Closed at Yosemite St/Exit 2 - Road closed due to accident.,2,12,0.02,Light Rain
+40.35979,-104.98377,3,5/20/2019 3:47,3,5,Night,At CR-16/Exit 254 - Accident.,5,5,0.02,Light Rain
+40.236648,-104.98001,3,7/1/2019 19:34,19,7,Day,At CO-56/Exit 250 - Accident. Lane blocked.,10,7,0.02,Light Rain
+40.236648,-104.98001,3,7/1/2019 20:01,20,7,Day,At CO-56/Exit 250 - Accident. Lane blocked.,10,5,0.02,Light Rain
+39.67921,-105.90351,4,7/7/2019 17:57,17,7,Day,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident. Road marking work.,10,9,0.02,Light Rain
+39.64324,-106.30459,3,8/11/2019 15:13,15,8,Day,At Bighorn Rd/Exit 180 - Accident.,10,5,0.02,Light Rain
+39.64919,-106.021329,3,8/11/2019 15:09,15,8,Day,At Eisenhower Memorial Tunl (West) - Accident.,10,5,0.02,Light Rain
+38.861942,-104.914414,3,7/27/2019 18:55,18,7,Day,At US-24-BL/Manitou Ave (East) - Accident.,10,8,0.02,Light Rain
+39.978111,-105.216118,3,5/22/2019 15:01,15,5,Day,At CO-157/Boulder Rd/Foothill Pky - Accident.,10,6,0.01,Light Rain
+40.402697,-104.99352,3,3/22/2019 19:06,19,3,Day,At CO-402/Exit 255 - Accident.,10,19.6,0.01,Light Rain
+39.702147,-104.987559,3,5/8/2019 16:26,16,5,Day,At I-25 - Accident.,9,15,0.01,Light Rain
+40.40703,-104.997712,4,5/9/2019 11:43,11,5,Day,At I-25/US-87 - Accident.,10,8,0.01,Light Rain
+40.40701,-105.002225,4,5/9/2019 11:41,11,5,Day,Closed at I-25 - Road closed due to accident.,10,8,0.01,Light Rain
+39.621571,-104.95988,3,6/21/2019 18:05,18,6,Day,At CO-88/E Belleview Ave - Accident.,8,13,0.01,Light Rain
+39.623069,-104.95985,3,6/21/2019 18:05,18,6,Day,At CR-42/E Arapahoe Rd - Accident.,8,13,0.01,Light Rain
+39.5458,-107.662786,3,6/21/2019 16:25,16,6,Day,At Manncreek Rd/Exit 94 - Accident.,10,6,0.01,Light Rain
+39.54453,-107.65024,4,6/21/2019 15:52,15,6,Day,Closed at 9th St/Exit 97 - Road closed due to accident.,7,6,0.01,Light Rain
+39.74033,-105.500184,3,7/12/2019 13:31,13,7,Day,At CO-103/Exit 240 - Accident.,10,5,0.01,Light Rain
+39.70043,-104.8292,3,9/6/2019 17:59,17,9,Day,At Mississippi Ave/Exit 7 - Accident.,10,23,0.01,Light Rain
+39.633586,-104.906788,3,7/4/2019 18:13,18,7,Day,At I-225 - Accident.,10,7,0.01,Light Rain
+39.72543,-105.02242,3,11/6/2019 19:09,19,11,Night,At CO-88/Federal Blvd - Accident.,2,7,0,Light Rain
+39.90957,-104.9906,2,10/1/2019 5:45,5,10,Night,At CO-128/120th Ave/Exit 223 - Accident. Left lane blocked.,1,0,0,Light Rain
+38.785278,-104.78968,3,10/2/2019 3:52,3,10,Night,At CO-29/Circle Dr/Exit 138 - Accident.,3,6,0,Light Rain
+39.776431,-104.875114,3,3/29/2019 6:30,6,3,Day,At Havana Street/Exit 280 - Accident.,0.4,6.9,0,Light Rain
+39.776488,-104.873629,3,3/29/2019 6:52,6,3,Day,At I-270/Exit 279 - Accident.,0.4,6.9,0,Light Rain
+39.602214,-104.888992,3,4/10/2019 8:12,8,4,Day,At Orchard Rd/Exit 198 - Accident.,0.75,7,0,Light Rain
+39.856301,-104.987278,3,4/10/2019 12:01,12,4,Day,At 84th Ave/Exit 219 - Accident.,1,13,0,Light Rain
+39.77999,-104.9519,3,4/22/2019 6:35,6,4,Day,At Steele St/Exit 276 - Accident.,1,8,0,Light Rain
+39.71571,-105.19175,2,4/22/2019 6:47,6,4,Day,Between US-6/6th Ave/Exit 261 and I-70-BL/Exit 241 - Accident.,1,8,0,Light Rain
+39.8231,-104.9673,3,4/22/2019 6:57,6,4,Day,At I-270/Exit 6 - Accident.,1,9,0,Light Rain
+39.77841,-104.91289,3,5/7/2019 6:54,6,5,Day,At Dahlia St/Exit 277 - Accident.,0.75,0,0,Light Rain
+39.72542,-105.022004,3,5/20/2019 7:47,7,5,Day,At CO-88/Federal Blvd - Accident.,1,6,0,Light Rain
+39.986161,-105.212738,3,5/22/2019 15:15,15,5,Day,At Louisville - Accident. Two lanes blocked.,10,7,0,Light Rain
+38.864143,-104.66338,4,5/2/2019 7:06,7,5,Day,Closed between E Woodmen Rd and US-24-BL/E Platte Ave/N Powers Blvd - Road closed due to accident.,3,13,0,Light Rain
+39.56392,-104.87177,3,6/22/2019 20:35,20,6,Day,At County Line Rd/Exit 195 - Accident.,10,5,0,Light Rain
+38.60606,-104.68029,3,7/30/2019 17:19,17,7,Day,At Pikes Peak Meadows/Exit 122 - Accident.,10,8,0,Light Rain
+39.13818,-104.86255,3,11/16/2019 18:39,18,11,Night,At County Line Rd/Exit 163 - Accident.,10,21,0,Light Rain
+39.78009,-104.93226,3,12/5/2019 9:35,9,12,Day,At Dahlia St/Exit 277 - Accident.,10,5,0,Light Rain
+39.78553,-105.08371,3,12/5/2019 11:43,11,12,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,40,3,0,Light Rain
+40.33178,-104.98035,3,12/5/2019 14:51,14,12,Day,At CO-56/Exit 250 - Accident.,10,12,0,Light Rain
+39.644777,-105.178717,3,4/10/2019 8:13,8,4,Day,At Hampden Ave - Accident.,1,12,0,Light Rain
+39.77537,-104.860736,3,4/10/2019 8:43,8,4,Day,At Havana Street/Exit 280 - Accident.,2,14,0,Light Rain
+39.6966,-104.82921,3,4/10/2019 8:42,8,4,Day,At Mississippi Ave/Exit 7 - Accident.,2,14,0,Light Rain
+39.342034,-104.874956,3,4/12/2019 13:28,13,4,Day,At Tomah Rd/Exit 174 - Accident.,10,6,0,Light Rain
+39.65481,-102.802184,4,4/28/2019 19:32,19,4,Day,Closed at CO-59/Cr-f - Road closed due to accident.,10,20,0,Light Rain
+39.885439,-104.98767,3,4/28/2019 21:19,21,4,Night,At 104th Ave/Exit 221 - Accident.,40,14,0,Light Rain
+39.900221,-104.988178,3,5/7/2019 13:09,13,5,Day,At 104th Ave/Exit 221 - Accident.,3,15,0,Light Rain
+39.77841,-104.91289,3,5/7/2019 14:36,14,5,Day,At Dahlia St/Exit 277 - Accident.,3,17,0,Light Rain
+39.78566,-105.0832,3,5/7/2019 14:45,14,5,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,3,17,0,Light Rain
+39.53177,-104.86793,3,5/8/2019 17:41,17,5,Day,At Lincoln Ave/Exit 193 - Accident.,10,15,0,Light Rain
+39.835804,-105.024092,3,5/18/2019 14:02,14,5,Day,At Federal Blvd - Accident.,10,6,0,Light Rain
+39.71143,-104.99904,3,5/20/2019 6:19,6,5,Day,At CO-26/Alameda Ave/Exit 208 - Accident.,1,10,0,Light Rain
+39.76038,-105.00582,3,5/20/2019 15:09,15,5,Day,At 20th St/Exit 212 - Accident.,15,7,0,Light Rain
+39.75354,-105.01485,2,5/20/2019 17:47,17,5,Day,At Speer Blvd/Exit 212 - Accident. Right lane blocked.,4,7,0,Light Rain
+39.77836,-104.895773,3,5/20/2019 16:29,16,5,Day,At Quebec St/Exit 278 - Accident.,4,7,0,Light Rain
+39.73479,-105.01503,3,5/20/2019 17:38,17,5,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,4,7,0,Light Rain
+39.69622,-105.21534,3,5/20/2019 18:26,18,5,Day,At Grapevine Rd/Exit 256 - Accident.,4,7,0,Light Rain
+39.68108,-105.18844,2,5/21/2019 6:09,6,5,Day,At CO-26/W Alameda Pkwy - Accident.,0.75,7,0,Light Rain
+39.70473,-105.19299,2,5/21/2019 6:11,6,5,Day,At I-70/US-6 - Accident.,0.75,7,0,Light Rain
+39.52242,-107.78233,2,5/21/2019 13:04,13,5,Day,At CO-13/Taughenbaugh Blvd/Exit 90 - Accident.,6,9,0,Light Rain
+39.723457,-105.011526,3,5/22/2019 16:35,16,5,Day,At US-6/6th Ave/Exit 209 - Accident.,7,8,0,Light Rain
+39.987149,-104.98768,3,5/22/2019 18:08,18,5,Day,At E-470/Northwest Pky - Accident.,10,0,0,Light Rain
+39.783247,-105.127782,3,5/22/2019 18:13,18,5,Day,At Kipling St/Exit 267 - Accident.,7,3,0,Light Rain
+39.897632,-104.987501,3,5/22/2019 19:29,19,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,10,6,0,Light Rain
+39.908215,-104.990561,3,5/22/2019 19:26,19,5,Day,At CO-128/120th Ave/Exit 223 - Accident. Two lanes blocked.,10,6,0,Light Rain
+39.672869,-104.929459,3,5/26/2019 16:49,16,5,Day,At Yale Ave/Exit 202 - Accident.,10,9,0,Light Rain
+40.33279,-104.98006,4,5/26/2019 20:44,20,5,Day,Closed between CO-56/Exit 250 and CR-16/Exit 254 - Road closed due to accident.,10,10,0,Light Rain
+40.33279,-104.98006,4,5/26/2019 21:05,21,5,Night,Closed between CO-60/Exit 252 and CR-16/Exit 254 - Road closed due to accident.,10,10,0,Light Rain
+39.740607,-104.82522,3,5/1/2019 14:36,14,5,Day,At US-40/US-287/Colfax Ave/Exit 10 - Accident.,10,10,0,Light Rain
+39.59486,-104.88345,3,5/1/2019 21:01,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
+39.59462,-104.884005,3,5/1/2019 21:01,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
+39.59486,-104.88345,3,5/1/2019 21:19,21,5,Night,At I-25/US-87 - Accident.,10,6,0,Light Rain
+40.33043,-104.81183,4,6/2/2019 18:02,18,6,Day,Closed between CR-396 and US-85 - Road closed due to accident.,10,17,0,Light Rain
+40.33043,-104.81183,4,6/2/2019 18:22,18,6,Day,Closed between County Road 396 and County Road 42 - Road closed due to accident.,10,17,0,Light Rain
+39.73664,-105.01436,3,6/5/2019 22:09,22,6,Night,At Zuni St/Exit 209C - Accident.,10,10,0,Light Rain
+39.72889,-105.01489,2,6/5/2019 22:28,22,6,Night,At US-6/6th Ave/Exit 209 - Accident.,10,6,0,Light Rain
+38.216597,-104.253067,3,6/7/2019 19:19,19,6,Day,At CR-725/68th Ln - Accident.,10,6,0,Light Rain
+38.21275,-104.249442,3,6/7/2019 19:19,19,6,Day,At CO-209 - Accident.,10,6,0,Light Rain
+39.740457,-105.014645,4,6/9/2019 3:00,3,6,Night,Closed between I-25/CO-33/Auraria Pky and US-287/CO-88/Federal Blvd - Road closed due to accident. Police activity ongoing.,10,9,0,Light Rain
+38.61402,-104.68617,3,6/13/2019 16:23,16,6,Day,Between Ray Nixon Rd/Exit 125 and Pikes Peak Meadows/Exit 122 - Accident. emergency vehicles at scene.,10,8,0,Light Rain
+40.203661,-104.86549,4,6/18/2019 12:05,12,6,Day,Closed at County Road 25.5 - Road closed due to accident.,10,5,0,Light Rain
+39.863804,-104.98748,3,6/21/2019 13:43,13,6,Day,At Thornton Pky/Exit 220 - Accident.,10,8,0,Light Rain
+39.95748,-104.98814,3,6/21/2019 14:45,14,6,Day,At E 144th Ave/Exit 226 - Accident.,5,6,0,Light Rain
+39.77836,-104.895773,3,6/21/2019 14:21,14,6,Day,At Quebec St/Exit 278 - Accident.,5,10,0,Light Rain
+39.57931,-104.8761,3,6/21/2019 15:29,15,6,Day,At Dry Creek Rd/Exit 196 - Accident.,10,7,0,Light Rain
+40.453057,-104.99219,3,6/21/2019 18:01,18,6,Day,At Crossroads Blvd/Exit 259 - Accident.,10,6,0,Light Rain
+39.68874,-104.97125,3,6/21/2019 19:18,19,6,Day,At University Blvd/Exit 205 - Accident. Left lane blocked.,10,3,0,Light Rain
+39.882321,-104.98746,3,6/22/2019 16:29,16,6,Day,At 104th Ave/Exit 221 - Accident.,4,10,0,Light Rain
+40.383712,-106.613184,3,6/23/2019 7:39,7,6,Day,At CR-19 - Accident.,10,8,0,Light Rain
+39.61976,-104.8994,3,6/28/2019 23:49,23,6,Night,At Orchard Rd/Exit 198 - Accident.,10,20,0,Light Rain
+39.64884,-105.18074,3,6/30/2019 22:10,22,6,Night,At CO-8/Morrison Rd - Accident.,10,6,0,Light Rain
+39.68164,-105.892327,3,7/7/2019 19:24,19,7,Day,At US-6/Exit 216 - Accident.,10,5,0,Light Rain
+39.78004,-104.93171,3,7/8/2019 15:30,15,7,Day,At Monaco St/Exit 277 - Accident.,35,7,0,Light Rain
+39.65813,-104.92051,3,7/13/2019 15:43,15,7,Day,At Yale Ave/Exit 202 - Accident.,10,14,0,Light Rain
+39.10308,-105.989862,4,7/14/2019 19:48,19,7,Day,Closed at CR-20 - Road closed due to accident.,10,3,0,Light Rain
+39.153657,-105.999216,4,7/14/2019 20:09,20,7,Day,Closed at Leadville - Road closed due to accident.,10,3,0,Light Rain
+39.10308,-105.989862,4,7/14/2019 20:09,20,7,Day,Closed at CR-20 - Road closed due to accident.,10,3,0,Light Rain
+39.924212,-105.110843,3,7/15/2019 15:53,15,7,Day,At Wadsworth Pky/CO-121/CO-128 - Accident.,12,7,0,Light Rain
+39.77841,-104.91289,3,7/15/2019 18:54,18,7,Day,At Dahlia St/Exit 277 - Accident.,40,20,0,Light Rain
+39.81999,-104.97922,3,7/21/2019 22:11,22,7,Night,At I-25/Exit 5 - Accident.,10,9,0,Light Rain
+39.6966,-104.82921,3,8/8/2019 14:15,14,8,Day,At Mississippi Ave/Exit 7 - Accident.,10,8,0,Light Rain
+39.771929,-104.822968,3,8/11/2019 16:15,16,8,Day,At I-225 - Accident.,10,13,0,Light Rain
+38.282353,-104.55614,3,8/21/2019 17:00,17,8,Day,At Newpark Ln/Troy Ave - Accident.,10,6,0,Light Rain
+39.8236,-104.978695,4,6/4/2019 16:13,16,6,Day,Closed at Washington St - Road closed due to accident.,10,23,0,Light Rain
+39.762,-105.02516,4,8/4/2019 22:42,22,8,Night,Closed between Federal Blvd and Clay St - Road closed due to accident.,10,22,0,Light Rain
+39.762,-105.020542,4,8/4/2019 22:42,22,8,Night,Closed at Federal Blvd - Road closed due to accident.,10,22,0,Light Rain
+39.604586,-104.890348,3,9/6/2019 15:25,15,9,Day,At Orchard Rd/Exit 198 - Accident.,10,8,0,Light Rain
+39.192287,-104.851079,3,9/6/2019 17:01,17,9,Day,At Upper Lake Gulch Rd/Exit 172 - Accident.,10,16,0,Light Rain
+39.959146,-105.16927,3,5/17/2019 14:35,14,5,Day,At McCaslin Blvd - Accident.,10,22,0,Light Rain
+39.68142,-104.93705,2,5/26/2019 17:30,17,5,Day,Between Evans Ave/Exit 203 and Yale Ave/Exit 202 - Accident.,10,14,0,Light Rain
+38.89672,-104.842626,2,5/28/2019 14:13,14,5,Day,At Garden of the Gods Rd - Accident. Lane blocked.,10,16,0,Light Rain
+39.74009,-104.914701,3,6/3/2019 15:22,15,6,Day,At Monaco Pky - Accident.,10,12,0,Light Rain
+39.72573,-105.058798,3,6/7/2019 12:27,12,6,Day,At CO-121/Wadsworth Blvd - Accident.,30,5,0,Light Rain
+39.776551,-104.876398,3,6/8/2019 17:07,17,6,Day,At Havana Street/Exit 280 - Accident.,10,15,0,Light Rain
+39.900221,-104.988178,3,6/13/2019 15:22,15,6,Day,At 104th Ave/Exit 221 - Accident.,10,5,0,Light Rain
+39.85214,-104.98638,3,6/13/2019 15:34,15,6,Day,At 84th Ave/Exit 219 - Accident. Three lanes blocked.,10,5,0,Light Rain
+39.78014,-104.95929,2,6/13/2019 15:56,15,6,Day,Between York St/Exit 275 and Washington St/Exit 275A - Accident. Right lane blocked.,10,5,0,Light Rain
+39.88976,-105.07393,2,6/13/2019 15:52,15,6,Day,At 104th Ave - Accident. Left lane blocked.,10,5,0,Light Rain
+39.897632,-104.987501,3,6/15/2019 17:57,17,6,Day,At CO-128/120th Ave/Exit 223 - Accident.,20,15,0,Light Rain
+39.783247,-105.127782,3,6/21/2019 20:37,20,6,Day,At Kipling St/Exit 267 - Accident.,5,3,0,Light Rain
+39.77012,-104.99179,3,6/22/2019 14:55,14,6,Day,At I-70/Exit 214 - Accident.,10,0,0,Light Rain
+39.643813,-104.912912,3,6/27/2019 18:30,18,6,Day,At US-285/Hampden Ave/Exit 201 - Accident.,10,9,0,Light Rain
+39.78377,-105.096181,3,6/30/2019 18:40,18,6,Day,At Kipling St/Exit 267 - Accident.,10,13,0,Light Rain
+39.555111,-104.870529,3,6/1/2019 14:32,14,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,28,0,Light Rain
+39.54929,-104.86938,3,6/1/2019 14:32,14,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,28,0,Light Rain
+39.555111,-104.870529,4,6/1/2019 13:43,13,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,13,0,Light Rain
+39.54929,-104.86938,4,6/1/2019 13:43,13,6,Day,At CO-470/E-470/Exit 194 - Accident.,10,13,0,Light Rain
+39.113308,-104.865658,3,7/4/2019 16:51,16,7,Day,At CO-105/Exit 161 - Accident.,10,14,0,Light Rain
+39.77012,-104.99179,3,7/4/2019 19:19,19,7,Day,At Park Ave/Exit 213 - Accident. Left lane blocked.,10,6,0,Light Rain
+39.77012,-104.99179,2,7/4/2019 20:22,20,7,Day,At Park Ave/Exit 213 - Accident. Left lane blocked.,10,3,0,Light Rain
+39.815443,-104.98299,3,7/4/2019 19:57,19,7,Day,At I-76/Exit 216 - Accident.,10,3,0,Light Rain
+39.723457,-105.011526,3,7/4/2019 21:33,21,7,Night,At US-6/6th Ave/Exit 209 - Accident.,10,5,0,Light Rain
+39.84497,-104.9846,3,7/14/2019 13:23,13,7,Day,At 84th Ave/Exit 219 - Accident.,20,15,0,Light Rain
+39.933124,-105.123779,3,7/24/2019 17:39,17,7,Day,At 96th St/Storagetek Dr - Accident.,30,18,0,Light Rain
+39.630035,-104.905278,3,7/25/2019 13:37,13,7,Day,At I-225 - Accident.,10,9,0,Light Rain
+39.825525,-104.98286,3,3/29/2019 3:28,3,3,Night,At I-25 (North) - Accident.,2,4.6,,Light Rain
+39.82164,-104.98251,2,3/29/2019 3:50,3,3,Night,At US-36/Exit 217 - Accident. Right lane blocked.,2,5.8,,Light Rain
+38.423477,-106.406543,4,3/7/2019 12:16,12,3,Day,Closed at Pitkin - Road closed due to accident.,10,12.7,,Light Rain
+38.423477,-106.406543,4,3/7/2019 12:16,12,3,Day,Closed at US-285/Kimberlin Ln - Road closed due to accident.,10,12.7,,Light Rain
+39.8557,-104.91465,2,3/22/2019 18:25,18,3,Day,Between 88th Ave/Exit 10 and 96th Ave/Exit 11 - Accident. Left lane blocked.,10,8.1,,Light Rain
+40.51959,-104.99234,3,1/11/2019 15:36,15,1,Day,At CO-392/Exit 262 - Accident.,10,8.1,,Light Rain
+40.2705,-103.58778,3,8/8/2019 1:15,1,8,Night,Between CO-71/Colorado Ave/Exit 90 and CR-33/Exit 95 - Accident. Lane blocked.,10,8,,Light Rain
+39.76606,-104.8275,3,10/28/2019 6:47,6,10,Night,Ramp to I-70 Westbound and Peoria St - Accident.,0.75,0,0.08,Light Snow
+38.794342,-104.796491,2,3/29/2019 20:44,20,3,Night,At CO-29/Circle Dr/Exit 138 - Accident.,1.8,15,0.05,Light Snow
+38.79994,-104.79953,2,3/29/2019 21:15,21,3,Night,At CO-29/Circle Dr/Exit 138 - Accident. Lane blocked.,5,15,0.05,Light Snow
+39.74671,-105.43701,4,5/8/2019 22:56,22,5,Night,Closed between I-70/US-6 and US-6/CO-119 - Road closed due to accident.,1,12,0.04,Light Snow
+39.74262,-105.43115,4,5/8/2019 22:56,22,5,Night,Closed at I-70/US-6 - Road closed due to accident.,1,12,0.04,Light Snow
+39.74013,-104.72026,3,5/20/2019 22:39,22,5,Night,At E-470/Exit 289 - Accident.,0.75,7,0.04,Light Snow
+39.34785,-106.05474,3,12/14/2019 18:42,18,12,Night,At CR-10/Park Hill Rd - Accident. Single alternate lane traffic.,1,12,0.03,Light Snow
+39.31292,-106.05911,3,12/14/2019 18:42,18,12,Night,At CR-850/Blue Lakes Rd - Accident. Single alternate lane traffic.,1,12,0.03,Light Snow
+38.23235,-104.61389,3,12/15/2019 18:59,18,12,Night,At Indiana Ave/Exit 96 - Accident.,1,5,0.03,Light Snow
+37.921,-104.82395,3,10/28/2019 12:37,12,10,Day,At Graneros Rd/Exit 71 - Accident.,0.75,7,0.03,Light Snow
+39.885176,-104.882407,4,3/13/2019 9:30,9,3,Day,Closed between at US-85 and CO-2 - Road closed due to accident.,0.8,42.6,0.03,Light Snow
+39.88534,-104.881064,4,3/13/2019 9:30,9,3,Day,Closed at at US-85 - Road closed due to accident.,0.8,42.6,0.03,Light Snow
+39.74211,-104.82549,3,4/11/2019 5:54,5,4,Night,At US-40/US-287/Colfax Ave/Exit 10 - Accident.,2,5,0.03,Light Snow
+40.1569,-104.97871,3,5/9/2019 9:26,9,5,Day,At CO-119/Exit 240 - Accident.,4,6,0.03,Light Snow
+40.479467,-104.987431,2,4/30/2019 16:46,16,4,Day,At I-25 - Accident. Lane blocked.,1,5,0.03,Light Snow
+39.67841,-104.82897,3,12/28/2019 10:17,10,12,Day,At Iliff Ave/Exit 5 - Accident. Two lanes blocked.,1,16,0.02,Light Snow
+39.62199,-106.0731,2,12/13/2019 22:55,22,12,Night,At US-6/CO-9/Exit 205 - Accident. Lane blocked.,2,3,0.02,Light Snow
+39.76332,-105.58064,3,12/14/2019 7:59,7,12,Day,At CR-275/Exit 238 - Accident.,0.75,10,0.02,Light Snow
+39.6444,-106.30777,4,10/10/2019 7:12,7,10,Day,Closed between Bighorn Rd/Exit 180 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.75,8,0.02,Light Snow
+39.6444,-106.30777,4,10/18/2019 7:53,7,10,Day,Closed between Vail Rd/Exit 176 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident. Road marking work.,6,3,0.02,Light Snow
+39.566,-104.87238,3,10/23/2019 22:07,22,10,Night,At County Line Rd/Exit 195 - Accident.,1,6,0.02,Light Snow
+39.28905,-104.89585,3,10/28/2019 11:17,11,10,Day,At Tomah Rd/Exit 174 - Accident.,1,,0.02,Light Snow
+37.86042,-104.82897,4,10/28/2019 13:01,13,10,Day,Closed between Graneros Rd/Exit 71 and CR-110/CR-650/Exit 64 - Road closed due to accident. Road surface in poor condition.,0.75,,0.02,Light Snow
+39.63212,-104.9062,3,11/22/2019 5:39,5,11,Night,At I-225 - Accident.,1,7,0.02,Light Snow
+39.56187,-104.87165,2,11/22/2019 5:45,5,11,Night,At CO-470/E-470/Exit 194 - Accident.,1,7,0.02,Light Snow
+39.55089,-104.86982,3,11/22/2019 7:44,7,11,Day,At CO-470/E-470/Exit 194 - Accident.,1,3,0.02,Light Snow
+39.45056,-104.87576,3,11/22/2019 7:48,7,11,Day,At Happy Canyon Rd/Exit 187 - Accident.,1,3,0.02,Light Snow
+39.38256,-104.86037,3,11/22/2019 9:54,9,11,Day,At US-85/Exit 183 - Accident.,1,0,0.02,Light Snow
+39.776431,-104.875114,3,1/11/2019 15:50,15,1,Day,At Havana Street/Exit 280 - Accident.,0.8,12.7,0.02,Light Snow
+39.771881,-104.822352,3,1/22/2019 5:09,5,1,Night,At I-225 - Accident.,2,23,0.02,Light Snow
+40.16393,-104.97946,3,5/9/2019 9:15,9,5,Day,At CO-119/Exit 240 - Accident.,3,6,0.02,Light Snow
+39.52678,-104.86773,3,5/20/2019 19:17,19,5,Day,At Exit 192 - Accident. Two lanes blocked.,1,8,0.02,Light Snow
+39.63217,-104.90596,3,12/28/2019 7:36,7,12,Day,At I-225 - Accident.,0.75,14,0.01,Light Snow
+40.60477,-105.00121,3,12/14/2019 14:41,14,12,Day,At Mountain Vista Dr/Exit 271 - Accident.,1,7,0.01,Light Snow
+39.38498,-106.05687,4,12/14/2019 20:32,20,12,Night,Closed between S Main St and CR-10/Park Hill Rd - Road closed due to accident. Winter storm.,4,7,0.01,Light Snow
+39.2911,-106.0666,4,12/14/2019 20:32,20,12,Night,Closed between CR-10/Park Hill Rd and S Main St - Road closed due to accident. Winter storm.,4,7,0.01,Light Snow
+37.63094,-104.76767,3,12/15/2019 6:28,6,12,Night,At I-25-BL/Exit 52 - Accident.,0,0,0.01,Light Snow
+39.6444,-106.30777,4,10/10/2019 6:56,6,10,Day,Closed between Vail Rd/Exit 176 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,1,7,0.01,Light Snow
+39.47887,-104.8724,3,10/27/2019 8:55,8,10,Day,At Oak Ln/Exit 190 - Accident.,1,9,0.01,Light Snow
+38.63515,-107.98675,4,10/28/2019 8:41,8,10,Day,Closed at Carnation Rd - Road closed due to accident.,0.75,5,0.01,Light Snow
+38.63515,-107.98675,4,10/28/2019 8:41,8,10,Day,Closed at Carnation Rd - Road closed due to accident.,0.75,5,0.01,Light Snow
+38.24618,-104.61187,3,10/28/2019 8:17,8,10,Day,At El Dorado Ave/Exit 97B - Accident.,0.5,7,0.01,Light Snow
+39.53316,-104.86805,3,10/28/2019 10:07,10,10,Day,At Lincoln Ave/Exit 193 - Accident.,1,3,0.01,Light Snow
+39.10762,-105.89023,3,10/29/2019 19:23,19,10,Night,At US-24 (North) - Accident.,1,8,0.01,Light Snow
+39.05861,-105.85265,3,10/29/2019 19:23,19,10,Night,At CR-7 - Accident.,1,8,0.01,Light Snow
+40.40187,-104.99355,3,11/11/2019 4:57,4,11,Night,At CO-402/Exit 255 - Accident.,3,7,0.01,Light Snow
+39.53685,-104.86837,3,11/11/2019 5:45,5,11,Night,At Lincoln Ave/Exit 193 - Accident.,1,8,0.01,Light Snow
+39.52973,-106.21644,4,11/11/2019 7:31,7,11,Day,Closed between Bighorn Rd/Exit 180 and CO-91/Exit 195 - Road closed due to accident. Road marking work.,2,9,0.01,Light Snow
+38.24644,-104.61187,3,11/22/2019 8:24,8,11,Day,At El Dorado Ave/Exit 97B - Accident.,0.5,5,0.01,Light Snow
+39.67921,-105.90351,4,11/22/2019 8:32,8,11,Day,Closed between US-6/Exit 216 and Eisenhower Memorial Tunl (West) - Road closed due to accident. Road marking work.,1,8,0.01,Light Snow
+39.40987,-104.86633,3,11/22/2019 9:32,9,11,Day,At Founders Pky/Exit 184 - Accident.,1,,0.01,Light Snow
+39.40987,-104.86633,3,11/22/2019 10:06,10,11,Day,At Founders Pky/Exit 184 - Accident.,2,,0.01,Light Snow
+39.289102,-104.895833,3,3/29/2019 22:24,22,3,Night,At Tomah Rd/Exit 174 - Accident.,5,,0.01,Light Snow
+39.56693,-104.87415,2,3/30/2019 7:22,7,3,Day,Ramp to County Line Rd/Exit 195 - Accident. Left lane blocked.,0.8,5.8,0.01,Light Snow
+39.57105,-104.8733,2,3/30/2019 7:22,7,3,Day,Ramp to E County Line Rd - Accident. Left lane blocked.,0.8,5.8,0.01,Light Snow
+39.44505,-104.87575,3,3/2/2019 17:51,17,3,Day,At Castle Rock Pkwy/Exit 185 - Accident.,0.5,15,0.01,Light Snow
+39.670299,-104.82931,3,2/6/2019 22:34,22,2,Night,At CO-83/Parker Rd/Exit 4 - Accident.,4,3.5,0.01,Light Snow
+39.377359,-106.19358,4,2/18/2019 21:01,21,2,Night,Closed at I-70/US-6/Exit 195 - Road closed due to accident.,0.8,5.8,0.01,Light Snow
+39.537103,-104.86861,3,2/22/2019 18:03,18,2,Day,At Lincoln Ave/Exit 193 - Accident.,1.5,6.9,0.01,Light Snow
+39.710753,-104.82666,3,2/22/2019 18:03,18,2,Day,At E Alameda Ave/Exit 8 - Accident.,0.8,5.8,0.01,Light Snow
+38.318583,-104.682193,3,2/23/2019 6:47,6,2,Day,At CO-45/N Pueblo Blvd - Accident.,1.8,17.3,0.01,Light Snow
+38.246083,-104.61187,3,2/26/2019 2:54,2,2,Night,At El Dorado Ave/Exit 97B - Accident.,0.5,3.5,0.01,Light Snow
+38.259101,-104.60509,3,2/26/2019 6:26,6,2,Day,At 1st St/Exit 98 - Accident.,0.5,4.6,0.01,Light Snow
+38.261514,-104.60546,3,2/26/2019 6:26,6,2,Day,At Santa Fe Ave/Ilex St/Exit 98 - Accident.,0.5,4.6,0.01,Light Snow
+39.56442,-105.033414,3,1/11/2019 12:48,12,1,Day,At US-85/Santa Fe Dr - Accident.,0.2,16.1,0.01,Light Snow
+39.630035,-104.905278,3,1/11/2019 16:04,16,1,Day,At I-225 - Accident.,0.5,12.7,0.01,Light Snow
+37.08679,-104.52226,4,1/18/2019 14:37,14,1,Day,Closed between US-85/Exit 8 and CR-69.4/Exit 11 - Road closed due to accident.,1.2,15,0.01,Light Snow
+39.31385,-103.82623,4,1/24/2019 7:56,7,1,Day,Closed between CR-134/Exit 348 and CR-118/Exit 354 - Road closed due to accident. Roadwork.,1,,0.01,Light Snow
+39.35518,-103.867738,4,1/24/2019 8:00,8,1,Day,Closed between CO-86/Exit 352 and CO-70/CR-166/Exit 340 - Road closed due to accident. Roadwork.,0.8,,0.01,Light Snow
+39.49218,-104.87318,3,1/28/2019 10:40,10,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,0.8,,0.01,Light Snow
+37.321006,-108.090171,4,4/10/2019 16:45,16,4,Day,Closed at CO-140 - Road closed due to accident.,6,8,0.01,Light Snow
+39.50189,-104.87458,3,4/10/2019 18:30,18,4,Day,At Oak Ln/Exit 190 - Accident. Two lanes blocked.,0.75,18,0.01,Light Snow
+39.341909,-106.05302,3,4/10/2019 20:25,20,4,Night,At CR-850/Blue Lakes Rd - Accident.,3,8,0.01,Light Snow
+39.563392,-104.888445,3,4/13/2019 14:24,14,4,Day,At Yosemite St - Accident.,1,5,0.01,Light Snow
+40.174925,-104.97997,3,4/29/2019 18:00,18,4,Day,At CO-119/Exit 240 - Accident.,5,0,0.01,Light Snow
+40.199032,-104.98038,3,4/29/2019 18:09,18,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,2,0,0.01,Light Snow
+39.694479,-105.798084,3,5/8/2019 22:09,22,5,Night,At Woodward Ave/Exit 226 - Accident.,0.75,13,0.01,Light Snow
+39.37038,-104.86441,4,5/21/2019 4:53,4,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,1,12,0.01,Light Snow
+40.393965,-104.99348,3,5/21/2019 6:50,6,5,Day,At CO-402/Exit 255 - Accident.,1,10,0.01,Light Snow
+40.38127,-104.9936,2,5/21/2019 7:00,7,5,Day,At CO-402/Exit 255 - Accident.,1,10,0.01,Light Snow
+40.563019,-105.00155,3,5/21/2019 7:28,7,5,Day,At CO-68/Harmony Rd/Exit 265 - Accident.,3,9,0.01,Light Snow
+40.497411,-103.263859,2,5/21/2019 17:17,17,5,Day,At CR-Q/Exit 102 - Accident. Left lane blocked.,5,16,0.01,Light Snow
+38.2309,-104.61384,3,10/29/2019 15:33,15,10,Day,At Indiana Ave/Exit 96 - Accident.,0.75,24,0.01,Light Snow
+39.35653,-106.05986,3,12/27/2019 12:40,12,12,Day,At CR-10/Park Hill Rd - Accident.,1,0,0,Light Snow
+39.75418,-105.65942,3,12/27/2019 16:36,16,12,Day,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,3,3,0,Light Snow
+39.75418,-105.65942,2,12/27/2019 18:55,18,12,Night,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,6,3,0,Light Snow
+39.75418,-105.65942,3,12/27/2019 16:56,16,12,Day,At US-40/Exit 232 - Multi-vehicle accident involving vehicle.,3,3,0,Light Snow
+39.78924,-104.90619,3,12/28/2019 9:24,9,12,Day,At US-85/CO-2/Vasquez Blvd/Exit 2 - Accident.,1,18,0,Light Snow
+39.68426,-104.82898,3,12/28/2019 11:24,11,12,Day,At Iliff Ave/Exit 5 - Accident.,3,16,0,Light Snow
+39.29875,-104.89064,3,12/28/2019 14:34,14,12,Day,At Tomah Rd/Exit 174 - Accident.,0.75,,0,Light Snow
+38.60514,-107.97337,4,12/28/2019 20:41,20,12,Night,Closed between Montrose and Delta - Road closed due to accident.,3,3,0,Light Snow
+39.12382,-104.86469,3,12/28/2019 20:08,20,12,Night,At County Line Rd/Exit 163 - Accident.,8,15,0,Light Snow
+39.12382,-104.86469,3,12/28/2019 21:14,21,12,Night,At County Line Rd/Exit 163 - Accident.,8,15,0,Light Snow
+39.75964,-105.65416,3,12/5/2019 10:51,10,12,Day,At US-40/Exit 232 - Accident.,5,14,0,Light Snow
+39.82424,-104.96196,3,12/5/2019 13:23,13,12,Day,Ramp to I-270 - Accident.,0.75,6,0,Light Snow
+39.74984,-105.01722,3,12/5/2019 19:05,19,12,Night,At 23rd Ave/Exit 211 - Accident.,3,0,0,Light Snow
+39.52397,-107.777,4,12/12/2019 9:48,9,12,Day,Closed between CO-13/Taughenbaugh Blvd/Exit 90 and CR-240/Exit 105 - Road closed due to accident.,2,3,0,Light Snow
+39.52023,-107.79051,4,12/12/2019 8:55,8,12,Day,Closed at CO-13/Taughenbaugh Blvd/Exit 90 - Road closed due to accident.,1,3,0,Light Snow
+39.60797,-106.08053,4,12/14/2019 19:26,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Road marking work.,1,13,0,Light Snow
+39.67759,-105.93947,4,12/14/2019 19:38,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Road marking work.,2,14,0,Light Snow
+39.31624,-106.05716,3,12/14/2019 22:31,22,12,Night,At CR-10/Park Hill Rd - Accident.,5,3,0,Light Snow
+39.31624,-106.05716,3,12/14/2019 20:11,20,12,Night,At CR-850/Blue Lakes Rd - Accident.,2,3,0,Light Snow
+39.60797,-106.08053,4,12/14/2019 19:06,19,12,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,3,12,0,Light Snow
+39.2911,-106.0666,3,12/14/2019 22:21,22,12,Night,Between CR-10/Park Hill Rd and S Main St - Accident. Single alternate lane traffic.,3,5,0,Light Snow
+39.2911,-106.0666,3,12/14/2019 22:39,22,12,Night,Between CR-10/Park Hill Rd and S Main St - Accident. Single alternate lane traffic.,5,3,0,Light Snow
+38.06718,-104.71224,3,12/15/2019 10:22,10,12,Day,At Exit 83 - Accident.,3,3,0,Light Snow
+38.06724,-104.71243,3,12/15/2019 10:22,10,12,Day,At CR-345/Exit 77 - Accident.,3,3,0,Light Snow
+38.06718,-104.71224,3,12/15/2019 11:11,11,12,Day,At Exit 83 - Accident.,2,6,0,Light Snow
+39.36824,-104.86484,3,12/15/2019 17:43,17,12,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,4,,0,Light Snow
+40.33197,-104.98005,3,10/10/2019 6:23,6,10,Night,At CO-60/Exit 252 - Accident.,1,17,0,Light Snow
+39.84209,-105.03965,3,10/10/2019 6:09,6,10,Night,At Federal Blvd - Accident.,4,8,0,Light Snow
+39.72527,-105.17192,3,10/10/2019 6:41,6,10,Day,At Denver West Colorado Mills Blvd - Accident.,2,8,0,Light Snow
+39.79723,-105.04791,3,10/10/2019 7:12,7,10,Day,Ramp to CO-95/Sheridan Blvd - Accident.,1,8,0,Light Snow
+39.79723,-105.04791,3,10/10/2019 6:33,6,10,Night,At CO-95/Sheridan Blvd/Exit 1 - Accident.,2,8,0,Light Snow
+39.79691,-105.04863,3,10/10/2019 6:33,6,10,Night,At CO-95/Sheridan Blvd/Exit 1 - Accident.,2,8,0,Light Snow
+39.83505,-105.02072,3,10/10/2019 6:39,6,10,Day,At Federal Blvd - Accident.,2,8,0,Light Snow
+39.71111,-104.82667,3,10/10/2019 7:15,7,10,Day,At E Alameda Ave/Exit 8 - Accident.,3,5,0,Light Snow
+39.71162,-104.99944,3,10/10/2019 7:00,7,10,Day,At CO-26/Alameda Ave/Exit 208 - Accident.,4,12,0,Light Snow
+39.7783,-104.89807,3,10/10/2019 7:12,7,10,Day,At I-270/Exit 279 - Accident.,1,8,0,Light Snow
+39.56346,-104.88799,3,10/10/2019 7:15,7,10,Day,At Quebec St - Accident.,4,12,0,Light Snow
+39.72968,-104.82517,3,10/10/2019 7:36,7,10,Day,At CO-30/6th Ave/Exit 9 - Accident.,2,7,0,Light Snow
+39.90016,-104.98816,3,10/10/2019 10:18,10,10,Day,At 104th Ave/Exit 221 - Accident.,0.75,6,0,Light Snow
+39.92445,-105.1112,3,10/10/2019 10:16,10,10,Day,At Wadsworth Pky/CO-121/CO-128 - Accident.,0.75,6,0,Light Snow
+39.88521,-104.98766,3,10/10/2019 10:06,10,10,Day,At 104th Ave/Exit 221 - Accident.,0.75,6,0,Light Snow
+39.8276,-104.98729,3,10/10/2019 11:44,11,10,Day,At Broadway - Accident.,0.75,7,0,Light Snow
+39.78364,-105.00322,3,10/10/2019 10:20,10,10,Day,At Pecos St/Exit 273 - Accident.,0.75,6,0,Light Snow
+39.82745,-104.98729,3,10/10/2019 10:12,10,10,Day,At I-25/US-87 - Accident.,0.75,6,0,Light Snow
+39.92397,-105.11001,3,10/10/2019 10:16,10,10,Day,At E Flatiron Crossing Dr - Accident.,0.75,6,0,Light Snow
+39.91631,-105.09464,3,10/10/2019 10:58,10,10,Day,At US-36/Denver-Boulder Tpke - Accident.,0.75,6,0,Light Snow
+39.6676,-104.83008,3,10/10/2019 12:52,12,10,Day,At Iliff Ave/Exit 5 - Accident.,3,6,0,Light Snow
+39.77966,-104.97237,3,10/10/2019 12:20,12,10,Day,At Brighton Blvd/Exit 275 - Accident.,0.75,7,0,Light Snow
+38.32278,-104.69676,3,10/10/2019 13:38,13,10,Day,At Purcell Blvd - Accident.,1,12,0,Light Snow
+39.6831,-105.88792,4,10/18/2019 8:03,8,10,Day,Closed between US-6/Exit 216 and I-70-BR/US-5/US-6/Exit 26 - Road closed due to accident. Maintenance work.,1,0,0,Light Snow
+39.34842,-105.83639,3,10/20/2019 9:21,9,10,Day,At CR-34/Packer Ln - Accident.,3,14,0,Light Snow
+39.34578,-105.84176,3,10/20/2019 9:21,9,10,Day,At CR-77/Tarryall Rd - Accident.,3,14,0,Light Snow
+39.64285,-106.37219,3,10/20/2019 14:58,14,10,Day,At Bighorn Rd/Exit 180 - Accident.,4,14,0,Light Snow
+39.52986,-106.21612,4,10/21/2019 8:09,8,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,2,9,0,Light Snow
+39.5299,-106.21611,4,10/21/2019 10:02,10,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,2,7,0,Light Snow
+39.60459,-104.89035,3,10/23/2019 15:49,15,10,Day,At Orchard Rd/Exit 198 - Accident.,4,15,0,Light Snow
+39.60459,-104.89035,3,10/23/2019 16:19,16,10,Day,At Orchard Rd/Exit 198 - Accident.,5,18,0,Light Snow
+39.31858,-106.33507,4,10/24/2019 2:43,2,10,Night,Closed at CO-91 - Road closed due to accident.,4,7,0,Light Snow
+39.27279,-106.3111,4,10/24/2019 2:43,2,10,Night,Closed at CR-20/Deer Crossing Dr - Road closed due to accident.,4,7,0,Light Snow
+39.11424,-104.8655,3,10/24/2019 6:09,6,10,Night,At County Line Rd/Exit 163 - Accident.,6,10,0,Light Snow
+39.78432,-105.11509,3,10/27/2019 8:25,8,10,Day,At CO-72/44th Ave/Ward Rd/Exit 266 - Accident.,2,7,0,Light Snow
+39.79794,-104.98667,3,10/27/2019 9:35,9,10,Day,At 58th Ave/Exit 215 - Accident.,1,8,0,Light Snow
+39.93942,-104.98779,3,10/27/2019 9:53,9,10,Day,At 136th Ave - Accident.,2,9,0,Light Snow
+40.11692,-104.98021,3,10/27/2019 17:53,17,10,Day,At CO-52/Exit 235 - Accident.,4,8,0,Light Snow
+39.78407,-104.98937,3,10/27/2019 20:19,20,10,Night,At I-70/Exit 214 - Accident.,1,8,0,Light Snow
+39.6595,-106.6368,3,10/27/2019 20:43,20,10,Night,At CO-131/Exit 157 - Accident.,1,9,0,Light Snow
+39.566,-104.87238,3,10/27/2019 23:13,23,10,Night,At County Line Rd/Exit 195 - Accident.,0.5,8,0,Light Snow
+39.62303,-105.19424,4,10/28/2019 4:13,4,10,Night,Closed between CO-470 and CR-120/S Parmalee Gulch Rd - Road closed due to accident. Maintenance work.,1,3,0,Light Snow
+39.83848,-104.98352,3,10/28/2019 8:09,8,10,Day,At 84th Ave/Exit 219 - Accident.,2,6,0,Light Snow
+39.73479,-105.01503,3,10/28/2019 8:45,8,10,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,1,6,0,Light Snow
+39.73808,-105.01387,4,10/28/2019 8:49,8,10,Day,Ramp closed to Exit 210B - Road closed due to accident.,1,6,0,Light Snow
+39.83029,-105.0044,3,10/28/2019 10:29,10,10,Day,At Pecos St - Accident.,6,0,0,Light Snow
+39.88521,-104.98766,3,10/28/2019 11:21,11,10,Day,At 104th Ave/Exit 221 - Accident.,6,0,0,Light Snow
+37.06382,-104.52031,3,10/28/2019 9:11,9,10,Day,At US-85/Exit 8 - Accident.,1,13,0,Light Snow
+39.64871,-104.9161,3,10/29/2019 6:07,6,10,Night,At I-225 - Accident.,0.75,13,0,Light Snow
+39.63005,-104.90502,3,10/29/2019 11:15,11,10,Day,At I-225 - Accident.,0.5,14,0,Light Snow
+39.27349,-103.70317,4,10/29/2019 12:39,12,10,Day,Closed between I-70-BL/US-287/US-40/Exit 361 and E-470/Exit 289 - Road closed due to accident. Road marking work.,8,16,0,Light Snow
+39.51999,-104.86709,3,10/29/2019 13:43,13,10,Day,At Lincoln Ave/Exit 193 - Accident.,0.75,10,0,Light Snow
+39.6676,-104.83008,3,10/29/2019 15:51,15,10,Day,At Iliff Ave/Exit 5 - Accident.,2,13,0,Light Snow
+39.73479,-105.01503,3,10/29/2019 16:03,16,10,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,1,10,0,Light Snow
+39.91393,-104.98993,3,10/30/2019 0:51,0,10,Night,At CO-128/120th Ave/Exit 223 - Accident.,2,5,0,Light Snow
+39.80003,-104.98559,3,10/30/2019 0:25,0,10,Night,At 58th Ave/Exit 215 - Accident.,3,6,0,Light Snow
+39.91127,-104.99075,4,10/30/2019 2:20,2,10,Night,Closed at 104th Ave/Exit 221 - Road closed due to accident. Road marking work.,3,6,0,Light Snow
+39.51999,-104.86709,3,10/30/2019 6:17,6,10,Night,At Lincoln Ave/Exit 193 - Accident.,6,5,0,Light Snow
+39.18353,-104.85036,3,10/30/2019 6:55,6,10,Night,At County Line Rd/Exit 163 - Accident.,4,,0,Light Snow
+39.5299,-106.21611,4,10/30/2019 7:50,7,10,Day,Closed between CO-91/Exit 195 and Bighorn Rd/Exit 180 - Road closed due to accident. Maintenance work.,6,7,0,Light Snow
+39.74741,-104.74411,3,10/30/2019 7:29,7,10,Day,At CO-32/Tower Rd/Exit 286 - Accident.,6,5,0,Light Snow
+39.77514,-104.86001,3,10/30/2019 9:13,9,10,Day,At Peoria St/Exit 281 - Accident.,3,5,0,Light Snow
+39.6676,-104.83008,3,10/30/2019 9:23,9,10,Day,At Iliff Ave/Exit 5 - Accident.,3,5,0,Light Snow
+39.95073,-105.15447,3,10/30/2019 10:03,10,10,Day,At Flatiron Cir - Accident.,3,8,0,Light Snow
+39.53682,-104.86859,3,11/11/2019 7:05,7,11,Day,At Lincoln Ave/Exit 193 - Accident.,2,6,0,Light Snow
+39.50662,-106.20242,3,11/11/2019 7:15,7,11,Day,At CO-91/Exit 195 - Accident.,1,7,0,Light Snow
+38.25731,-104.93246,3,11/11/2019 7:57,7,11,Day,At CR-200/Red Creek Rd - Accident.,9,9,0,Light Snow
+37.49399,-104.66965,3,11/11/2019 9:45,9,11,Day,At CR-310/Exit 41 - Accident.,5,7,0,Light Snow
+39.77287,-105.17474,4,11/11/2019 9:35,9,11,Day,Closed between CR-58/44th Ave and I-70 - Road closed due to accident.,4,0,0,Light Snow
+39.77516,-105.15045,4,11/11/2019 9:35,9,11,Day,Ramp closed to McIntyre Street - Road closed due to accident.,4,0,0,Light Snow
+39.6584,-104.9209,3,11/21/2019 12:17,12,11,Day,At US-285/Hampden Ave/Exit 201 - Accident.,2,3,0,Light Snow
+39.81286,-104.98305,3,11/21/2019 13:34,13,11,Day,At I-76/Exit 216 - Accident.,1,0,0,Light Snow
+39.73597,-105.0144,3,11/21/2019 16:12,16,11,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,3,6,0,Light Snow
+39.70185,-105.20201,3,11/21/2019 22:38,22,11,Night,At CO-470/Exit 260 - Accident.,4,3,0,Light Snow
+39.71446,-105.1927,3,11/21/2019 22:38,22,11,Night,Between US-6/6th Ave/Exit 261 and I-70-BL/US-40/CO-26/Exit 259 - Accident.,4,3,0,Light Snow
+37.65362,-104.7895,3,11/22/2019 3:42,3,11,Night,At CO-10/Exit 50 - Accident.,7,10,0,Light Snow
+38.88153,-104.83611,3,11/22/2019 7:09,7,11,Day,At CO-38/Fillmore St/Exit 145 - Accident.,0.75,3,0,Light Snow
+38.87324,-104.83453,2,11/22/2019 5:35,5,11,Night,Between CO-38/Fillmore St/Exit 145 and Fontanero St/Exit 144 - Accident. Left lane blocked.,1,0,0,Light Snow
+38.87324,-104.83453,3,11/22/2019 5:35,5,11,Night,Between Garden of the Gods Rd/Exit 146 and Fontanero St/Exit 144 - Accident. Left lane blocked. Road surface in poor condition.,1,0,0,Light Snow
+38.87324,-104.83453,3,11/22/2019 5:55,5,11,Night,Between Garden of the Gods Rd/Exit 146 and Fontanero St/Exit 144 - Accident. Left lane blocked. Road surface in poor condition.,1,0,0,Light Snow
+39.27735,-103.75256,3,11/22/2019 8:30,8,11,Day,At CR-118/Exit 354 - Accident.,6,8,0,Light Snow
+38.72512,-104.73299,4,11/22/2019 9:41,9,11,Day,Closed between US-85/US-87/Exit 128 and CO-83/Academy Blvd/Exit 135 - Road closed due to accident. Road surface in poor condition.,4,0,0,Light Snow
+38.72801,-104.73592,3,11/22/2019 9:48,9,11,Day,At CO-83/Academy Blvd/Exit 135 - Accident.,4,0,0,Light Snow
+38.56854,-104.65515,3,11/22/2019 13:06,13,11,Day,At El Centro Blvd/Exit 119 - Accident.,10,3,0,Light Snow
+40.40661,-104.86504,3,3/13/2019 16:24,16,3,Day,At CO-257/CR-19/CR-21 - Accident.,0.8,41.4,0,Light Snow
+39.31809,-105.87977,3,3/29/2019 20:30,20,3,Night,At CR-34/Packer Ln - Accident.,4,3.5,0,Light Snow
+38.89784,-104.82992,3,3/30/2019 8:54,8,3,Day,At Garden of the Gods Rd/Exit 146 - Accident.,10,16.1,0,Light Snow
+38.901003,-104.828623,3,3/30/2019 7:37,7,3,Day,At Garden of the Gods Rd/Exit 146 - Accident. Right lane blocked.,2,10.4,0,Light Snow
+39.113308,-104.865658,3,3/30/2019 7:44,7,3,Day,At CO-105/Exit 161 - Accident.,2,10.4,0,Light Snow
+39.44505,-104.87575,3,3/1/2019 12:40,12,3,Day,At Castle Rock Pkwy/Exit 185 - Accident.,4,13.8,0,Light Snow
+40.726144,-104.993369,3,3/2/2019 4:23,4,3,Night,At Owl Canyon Road/Exit 281 - Accident.,1,20.7,0,Light Snow
+40.35979,-104.98377,3,3/2/2019 7:15,7,3,Day,At CR-16/Exit 254 - Accident.,1.2,12.7,0,Light Snow
+39.44541,-104.87551,3,3/2/2019 15:00,15,3,Day,At Happy Canyon Rd/Exit 187 - Accident.,4,18.4,0,Light Snow
+40.305603,-104.357427,3,3/2/2019 20:38,20,3,Night,At CO-37/CR-53 - Accident.,1.8,9.2,0,Light Snow
+40.320763,-104.405703,3,3/2/2019 20:38,20,3,Night,At CR-87 - Accident.,1.8,9.2,0,Light Snow
+39.555111,-104.870529,3,3/3/2019 14:22,14,3,Day,At CO-470/E-470/Exit 194 - Accident.,2,4.6,0,Light Snow
+37.462951,-104.6582,3,3/3/2019 20:17,20,3,Night,At CR-310/Exit 41 - Accident.,5,,0,Light Snow
+39.57938,-105.02594,4,2/6/2019 11:19,11,2,Day,Closed between Mineral Ave and Santa Fe Dr - Road closed due to accident.,1,9.2,0,Light Snow
+39.72538,-105.02993,3,2/6/2019 16:13,16,2,Day,At CO-88/Federal Blvd - Accident. Lane blocked.,1.5,10.4,0,Light Snow
+39.42908,-104.87908,2,2/6/2019 19:58,19,2,Night,At Castle Rock Pkwy/Exit 185 - Accident. Left lane blocked.,9,6.9,0,Light Snow
+39.56392,-104.87177,3,2/6/2019 20:10,20,2,Night,At County Line Rd/Exit 195 - Accident.,2,8.1,0,Light Snow
+39.712048,-104.999689,3,2/6/2019 20:26,20,2,Night,At CO-26/Alameda Ave/Exit 208 - Accident.,2,8.1,0,Light Snow
+39.712048,-104.999689,3,2/6/2019 21:22,21,2,Night,At CO-26/Alameda Ave/Exit 208 - Accident.,0.8,8.1,0,Light Snow
+39.63541,-104.901324,3,2/16/2019 13:31,13,2,Day,At I-25/Exit 1 - Accident. Right lane blocked.,0.8,15,0,Light Snow
+39.63541,-104.90282,3,2/16/2019 13:31,13,2,Day,Ramp to I-225 - Accident. Right lane blocked.,0.8,15,0,Light Snow
+39.44541,-104.87551,3,2/18/2019 6:08,6,2,Night,At Happy Canyon Rd/Exit 187 - Accident.,3,6.9,0,Light Snow
+40.700179,-104.99916,3,2/18/2019 16:44,16,2,Day,At Mountain Vista Dr/Exit 271 - Accident.,9,,0,Light Snow
+39.7149,-104.827,3,2/18/2019 18:52,18,2,Night,At E Alameda Ave/Exit 8 - Accident.,9,8.1,0,Light Snow
+39.72968,-104.82517,2,2/18/2019 19:13,19,2,Night,At CO-30/6th Ave/Exit 9 - Accident. Lane blocked.,9,8.1,0,Light Snow
+39.377359,-106.19358,4,2/18/2019 19:30,19,2,Night,Closed at I-70/US-6/Exit 195 - Road closed due to accident.,1.8,6.9,0,Light Snow
+39.60617,-104.89161,3,2/19/2019 11:53,11,2,Day,At CO-88/Arapahoe Rd/Exit 197 - Accident.,3,4.6,0,Light Snow
+39.643813,-104.912912,3,2/19/2019 16:24,16,2,Day,At US-285/Hampden Ave/Exit 201 - Accident.,8,9.2,0,Light Snow
+40.481129,-104.737802,4,2/20/2019 8:00,8,2,Day,Closed between US-85 and CR-27 - Road closed due to accident.,0.2,,0,Light Snow
+40.48043,-104.81632,4,2/20/2019 8:00,8,2,Day,Closed between CR-27 and US-85 - Road closed due to accident.,0.2,,0,Light Snow
+40.481129,-104.737802,4,2/20/2019 9:21,9,2,Day,Closed between Pikes Peak Dr and County Road 27 - Road closed due to accident.,4,3.5,0,Light Snow
+40.48043,-104.81632,4,2/20/2019 9:21,9,2,Day,Closed between County Road 27 and Pikes Peak Dr - Road closed due to accident.,4,3.5,0,Light Snow
+40.40703,-104.997712,3,2/22/2019 6:36,6,2,Day,At I-25/US-87 - Accident.,2.5,8.1,0,Light Snow
+39.384282,-108.149316,3,2/22/2019 8:02,8,2,Day,At CR-215/Exit 75 - Accident.,2,,0,Light Snow
+39.384282,-108.149316,3,2/22/2019 8:21,8,2,Day,At CR-215/Exit 75 - Accident.,1.5,,0,Light Snow
+38.23983,-104.61179,3,2/26/2019 3:15,3,2,Night,At Central Avenue/Exit 97 - Accident. Left lane blocked.,0.5,5.8,0,Light Snow
+39.566223,-104.872419,3,1/1/2019 1:13,1,1,Night,At County Line Rd/Exit 195 - Accident.,1.5,,0,Light Snow
+39.633586,-104.906788,3,1/12/2019 1:56,1,1,Night,At I-225 - Accident.,1,10.4,0,Light Snow
+39.50696,-104.87279,3,1/12/2019 6:20,6,1,Night,At Oak Ln/Exit 190 - Accident.,3,5.8,0,Light Snow
+38.433728,-106.757281,4,1/21/2019 21:45,21,1,Night,Closed at Cr-ww13 - Road closed due to accident.,2.5,3.5,0,Light Snow
+38.433729,-106.757281,4,1/21/2019 22:27,22,1,Night,Closed at Cr-ww13 - Road closed due to accident.,8,3.5,0,Light Snow
+39.50741,-104.87237,3,1/22/2019 9:29,9,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,4,23,0,Light Snow
+39.50741,-104.87237,3,1/22/2019 9:35,9,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,5,21.9,0,Light Snow
+37.759617,-102.603427,3,1/22/2019 12:31,12,1,Day,At CR-8.2 - Accident.,3,25.3,0,Light Snow
+37.762813,-102.604931,3,1/22/2019 12:31,12,1,Day,At CO-116/Cr-rr - Accident.,3,25.3,0,Light Snow
+39.16867,-106.00183,3,1/23/2019 16:24,16,1,Day,At US-24 - Accident.,2.5,9.2,0,Light Snow
+39.52242,-107.78233,4,1/24/2019 9:14,9,1,Day,Closed between US-6/Exit 87 and Manncreek Rd/Exit 94 - Road closed due to accident.,5,,0,Light Snow
+38.097818,-104.688153,3,1/28/2019 10:16,10,1,Day,At Verde Rd/Exit 87 - Accident.,0.8,16.1,0,Light Snow
+39.88534,-104.88172,4,1/28/2019 10:23,10,1,Day,Closed at 112th Ave - Road closed due to accident.,2,17.3,0,Light Snow
+39.522981,-104.8675,3,1/28/2019 11:52,11,1,Day,At Ridgegate Pkwy/Exit 192 - Accident.,1.8,,0,Light Snow
+39.57531,-106.11292,4,4/10/2019 11:52,11,4,Day,Closed between CO-9/Exit 203 and CR-1220/CR-1070/Exit 198 - Road closed due to accident. Road surface in poor condition.,3,9,0,Light Snow
+39.98766,-105.23704,3,4/10/2019 18:40,18,4,Day,At Table Mesa Dr - Accident.,1,14,0,Light Snow
+39.72525,-105.134316,3,4/10/2019 18:46,18,4,Day,At Union Blvd/Simms St - Accident.,0.5,17,0,Light Snow
+39.78343,-105.06275,3,4/10/2019 20:37,20,4,Night,At Harlan St/Exit 270 - Accident.,0.5,10,0,Light Snow
+39.72542,-105.022004,3,4/10/2019 20:43,20,4,Night,At CO-88/Federal Blvd - Accident.,0.5,10,0,Light Snow
+39.7258,-105.00963,4,4/10/2019 20:46,20,4,Night,Ramp closed to US-6/6th Ave/Exit 209 - Road closed due to accident.,0.5,10,0,Light Snow
+39.671491,-104.9282,3,4/11/2019 5:43,5,4,Night,At Evans Ave/Exit 203 - Accident.,1,6,0,Light Snow
+39.630035,-104.905278,3,4/11/2019 5:42,5,4,Night,At I-225 - Accident.,1,6,0,Light Snow
+39.289595,-104.895339,3,4/11/2019 6:30,6,4,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,7,14,0,Light Snow
+39.349147,-104.872365,3,4/12/2019 15:52,15,4,Day,At Tomah Rd/Exit 174 - Accident.,2,13,0,Light Snow
+39.635563,-104.894489,2,4/12/2019 17:54,17,4,Day,Between Yosemite St/Exit 2 and I-25/Exit 1 - Accident. Right lane blocked.,4,13,0,Light Snow
+39.8304,-105.00535,3,4/12/2019 22:08,22,4,Night,At Pecos St - Accident.,7,6,0,Light Snow
+39.815443,-104.98299,3,4/12/2019 22:32,22,4,Night,At I-76/Exit 216 - Accident.,7,5,0,Light Snow
+39.566223,-104.872419,3,4/13/2019 12:58,12,4,Day,At County Line Rd/Exit 195 - Accident.,9,3,0,Light Snow
+39.113239,-104.865383,3,4/13/2019 16:49,16,4,Day,At County Line Rd/Exit 163 - Accident.,5,5,0,Light Snow
+39.62763,-106.06916,4,4/28/2019 22:07,22,4,Night,Closed at US-6/CO-9/Exit 205 - Road closed due to accident. Wet and icy roads.,2,0,0,Light Snow
+40.174925,-104.97997,3,4/29/2019 17:01,17,4,Day,At CO-119/Exit 240 - Accident.,1,0,0,Light Snow
+40.199032,-104.98038,3,4/29/2019 17:29,17,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,5,0,0,Light Snow
+40.199032,-104.98038,3,4/29/2019 19:07,19,4,Day,At CO-119/Exit 240 - Accident. Two lanes blocked.,3,0,0,Light Snow
+39.77969,-104.971915,3,4/29/2019 18:40,18,4,Day,At Brighton Blvd/Exit 275 - Accident.,1,0,0,Light Snow
+39.125577,-104.86466,3,5/8/2019 22:44,22,5,Night,At CO-105/Exit 161 - Accident.,4,15,0,Light Snow
+39.18985,-104.85064,2,5/8/2019 22:56,22,5,Night,At Greenland Rd/Exit 167 - Accident.,4,16,0,Light Snow
+39.604871,-105.22938,3,5/9/2019 4:29,4,5,Night,At CR-64/N Turkey Creek Rd - Accident.,4,9,0,Light Snow
+39.61595,-105.23241,4,5/9/2019 5:48,5,5,Day,Closed at Brookmont Rd - Road closed due to accident.,1,10,0,Light Snow
+39.461031,-104.87428,3,5/9/2019 6:23,6,5,Day,At Castle Pines Pky/Exit 188 - Accident.,6,10,0,Light Snow
+39.78012,-104.951889,3,5/9/2019 7:35,7,5,Day,At Steele St/Exit 276 - Accident.,1,5,0,Light Snow
+39.937247,-104.98793,3,5/9/2019 7:45,7,5,Day,At CO-128/120th Ave/Exit 223 - Accident.,2,3,0,Light Snow
+39.77841,-104.91289,3,5/9/2019 14:15,14,5,Day,At Dahlia St/Exit 277 - Accident.,2,5,0,Light Snow
+39.64925,-106.021151,4,5/20/2019 16:13,16,5,Day,Between US-6/CO-9/Exit 205 and US-6/Exit 216 - Multi-vehicle accident involving vehicle.,2,8,0,Light Snow
+39.77836,-104.895773,3,5/20/2019 19:53,19,5,Day,At Quebec St/Exit 278 - Accident.,3,7,0,Light Snow
+39.77841,-104.91289,3,5/20/2019 20:13,20,5,Day,At Dahlia St/Exit 277 - Accident.,3,7,0,Light Snow
+39.37038,-104.86441,4,5/21/2019 4:04,4,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,2,12,0,Light Snow
+39.37038,-104.86441,4,5/21/2019 5:05,5,5,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Multi-vehicle accident involving vehicle. Winter storm.,1,13,0,Light Snow
+39.139459,-104.862336,3,5/21/2019 6:56,6,5,Day,At County Line Rd/Exit 163 - Accident.,1,17,0,Light Snow
+39.65655,-104.84673,2,5/21/2019 10:24,10,5,Day,At CO-83/Parker Rd/Exit 4 - Accident.,3,12,0,Light Snow
+39.885439,-104.98767,3,5/21/2019 9:50,9,5,Day,At 104th Ave/Exit 221 - Accident.,1,12,0,Light Snow
+39.900221,-104.988178,3,5/21/2019 10:10,10,5,Day,At 104th Ave/Exit 221 - Accident.,1,12,0,Light Snow
+39.85214,-104.98638,2,5/21/2019 10:17,10,5,Day,At 84th Ave/Exit 219 - Accident.,8,10,0,Light Snow
+39.6458,-106.31097,3,5/21/2019 16:33,16,5,Day,At Bighorn Rd/Exit 180 - Accident.,3,12,0,Light Snow
+39.844169,-104.98467,3,4/30/2019 2:00,2,4,Night,At US-36/Exit 217 - Accident.,4,5,0,Light Snow
+37.883977,-107.888371,4,5/1/2019 12:46,12,5,Day,Closed at CR-630/Cr-d65 - Road closed due to accident.,7,0,0,Light Snow
+37.86182,-107.87005,4,5/1/2019 12:46,12,5,Day,Closed at CO-145-spur - Road closed due to accident.,7,0,0,Light Snow
+39.36824,-104.86484,3,12/28/2019 12:44,12,12,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,1,40,0,Light Snow
+39.6298,-104.90516,3,12/28/2019 13:12,13,12,Day,At I-225 - Accident.,0.75,21,0,Light Snow
+38.28907,-104.60679,3,10/29/2019 14:25,14,10,Day,At US-50/Exit 100 - Accident.,1,25,0,Light Snow
+37.316615,-108.077987,4,4/10/2019 16:45,16,4,Day,Closed at Highway 160 Business - Road closed due to accident.,6,22,0,Light Snow
+39.555111,-104.870529,3,4/10/2019 20:19,20,4,Night,At CO-470/E-470/Exit 194 - Accident.,0.75,22,0,Light Snow
+39.08669,-104.86124,2,5/21/2019 6:32,6,5,Day,At CO-105/Exit 161 - Accident. Road surface in poor condition.,1,21,0,Light Snow
+39.12827,-104.86392,2,5/21/2019 7:03,7,5,Day,At County Line Rd/Exit 163 - Accident.,0.88,21,0,Light Snow
+38.998051,-104.77843,3,5/21/2019 8:16,8,5,Day,At CO-83 - Accident.,8,26,0,Light Snow
+38.901003,-104.828623,2,5/21/2019 8:47,8,5,Day,At Garden of the Gods Rd/Exit 146 - Accident.,7,23,0,Light Snow
+39.51046,-106.14422,4,5/23/2019 19:26,19,5,Day,Closed between CO-91/Exit 195 and CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,1,22,0,Light Snow
+39.438798,-105.751709,3,5/20/2019 13:31,13,5,Day,At CR-872 - Accident.,3,18,0,Light Snow
+40.27178,-103.58407,4,10/10/2019 10:13,10,10,Day,Closed between US-6/Exit 92 and CO-71/Colorado Ave/Exit 90 - Road closed due to accident.,1,20,,Light Snow
+39.282334,-104.896689,3,3/4/2019 5:05,5,3,Night,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,2.5,,,Light Snow
+39.609559,-105.946742,4,3/6/2019 8:34,8,3,Day,Closed between Swan Mountain Rd and I-70 (East) - Road closed due to accident.,1.2,16.1,,Light Snow
+39.609559,-105.946742,4,3/6/2019 8:34,8,3,Day,Closed between Swan Mountain Rd and I-70 (East) - Road closed due to accident.,1.2,16.1,,Light Snow
+39.609559,-105.946742,4,3/6/2019 10:15,10,3,Day,Closed between Montezuma Rd and I-70 - Road closed due to accident.,5,13.8,,Light Snow
+39.620272,-106.472002,4,3/22/2019 6:53,6,3,Day,Closed at US-24/US-6/Exit 171 - Road closed due to accident.,4,,,Light Snow
+39.60874,-106.45237,3,3/24/2019 4:18,4,3,Night,At US-24/US-6/Exit 171 - Accident.,10,8.1,,Light Snow
+40.8635,-104.958997,3,3/29/2019 19:34,19,3,Day,At Buckeye Road/Exit 288 - Accident.,5,15,,Light Snow
+39.317307,-104.883611,3,3/1/2019 15:28,15,3,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,7,10.4,,Light Snow
+39.783247,-105.127782,3,3/2/2019 16:32,16,3,Day,At Kipling St/Exit 267 - Accident.,1,13.8,,Light Snow
+39.790721,-105.063409,3,3/3/2019 1:02,1,3,Night,At CO-121/Wadsworth Ave/Exit 1 - Accident.,4,5.8,,Light Snow
+39.72558,-105.058952,3,3/3/2019 12:44,12,3,Day,At CO-95/Sheridan Blvd - Accident.,2,,,Light Snow
+39.79794,-104.98667,3,3/3/2019 14:08,14,3,Day,At 58th Ave/Exit 215 - Accident.,1,4.6,,Light Snow
+39.900221,-104.988178,3,3/3/2019 16:35,16,3,Day,At 104th Ave/Exit 221 - Accident.,1,4.6,,Light Snow
+39.80963,-104.98308,3,3/3/2019 17:25,17,3,Day,At I-76/Exit 216 - Accident.,1.5,3.5,,Light Snow
+39.77829,-104.897431,3,3/3/2019 17:59,17,3,Day,At I-270/Exit 279 - Accident.,1.5,3.5,,Light Snow
+39.759714,-105.654023,3,2/3/2019 13:31,13,2,Day,At US-40/Exit 232 - Accident.,1,21.9,,Light Snow
+40.150677,-104.97982,3,2/6/2019 12:12,12,2,Day,At CO-52/Exit 235 - Accident.,2.5,5.8,,Light Snow
+40.196606,-104.98041,4,2/6/2019 12:53,12,2,Day,At CO-119/Exit 240 - Accident.,2,5.8,,Light Snow
+39.229757,-104.877748,3,2/6/2019 13:20,13,2,Day,At Upper Lake Gulch Rd/Exit 172 - Accident.,0.8,11.5,,Light Snow
+39.968304,-105.484344,3,2/6/2019 15:23,15,2,Day,At Sugarloaf Rd - Accident. Single alternate lane traffic.,4,5.8,,Light Snow
+39.02381,-104.83174,3,2/6/2019 16:10,16,2,Day,At Gleneagle Dr/Exit 156 - Accident. Lane blocked.,10,21.9,,Light Snow
+39.282334,-104.896689,3,2/16/2019 14:26,14,2,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,0.8,13.8,,Light Snow
+39.166786,-104.852711,3,2/16/2019 16:06,16,2,Day,At County Line Rd/Exit 163 - Accident.,0.5,21.9,,Light Snow
+39.53282,-106.2158,3,2/17/2019 8:41,8,2,Day,At CR-16/Shrine Pass Rd/Exit 190 - Accident. Blocked ahead.,2,,,Light Snow
+39.78238,-104.99836,3,2/17/2019 21:47,21,2,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident. Right lane blocked.,5,8.1,,Light Snow
+39.78238,-104.99836,3,2/17/2019 21:47,21,2,Night,At I-25/US-87/Valley Hwy/Exit 274 - Accident. Right lane blocked.,5,8.1,,Light Snow
+39.73479,-105.01503,3,2/19/2019 14:54,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident.,3,6.9,,Light Snow
+39.736382,-105.014249,3,2/19/2019 14:54,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident. Lane blocked.,3,6.9,,Light Snow
+39.78432,-105.11509,3,2/19/2019 14:59,14,2,Day,At CO-72/44th Ave/Ward Rd/Exit 266 - Accident.,3,6.9,,Light Snow
+39.736382,-105.014249,2,2/19/2019 14:59,14,2,Day,At US-40/CO-33/Colfax Ave/Exit 210 - Accident. Lane blocked.,3,6.9,,Light Snow
+39.933124,-105.123779,3,2/19/2019 17:30,17,2,Day,At 96th St/Storagetek Dr - Accident.,6,5.8,,Light Snow
+38.99073,-104.81487,2,2/23/2019 3:39,3,2,Night,At Interquest Pky/Exit 153 - Accident.,4,18.4,,Light Snow
+39.52518,-106.21529,4,2/27/2019 18:46,18,2,Night,Closed at CR-16/Shrine Pass Rd/Exit 190 - Road closed due to accident.,0.2,9.2,,Light Snow
+39.5114,-106.14452,4,1/7/2019 21:47,21,1,Night,Closed at CO-91/Exit 195 - Road closed due to accident.,4,19.6,,Light Snow
+38.470051,-107.163293,2,1/8/2019 8:06,8,1,Day,At CO-92 - Accident.,9,,,Light Snow
+39.656149,-106.625444,3,1/11/2019 1:20,1,1,Night,At Beaver Creek Rd/Exit 163 - Accident.,2,8.1,,Light Snow
+39.654303,-106.612571,4,1/11/2019 2:39,2,1,Night,Closed at Beaver Creek Rd/Exit 163 - Road closed due to accident.,1.5,4.6,,Light Snow
+39.802298,-105.493692,4,1/16/2019 10:15,10,1,Day,Closed between Selak St and US-6 - Road closed due to accident.,0.5,42.6,,Light Snow
+39.802298,-105.493692,4,1/16/2019 10:55,10,1,Day,Closed between CO-46/Golden Gate Canyon Rd and US-6/CO-119 - Road closed due to accident.,0.2,39.1,,Light Snow
+39.166786,-104.852711,3,1/18/2019 11:03,11,1,Day,At County Line Rd/Exit 163 - Accident.,2,13.8,,Light Snow
+40.57642,-105.00147,3,1/24/2019 9:07,9,1,Day,At Prospect Rd/Exit 268 - Accident.,0.8,9.2,,Light Snow
+39.92787,-105.23453,4,1/24/2019 9:12,9,1,Day,Closed between CO-128 and CO-72/Coal Creek Canyon Rd - Road closed due to accident.,1,6.9,,Light Snow
+39.981111,-105.222993,3,1/24/2019 10:39,10,1,Day,At McCaslin Blvd - Accident.,1,,,Light Snow
+39.134844,-104.862869,3,1/24/2019 10:55,10,1,Day,At Greenland Rd/Exit 167 - Accident.,0.8,15,,Light Snow
+39.76312,-104.783701,3,1/24/2019 12:21,12,1,Day,At CO-32/Tower Rd/Exit 286 - Accident.,4,6.9,,Light Snow
+38.95801,-105.09799,3,1/28/2019 6:37,6,1,Night,At US-24/N CR-5 - Accident.,8,10.4,,Light Snow
+38.496329,-105.309102,3,1/28/2019 10:16,10,1,Day,At CO-9 - Accident.,0.5,8.1,,Light Snow
+39.82442,-104.95985,3,1/28/2019 12:09,12,1,Day,Ramp to I-270 - Accident.,1.5,5.8,,Light Snow
+39.77012,-104.99179,3,1/28/2019 12:45,12,1,Day,At I-70/Exit 214 - Accident.,2,4.6,,Light Snow
+39.78364,-105.00322,3,1/28/2019 12:52,12,1,Day,At Pecos St/Exit 273 - Accident.,2,4.6,,Light Snow
+39.58689,-107.19553,3,5/9/2019 20:47,20,5,Night,At Exit 125 - Accident.,0.5,0,,Light Snow
+39.601705,-107.16497,4,5/29/2019 16:58,16,5,Day,At Exit 129 - Accident.,3,3,,Light Snow
+39.602105,-107.163504,4,5/29/2019 15:03,15,5,Day,At Exit 125 - Accident.,3,3,,Light Snow
+39.615395,-107.137846,4,5/29/2019 17:55,17,5,Day,Closed between Exit 129 and US-6/Exit 140 - Road closed due to accident.,3,3,,Light Snow
+39.678838,-105.936065,4,3/13/2019 8:28,8,3,Day,Closed at US-6/CO-9/Exit 205 - Road closed due to accident.,0.5,16.1,,Light Snow
+39.026758,-104.833459,3,8/31/2019 14:56,14,8,Day,At Gleneagle Dr/Exit 156 - Accident.,10,13,0,Fair
+39.565548,-105.067068,3,9/4/2019 15:18,15,9,Day,At CO-121/Wadsworth Blvd - Accident.,10,18,0,Fair
+39.88192,-104.98746,2,5/26/2019 18:06,18,5,Day,At 104th Ave/Exit 221 - Accident.,15,13,0,Fair
+40.04062,-104.98037,3,5/28/2019 13:28,13,5,Day,At CR-8/Exit 232 - Accident.,10,16,0,Fair
+39.987149,-104.98768,3,5/28/2019 14:20,14,5,Day,At E-470/Northwest Pky - Accident.,10,16,0,Fair
+39.093962,-104.862951,3,6/7/2019 14:39,14,6,Day,At County Line Rd/Exit 163 - Accident.,10,13,0,Fair
+39.5637,-105.02719,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 - Accident. Lane blocked.,10,12,0,Fair
+39.56362,-105.03403,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 Eastbound - Accident. Lane blocked.,10,12,0,Fair
+39.564,-105.03329,2,6/13/2019 15:40,15,6,Day,Ramp to CO-470 Eastbound - Accident. Lane blocked.,10,12,0,Fair
+39.55874,-104.999732,3,6/14/2019 15:05,15,6,Day,At Broadway - Accident.,10,13,0,Fair
+39.763587,-104.784281,3,6/27/2019 17:58,17,6,Day,At Airport Blvd/Exit 285 - Accident.,10,0,0,Fair
+38.287875,-104.606232,3,7/1/2019 16:01,16,7,Day,At US-50/Exit 100 - Accident.,10,9,0,Fair
+39.494648,-105.341378,4,7/7/2019 14:55,14,7,Day,Closed at CR-97/S Foxton Rd - Road closed due to accident.,10,9,0,Fair
+39.496417,-105.335597,4,7/7/2019 14:23,14,7,Day,Closed at CR-62/Geneva Rd/Guanella Pass Rd - Road closed due to accident.,10,0,0,Fair
+39.4985,-105.333623,4,7/7/2019 14:55,14,7,Day,Closed at Elk Creek Rd - Road closed due to accident.,10,9,0,Fair
+39.105571,-104.864532,3,7/13/2019 18:07,18,7,Day,At County Line Rd/Exit 163 - Accident.,10,0,0,Fair
+39.630035,-104.905278,3,7/20/2019 14:33,14,7,Day,At I-225 - Accident.,10,18,0,Fair
+38.67294,-104.70881,2,7/22/2019 16:53,16,7,Day,Between US-85/US-87/Exit 128 and CO-16/Exit 132 - Accident.,10,0,0,Fair
+38.6754,-104.71073,3,8/9/2019 15:15,15,8,Day,At CO-16/Exit 132 - Accident.,10,16,0,Fair
+40.287211,-103.551418,3,8/7/2019 22:35,22,8,Night,At CR-33/Exit 95 - Accident.,10,13,,Fair
+39.630035,-104.905278,3,6/21/2019 18:29,18,6,Day,At I-225 - Accident.,7,10,0.06,Heavy Rain
+39.34665,-104.47362,4,9/4/2019 16:05,16,9,Day,Closed at County Road 134 - Road closed due to accident.,5,14,0.05,Heavy Rain
+38.322779,-104.696758,3,8/5/2019 22:36,22,8,Night,At Purcell Blvd - Accident.,5,15,0.05,Heavy Rain
+38.539704,-104.962029,4,6/30/2019 16:46,16,6,Day,Closed at Buttes - Road closed due to accident.,3,15,0.04,Heavy Rain
+38.549142,-104.950262,4,6/30/2019 16:46,16,6,Day,Closed at Cr-f45 - Road closed due to accident.,3,15,0.04,Heavy Rain
+37.9758,-104.78004,3,6/22/2019 17:41,17,6,Day,At CR-345/Exit 77 - Accident.,5,21,0.02,Heavy Rain
+39.282904,-104.896898,3,7/20/2019 17:21,17,7,Day,At Tomah Rd/Exit 174 - Accident. Roadway reduced to 1 lane.,10,10,0.01,Heavy Rain
+39.282904,-104.896898,3,7/20/2019 17:21,17,7,Day,At Tomah Rd/Exit 174 - Accident. Roadway reduced to 1 lane.,10,10,0.01,Heavy Rain
+39.097496,-104.863884,3,9/6/2019 18:19,18,9,Day,At CO-105/Exit 161 - Accident.,1,8,0,Heavy Rain
+39.87168,-104.9877,3,7/13/2019 20:31,20,7,Day,At Thornton Pky/Exit 220 - Accident.,8,18,0,Heavy Rain
+39.84661,-104.92396,3,6/8/2019 17:35,17,6,Day,At CO-224/74th Ave/Exit 8 - Accident.,10,22,0,Heavy Rain
+39.55632,-104.87795,3,6/30/2019 16:13,16,6,Day,At I-25/US-87/E-470 - Accident.,10,21,0,Heavy Rain
+39.284526,-104.896331,3,8/9/2019 16:38,16,8,Day,At Wilcox St/Plum Crk Pky/Exit 181 - Accident.,10,21,0,Heavy Rain
+39.29276,-103.79761,4,6/14/2019 15:16,15,6,Day,Closed between CR-118/Exit 354 and CO-86/Exit 352 - Road closed due to accident. Vehicle fire. emergency vehicles at scene.,10,14,0,Heavy Rain
+39.910359,-104.822058,4,6/14/2019 15:47,15,6,Day,Closed between CO-2/Exit 16 and CO-E-470/Exit 18 - Road closed due to accident.,10,10,0,Heavy Rain
+39.16303,-104.853876,3,6/17/2019 14:13,14,6,Day,At Greenland Rd/Exit 167 - Accident.,10,16,0,Heavy Rain
+39.44505,-104.87575,3,6/21/2019 14:23,14,6,Day,At Castle Rock Pkwy/Exit 185 - Accident.,4,12,0,Heavy Rain
+39.78361,-105.099309,3,6/30/2019 18:22,18,6,Day,At CO-121/Wadsworth Blvd/Exit 269 - Accident.,10,13,0,Heavy Rain
+40.30295,-104.98044,3,7/15/2019 16:36,16,7,Day,At CO-56/Exit 250 - Accident.,10,10,0,Heavy Rain
+39.82452,-104.95921,3,7/21/2019 22:45,22,7,Night,Between CO-224/74th Ave/Exit 8 and I-25/Exit 5 - Accident. Right lane blocked.,10,8,0,Heavy Rain
+39.80217,-104.93567,3,7/25/2019 13:27,13,7,Day,At York St/Exit 1 - Accident.,10,9,0,Heavy Rain
+38.27615,-104.60407,3,9/1/2019 18:18,18,9,Day,At 6th St/Exit 99A - Accident.,4,23,0.02,Heavy Rain
+39.900221,-104.988178,3,6/14/2019 15:53,15,6,Day,At 104th Ave/Exit 221 - Accident.,20,30,0,Heavy Rain
+39.776551,-104.876398,3,7/6/2019 15:09,15,7,Day,At Havana Street/Exit 280 - Accident.,10,30,0,Heavy Rain
+39.52678,-104.86773,3,5/20/2019 17:58,17,5,Day,At Ridgegate Pkwy/Exit 192 - Accident. Two lanes blocked.,3,7,0.05,Light Snow
+39.776431,-104.875114,3,4/10/2019 13:28,13,4,Day,At Havana Street/Exit 280 - Accident.,1,13,0.04,Light Snow
+38.67316,-104.70899,4,11/21/2019 7:16,7,11,Day,Closed between Ray Nixon Rd/Exit 125 and CO-16/Exit 132 - Road closed due to accident. Traffic problem.,1,6,0.01,Light Snow
+37.00992,-104.48071,3,11/6/2019 21:06,21,11,Night,At Colorado/New Mexico State Line - Accident.,3,9,0,Light Snow
+39.53685,-104.86837,3,11/10/2019 23:33,23,11,Night,At Lincoln Ave/Exit 193 - Accident.,1,9,0,Light Snow
+39.65856,-104.92069,3,11/21/2019 6:40,6,11,Day,At Yale Ave/Exit 202 - Accident.,3,6,0,Light Snow
+39.65856,-104.92069,3,11/21/2019 7:24,7,11,Day,At Yale Ave/Exit 202 - Accident.,0.75,5,0,Light Snow
+39.65856,-104.92069,3,11/21/2019 8:14,8,11,Day,At Yale Ave/Exit 202 - Accident.,1,8,0,Light Snow
+39.65899,-105.08145,3,11/21/2019 10:31,10,11,Day,At US-285 - Accident.,2,6,0,Light Snow
+39.50839,-104.87186,3,11/21/2019 19:30,19,11,Night,At Ridgegate Pkwy/Exit 192 - Accident.,2,5,0,Light Snow
+40.4068,-104.903269,3,5/20/2019 8:25,8,5,Day,At CR-17 - Accident.,8,9,0,Light Snow
+37.15404,-102.61544,3,12/29/2019 16:20,16,12,Day,At Colorado/Oklahoma State Line - Accident.,,17,0,
+39.97747,-105.21471,3,10/27/2019 18:35,18,10,Night,At CO-157/Boulder Rd/Foothill Pky - Accident.,,5,0,
+37.21026,-103.6389,3,11/15/2019 22:49,22,11,Night,At CO-389 - Accident.,,7,0,
+37.619391,-103.337461,3,9/27/2019 19:01,19,9,Day,At County Road E - Accident.,,7,0,
+37.643243,-103.361512,4,9/27/2019 17:41,17,9,Day,Closed at County Road E - Road closed due to accident.,,14,0,
+37.643243,-103.361512,4,9/27/2019 18:43,18,9,Day,Closed at County Road E - Road closed due to accident.,,7,0,
+40.07321,-104.206993,4,8/31/2019 13:54,13,8,Day,Closed at CR-5/Cr-f - Road closed due to accident.,10,8,0,
+40.07321,-104.206993,4,8/31/2019 13:54,13,8,Day,Closed at County Road 93 - Road closed due to accident.,10,8,0,
+37.137189,-102.604125,3,4/19/2019 10:45,10,4,Day,At Colorado/Oklahoma State Line - Accident.,,,0,
+39.9189,-104.98784,3,5/21/2019 6:40,6,5,Day,At 136th Ave - Accident.,,,0,
+40.58106,-105.011315,2,6/11/2019 7:23,7,6,Day,At CO-14/Mulberry St/Exit 269 - Accident.,10,0,0,
+40.420196,-105.222893,4,6/11/2019 16:20,16,6,Day,Closed at Moodie St - Road closed due to accident. Rescue and recovery work in progress.,10,14,0,
+40.431632,-105.329213,4,6/11/2019 16:20,16,6,Day,Closed at County Road 22H - Road closed due to accident. Rescue and recovery work in progress.,10,14,0,
+40.277594,-104.98031,3,6/14/2019 20:37,20,6,Day,At CR-34/Exit 245 - Accident.,10,12,0,
+40.476249,-104.99205,3,6/15/2019 15:29,15,6,Day,At Crossroads Blvd/Exit 259 - Accident.,10,6,0,
+40.402697,-104.99352,3,6/15/2019 17:43,17,6,Day,At CO-402/Exit 255 - Accident.,10,0,0,
+37.989939,-103.50125,3,6/30/2019 22:38,22,6,Night,At CO-101 - Accident.,,,0,
+37.987184,-103.509078,4,6/30/2019 22:50,22,6,Night,Closed at Las Animas - Road closed due to accident.,,,0,
+37.330735,-102.61554,3,7/23/2019 11:24,11,7,Day,At US-160/Cr-dd - Accident.,,17,0,
+37.307385,-102.615503,4,7/23/2019 15:52,15,7,Day,Closed at US-160/Cr-dd - Road closed due to accident.,,10,0,
+37.355641,-102.615422,4,7/23/2019 15:52,15,7,Day,Closed at Colorado/Oklahoma State Line - Road closed due to accident.,,10,0,
+37.307385,-102.615503,4,7/23/2019 22:09,22,7,Night,Closed at Cr-bb - Road closed due to accident.,,13,0,
+37.355641,-102.615422,4,7/23/2019 22:09,22,7,Night,Closed at Springfield - Road closed due to accident.,,13,0,
+37.38881,-102.27946,3,7/24/2019 15:43,15,7,Day,At US-287/US-385 - Accident. Roadway reduced to 1 lane.,,18,0,
+37.389023,-102.278841,3,7/24/2019 15:43,15,7,Day,At Illinois St - Accident. Roadway reduced to 1 lane.,,18,0,
+37.389023,-102.278841,3,7/24/2019 16:43,16,7,Day,At Two Buttes - Accident. Roadway reduced to 1 lane.,,15,0,
+37.38923,-102.27824,3,7/24/2019 16:43,16,7,Day,At Walsh - Accident. Roadway reduced to 1 lane.,,15,0,
+39.703984,-105.704235,3,7/28/2019 14:59,14,7,Day,At 15th St/Exit 228 - Accident.,10,8,0,
+40.58181,-104.67745,4,8/9/2019 13:30,13,8,Day,Closed at US-85 - Road closed due to accident.,10,7,0,
+40.582299,-104.696379,4,8/9/2019 13:30,13,8,Day,Closed at CR-43 - Road closed due to accident.,10,7,0,
+40.47883,-104.62102,4,8/15/2019 12:28,12,8,Day,Closed at County Road 47 - Road closed due to accident.,10,10,0,
+40.47883,-104.62102,4,8/15/2019 12:28,12,8,Day,Closed at County Road 47 - Road closed due to accident.,10,10,0,
 40.25399,-103.72543,4,12/10/2019 10:58,10,12,Day,Closed at CR-24 - Road closed due to accident.,,,,
 40.25393,-103.69716,4,12/10/2019 10:58,10,12,Day,Closed at CR-20/CR-2000/Barlow Rd - Road closed due to accident.,,,,
 37.547387,-104.992207,3,3/4/2019 11:26,11,3,Day,At CO-159/Miranda Ave - Accident.,,,,
