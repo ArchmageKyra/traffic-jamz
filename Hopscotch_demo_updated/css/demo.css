@@ -22,3 +22,19 @@ h1 {
 #credits {
   margin-top: 100px;
 }
+#mapHolder{
+  width:1000px;
+  height:400px;
+}
+#exmap{
+  width:900px;
+  height:400px;
+}
+#chartHolder{
+  width:1000px;
+  height:400px;
+}
+#exchart{
+  width:900px;
+  height:300px;
+}
