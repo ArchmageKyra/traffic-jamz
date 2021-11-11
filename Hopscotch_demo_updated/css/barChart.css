@@ -1,0 +1,17 @@
+    .bar {
+      fill: rgb(70, 127, 173);
+    }
+    
+    /*Task 2 Step 1*/
+    .barHover{
+      fill:brown;
+    }
+
+    /*Task 3 */
+    .barSignal {
+      opacity: 0.4;
+    }
+
+    .axis--x path {
+      display: none;
+    }

@@ -281,7 +281,7 @@
     margin: 0 0 0 10px;
     /* HS specific*/
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
-    background-color: #287bbc;
+    background-color: #518646;
     filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#287bbc', endColorstr='#23639a');
     background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #287bbc), color-stop(100%, #23639a));
     background-image: -webkit-linear-gradient(to bottom, #287bbc 0%, #23639a 100%);
@@ -325,7 +325,8 @@
     /* default */
     border: 5px solid rgba(0, 0, 0, 0.5);
     /* transparent, if supported */
-    color: #333;
+    /*TEXT COLOR*/
+    color: rgb(40, 71, 36);
     font-family: Helvetica, Arial;
     font-size: 13px;
     position: absolute;

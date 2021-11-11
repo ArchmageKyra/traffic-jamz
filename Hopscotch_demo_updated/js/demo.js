@@ -1,6 +1,6 @@
 /* globals hopscotch: false */
 
-/* ============ */
+/* ============ */ 
 /* EXAMPLE TOUR */
 /* ============ */
 var tour = {
@@ -9,9 +9,38 @@ var tour = {
     {
       target: 'hopscotch-title',
       title: 'Welcome to Hopscotch!',
-      content: 'Hey there! This is an example Hopscotch tour. There will be plenty of time to read documentation and sample code, but let\'s just take some time to see how Hopscotch actually works.',
+      content: 'Hey there! This is an example Hopscotch tour.',
       placement: 'bottom',
       arrowOffset: 60
+    },
+    {
+      target: 'exmap',
+      title: 'Route Map',
+      content: 'Boulder to Missoula',
+      placement: 'right',
+    },
+    {
+      target: 'exmap',
+      title: 'Interstate 25, Denver',
+      content: 'You take I25 north all the way from Denver to Billings',
+      placement: 'left',
+      xOffset: 410,
+      yOffset: 170,
+    },
+    {
+      target: 'exmap',
+      title: 'Interstate 90, Billings',
+      content: 'Then get onto I90 east and that will take you into Missoula',
+      placement: 'top',
+      xOffset: 280,
+      yOffset: 130,
+    },
+    {
+      target: 'exchart',
+      title: 'Barchart',
+      content:'There should be a barchart here idk',
+      placement: 'bottom',
+      yOffset: -250,
     },
     {
       target: document.querySelectorAll('#general-use-desc code')[1],
@@ -19,6 +48,12 @@ var tour = {
       content: 'At the very least, you\'ll need to include these two files in your project to get started.',
       placement: 'right',
       yOffset: -20
+    },
+    {
+      target: 'exmap',
+      title: 'Back Up',
+      content:'Oop here we are back up here',
+      placement: 'right',
     },
     {
       target: 'my-first-tour-file',
@@ -35,23 +70,11 @@ var tour = {
     },
     {
       target: 'basic-options',
-      placement: 'left',
+      placement: 'right',
       title: 'Basic step options',
       content: 'These are the most basic step options: <b>target</b>, <b>title</b>, <b>content</b>, and <b>placement</b>. For some steps, they may be all you need.',
       arrowOffset: 100,
       yOffset: -80
-    },
-    {
-      target: 'api-methods',
-      placement: 'top',
-      title: 'Hopscotch API methods',
-      content: 'Control your tour programmatically using these methods.',
-    },
-    {
-      target: 'tour-example',
-      placement: 'top',
-      title: 'This tour\'s code',
-      content: 'This is the JSON for the current tour! Pretty simple, right?',
     },
     {
       target: 'hopscotch-title',
@@ -61,7 +84,7 @@ var tour = {
     }
   ],
   showPrevButton: true,
-  scrollTopMargin: 100
+  scrollTopMargin: 100,
 },
 
 /* ========== */

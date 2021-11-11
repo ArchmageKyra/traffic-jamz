@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Hopscotch Demo</title>
+    <!--Hopscotch and Webpage-->
+    <link href="css/demo.css" rel="stylesheet"></link>
+    <link href="css/hopscotch.css" rel="stylesheet"></link>
+        <!--Interactive map pulled from Quiz3-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.css" />
+    </head>
+ 
+  <body>
+    <div class="demo-headline">
+      <h1 id="hopscotch-title" class="demo-logo">Hopscotch</h1> <!--Tour part 1 Begining--> <!--Tour part 8 End-->
+    </div>
+    <div id="content">
+      <h1 id="what-is">Whats All This, Then</h1>
+      <p class="text-center"><button id="startTourBtn" class="btn btn-large btn-primary">Take a tour</button></p><!--Initialize Button-->
+      
+      <h1 id="features">Example Map</h1>
+          <div id="mapHolder">
+            <div id="exmap"></div>
+          </div>
+      
+      <h1 id="features">Example Chart</h1>
+        <div id="chartHolder">
+          <div id="exchart"></div>
+        </div>
+
+      <h1 id="general-usage">General Usage</h1>
+      <p id="general-use-desc">To get started using the Hopscotch framework, simply include <code>hopscotch.css</code> <!--Tour Part 2--> and <code>hopscotch.js</code> on your page. This will load the hopscotch object into the global window object for you.</p>
+      <pre><code id="my-first-tour-file"> <!--Tour part 3-->
+        Code Example
+    <span id="start-tour">hopscotch.startTour(tour);</span> <!--Tour part 4-->
+    </div>
+    <!--Hopscotch-->
+    <script src="js/hopscotch.js"></script>
+    <script src="js/demo.js"></script>
+    <!--Interactive Map from Quiz 3-->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.js"></script>
+    <script src="js/examplemap.js"></script>
+  </body>
+</html>
