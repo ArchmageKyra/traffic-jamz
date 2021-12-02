@@ -4,30 +4,30 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Connected Experiment</title>
+  <title>Traffic Accidents in Colorado 2019</title>
 
   <!--stylesheets-->
   <link rel="stylesheet" href="css/d3.parcoords.css">
   <link rel="stylesheet" href="css/leaflet.css" />
   <link rel="stylesheet" href="css/MarkerCluster.css" />
   <link rel="stylesheet" href="css/MarkerCluster.Default.css" />
-  <link rel="stylesheet" href="css/myStylesheet.css" />
   <link rel="stylesheet" href="css/tipso.css" />
+  <link rel="stylesheet" href="css/myStylesheet.css" />
 
   <!--library scripts-->
   <script src="lib/jquery-3.5.1.js"></script>
   <script src="lib/d3.min.js"></script>
   <script src="lib/d3.parcoords.js"></script>
+  <script src="lib/d3.svg.multibrush.js"></script>
+  <script src="lib/tipso.min.js"></script>
   <script src="lib/divgrid.js"></script>
   <script src="lib/leaflet.js"></script>
   <script src="lib/leaflet.markercluster.js"></script>
   <script src="lib/leaflet-omnivore.min.js"></script>
   <script src="lib/geojson.min.js"></script>
-  <script src="lib/tipso.min.js"></script>
 
   <!--my scripts-->
   <script src="js/main.js"></script>
-
 </head>
 
 <body>
@@ -38,54 +38,61 @@
       <i>Kyra Slovacek, Mykael Pineda,Taylor Cunningham, Tyler Kemp <br>
         Made for Morteza Karimzadeh’s GEOG4043 Class</i>
       <br>
-      The purpose of this website is to visualize traffic accident data throughout Colorado in different weather conditions. The data was sourced from Kaggle on Nation-wide traffic accidents and was shortened to only include Colorado based accidents.
-      The accident point data is colored by accident severity, while the clusters are colored by accident occurrence.
-      <br>
 
+
+      Explore traffic accident data in an innovative way with this tool! The data is a subset of the <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">US Nation-Wide Traffic Data Kaggle</a>, reduced to only the state of Colorado in the year
+      2019. Each accident is marked with a point (blue), which can cluster when zoomed in and show a heatmap when zoomed out. Below is a parallel coordinate plot to explore the data; filter by
+      <span class="bottom-left" data-tipso-title="Severity" data-tipso="Severity of accidents is based on the effect on traffic determined by the DOT and have been scaled with 1 representing low and 3 representing high severity">severity</span>,
+      <span class="bottom-left-WChyperlink" data-tipso-title="Weather Condition" data-tipso="dummy text">weather condition</span>,
+      <span class="bottom-left" data-tipso-title="Visibility"
+        data-tipso="Visibility is based off of distance driver can see ahead in miles.  Values are rounded to the nearest 5 and values > 30mi are grouped together as any distance above this value represent high visibility.">visibility</span>,
+      <span class="bottom-left" data-tipso-title="Windspeed" data-tipso="Windspeed represents how fast wind is blowing in miles per hour - faster speeds confound the effects of weather.  Values are rounded to the nearest 5.">windspeed</span>, and
+      <span class="bottom-left" data-tipso-title="Precipitation" data-tipso="Amount of precipitation in inches.  Values above 0.1 inches are excluded as outliers.">precipitation</span>.
+      <br>
+      <br>
+      Click on a cluster to zoom in, and click on a point to see accident details.
+      <br>
+      <br>
+      Click and drag on any axis to select values within a range. Double click on a selected axis to reset.
+      <br>
+      <br>
       <div id="legendContainer">
 
-        <b>Cluster Values- Number of Accidents</b>
+        <b id="clusterValues">Cluster Values- Number of Accidents</b>
 
         <br>
 
-        <svg width="500" height="50">
-          <rect x="1" , y="15" , width="20" , height="20" fill="#6bcc39ff" />
-          <text x="22" , y="30">Low amount</text>
-          <rect x="110" , y="15" , width="20" , height="20" fill="#f0c20cff" />
-          <text x="132" , y="30">Moderate amount</text>
-          <rect x="250" , y="15" , width="20" , height="20" fill="#f18017ff" />
-          <text x="271" , y="30">High amount</text>
+        <svg width="275" height="20">
+          <rect x="5" , y="1" , width="20" , height="20" fill="#6bcc39ff" />
+          <text x="27" , y="15">Low</text>
+          <rect x="85" , y="1" , width="20" , height="20" fill="#f0c20cff" />
+          <text x="110" , y="15">Moderate</text>
+          <rect x="200" , y="1" , width="20" , height="20" fill="#f18017ff" />
+          <text x="225" , y="15">High</text>
         </svg>
         <br>
+        <br>
 
-        <b>Point Values- Accident Severity</b>
+        <b id="pointValues">Point Values- Accident Severity</b>
 
         <br>
-        <svg width="500" height="50">
-          <rect x="1" , y="15" , width="20" , height="20" fill="#74d2feff" />
-          <text x="22" , y="30">Low severity(1)</text>
-          <rect x="128" , y="15" , width="20" , height="20" fill="#427c97ff" />
-          <text x="150" , y="30">Moderate severity(2)</text>
-          <rect x="290" , y="15" , width="20" , height="20" fill="#162f3bff" />
-          <text x="312" , y="30">High severity(3)</text>
+        <svg width="275" height="30">
+          <rect x="5" , y="1" , width="20" , height="20" fill="#74d2feff" />
+          <text x="27" , y="15">Low(1)</text>
+          <rect x="85" , y="1" , width="20" , height="20" fill="#427c97ff" />
+          <text x="115" , y="15">Moderate(2)</text>
+          <rect x="200" , y="1" , width="20" , height="20" fill="#162f3bff" />
+          <text x="225" , y="15">High(3)</text>
         </svg>
-
       </div>
-      Zooming into the map shows more data points at each hotspot. Below is a parallel coordinate plot that shows the amount of accidents occuring in each severity category and weather condition.
 
-      <ul>
-        <li>Visibility: Data is organized into bins with intervals of 5 miles, going up to ≥ 30miles because that is the extent of the human eye when looking ahead.</li>
-        <li>Windspeed:</li>
-        <li>Precipitation: Precipitation weather was generalized into light and heavy; outliers in precipitation amount were removed to make the parallel coordinate plot easier to understand. </li>
-        <li>Weather condition: Fair, Snow - light and heavy precipitation, Rain - light and heavy precipitation, and Fog. Specific weather condition normalized to represent most prominent category</li>
-      </ul>
     </div>
   </div>
   </div>
   </div>
 
   <div id="outer">
-    <div id="pcp" class="parcoords" style="width:100%;height:30vh;margin-top:3vh;"></div>
+    <div id="pcp" class="parcoords" style="width:100%;height:40vh;margin-top:3vh;"></div>
   </div>
 
 </body>

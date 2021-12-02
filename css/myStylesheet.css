@@ -1,27 +1,36 @@
 #columnWrapper {
   position: relative;
-  height: 62vh;
+  height: 52vh;
   width: 100%;
 }
 
 #columnRight {
   float: right;
-  width: 46%;
+  width: 40%;
   margin-left: 4%;
+  padding-right: 5%;
 }
 
 #legendContainer {
-  position: relative;
-  border-style: solid;
-  border-radius: 10px;
-  width: 95%;
-  padding-left: 2.5%;
-  padding-top: 2.5%;
+    width: 280px;
+    height: 120px;
+    align-items: center;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+
+#clusterValues {
+    margin-left: 10px;
+}
+
+#pointValues {
+    margin-left:25px;
 }
 
 #map {
   float: left;
-  height: 62vh;
+  height: 52vh;
   width: 50%;
 }
 
@@ -92,11 +101,11 @@ body {
 }
 
 a {
-  color: #555;
+  color: #ff6347 ;
 }
 
 a:hover {
-  color: #000;
+  color: #ff6347 ;
 }
 
 ul {

@@ -5,16 +5,6 @@ let darkFill = "#162F3B";
 
 
 $(document).ready(function() {
-  // load csv file and create the parcoords chart
-  d3.csv('data/stupidaccidentsV5.csv', function(data) {
-    parcoords
-      .data(data)
-      .hideAxis(["lat", "lng", "hour", "month", "Description"])
-      .render()
-      .shadows()
-      .brushMode("1D-axes");
-  });
-
   var dimensions = {
     "Severity": {
       tickValues: [1, 2, 3]
@@ -40,9 +30,20 @@ $(document).ready(function() {
 
   // actually load the plot.  seperate from the other 'create plot' for some unexplanable reason
   var parcoords = d3.parcoords()("#pcp")
-    .dimensions(dimensions)
     .color(color)
     .alpha(0.4);
+
+  // load csv file and create the parcoords chart
+  d3.csv('data/stupidaccidentsV5.csv', function(data) {
+    parcoords
+      .data(data)
+      .dimensions(dimensions)
+      .hideAxis(["lat", "lng", "hour", "day", "month", "Description"])
+      .render()
+      .shadows()
+      .interactive()
+      .brushMode("1D-axes-multi");
+  });
 
   // create the leaflet map
   var map = L.map('map', {
@@ -64,9 +65,40 @@ $(document).ready(function() {
 
   //make some popups and include the text from the "description" field
   function addPopups(feature, layer) {
+    //make some variables to hold the address and the stolen value.
+    let theDescription = "";
+    let theHour = "";
+    let theMonth = "";
+
+    //this will check if the feature has a property named location
     if (feature.properties && feature.properties.Description) {
-      layer.bindPopup(feature.properties.Description);
+      //put said location property into a variable!
+      theDescription = feature.properties.Description;
+    } else {
+      //else, put "NULL"
+      theDescription = "NULL";
     }
+
+    if (feature.properties && feature.properties.hour) {
+      //put said location property into a variable!
+      theHour = feature.properties.hour;
+    } else {
+      //else, put "NULL"
+      theHour = "NULL";
+    }
+
+    if (feature.properties && feature.properties.month) {
+      //put said location property into a variable!
+      theMonth = feature.properties.month;
+    } else {
+      //else, put "NULL"
+      theMonth = "NULL";
+    }
+
+    //concatinate a big string with the HTML formatting and some headers
+    let myString = "<b> Description: </b><br>" + theDescription + "<br> <b>Month: </b>" + theMonth + " <b>Hour: </b>" + theHour;
+    //bind that big string to the popup!
+    layer.bindPopup(myString);
   }
 
   //customize the appearance of the markers
@@ -104,7 +136,9 @@ $(document).ready(function() {
   //set the default value of points to the whole CSV file, and call the style helper
   var points = omnivore.csv('data/stupidaccidentsV5.csv', null, omnivoreStyleHelper);
   //initialize the marker clusters
-  var clusters = L.markerClusterGroup();
+  var clusters = L.markerClusterGroup({
+    showCoverageOnHover: false
+  });
   points.on('ready', function() {
     clusters.addLayer(points);
 
@@ -115,7 +149,7 @@ $(document).ready(function() {
   parcoords.on("brush", function() {
     var selectedPoints = GeoJSON.parse(parcoords.brushed(), {
       Point: ['lat', 'lng'],
-      include: ['Description', "Severity"]
+      include: ['Description', "Severity", "hour", "month"]
     });
     points.clearLayers();
     points.addData(selectedPoints);
@@ -123,4 +157,109 @@ $(document).ready(function() {
     clusters.addLayer(points);
   });
 
+
+
+
+
+
+
+
+
+  jQuery(document).ready(function() {
+    // Position Tipso
+    jQuery('.right').tipso({
+      position: 'right',
+      background: 'rgba(0,0,0,0.8)',
+      titleBackground: 'tomato',
+      useTitle: false,
+    });
+    jQuery('.left').tipso({
+      position: 'left',
+      background: 'tomato',
+      useTitle: false,
+    });
+    jQuery('.bottom').tipso({
+      position: 'bottom',
+      background: '#2574A9',
+      useTitle: false,
+    });
+    jQuery('.top, .destroy, .update, .update-tipso-content').tipso({
+      position: 'top',
+      background: '#F62459',
+      useTitle: false,
+      width: '',
+      maxWidth: 300
+    });
+    jQuery('.hover-tipso-tooltip').tipso({
+      position: 'top',
+      background: '#000',
+      useTitle: false,
+      width: false,
+      maxWidth: 300,
+      tooltipHover: true,
+      content: function() {
+        return 'You can <a href="javascript:;">CLICK ME</a> now!';
+      }
+    });
+
+    jQuery('.top-right').tipso({
+      position: 'top-right',
+      background: 'rgba(0,0,0,0.8)',
+      titleBackground: 'tomato',
+      titleContent: 'Some title',
+      useTitle: false,
+      tooltipHover: true
+    });
+
+    jQuery('.top-left').tipso({
+      position: 'top-left',
+      background: 'rgba(0,0,0,0.8)',
+      titleBackground: 'tomato',
+      titleContent: 'Some title',
+      useTitle: false,
+      tooltipHover: true
+    });
+
+    jQuery('.bottom-right').tipso({
+      position: 'bottom-right',
+      background: 'rgba(50,50,50,0.8)',
+      titleBackground: 'tomato',
+      titleContent: 'Some title',
+      useTitle: false,
+      tooltipHover: true
+    });
+
+    jQuery('.bottom-left').tipso({
+      position: 'bottom-left',
+      background: 'rgba(0,0,0,0.8)',
+      titleBackground: 'tomato',
+      useTitle: false,
+      tooltipHover: true
+    });
+
+    jQuery('.bottom-left-WChyperlink').tipso({
+      position: 'bottom-left',
+      background: 'rgba(0,0,0,0.8)',
+      titleBackground: 'tomato',
+      useTitle: false,
+      tooltipHover: true,
+      content: function() {
+        return 'Natural language description of weather condition at time of accident.  Was generalized from data source using the <a href = " https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm" > FHWA categories of hazardous weather </a>.';
+      }
+
+
+
+
+    });
+    jQuery(window).on('load', function() {
+      // Show Tipso on Load
+      jQuery('.page-load').tipso('show');
+    });
+
+
+
+
+
+
+  });
 });
