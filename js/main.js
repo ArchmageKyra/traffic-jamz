@@ -9,7 +9,6 @@ $(document).ready(function() {
     "Severity": {
       tickValues: [1, 2, 3]
     },
-    "Visibility (mi)": {},
     "Weather_Condition": {
       orient: 'left'
     }
@@ -28,13 +27,13 @@ $(document).ready(function() {
     }
   };
 
-  // actually load the plot.  seperate from the other 'create plot' for some unexplanable reason
+  // initialize the PCP plot
   var parcoords = d3.parcoords()("#pcp")
     .color(color)
     .alpha(0.4);
 
-  // load csv file and create the parcoords chart
-  d3.csv('data/stupidaccidentsV5.csv', function(data) {
+  // load csv file an put it into the PCP
+  d3.csv('data/stupidaccidentsV6.csv', function(data) {
     parcoords
       .data(data)
       .dimensions(dimensions)
@@ -65,41 +64,41 @@ $(document).ready(function() {
 
   //make some popups and include the text from the "description" field
   function addPopups(feature, layer) {
-    //make some variables to hold the address and the stolen value.
     let theDescription = "";
     let theHour = "";
+    let theDay = "";
     let theMonth = "";
 
-    //this will check if the feature has a property named location
     if (feature.properties && feature.properties.Description) {
-      //put said location property into a variable!
       theDescription = feature.properties.Description;
     } else {
-      //else, put "NULL"
       theDescription = "NULL";
     }
 
     if (feature.properties && feature.properties.hour) {
-      //put said location property into a variable!
       theHour = feature.properties.hour;
     } else {
-      //else, put "NULL"
       theHour = "NULL";
     }
 
+    if (feature.properties && feature.properties.day) {
+      theDay = feature.properties.day;
+    } else {
+      theDay = "NULL";
+    }
+
     if (feature.properties && feature.properties.month) {
-      //put said location property into a variable!
       theMonth = feature.properties.month;
     } else {
-      //else, put "NULL"
       theMonth = "NULL";
     }
 
     //concatinate a big string with the HTML formatting and some headers
-    let myString = "<b> Description: </b><br>" + theDescription + "<br> <b>Month: </b>" + theMonth + " <b>Hour: </b>" + theHour;
+    let myString = "On " + theMonth + "/" + theDay + " around " + theHour + ":00<br><b>Description: </b>" + theDescription
+
     //bind that big string to the popup!
     layer.bindPopup(myString);
-  }
+  };
 
   //customize the appearance of the markers
   function pointToCircle(feature, latlng) {
@@ -123,7 +122,9 @@ $(document).ready(function() {
       fillColor: fillColorVar,
       fillOpacity: 0.9
     };
+
     var circleMarker = L.circleMarker(latlng, geojsonMarkerOptions);
+
     return circleMarker;
   }
 
@@ -134,7 +135,8 @@ $(document).ready(function() {
   });
 
   //set the default value of points to the whole CSV file, and call the style helper
-  var points = omnivore.csv('data/stupidaccidentsV5.csv', null, omnivoreStyleHelper);
+  var points = omnivore.csv('data/stupidaccidentsV6.csv', null, omnivoreStyleHelper);
+
   //initialize the marker clusters
   var clusters = L.markerClusterGroup({
     showCoverageOnHover: false
@@ -145,89 +147,47 @@ $(document).ready(function() {
   });
   map.addLayer(clusters);
 
+  //make a variable to store how many points are selected, and set it to a default value of "all of them"
+  var pointCount = "6088";
+
+  //add a hovering box ("legend") that displays the number of points that are selected
+  var legend = L.control({
+    position: "bottomleft"
+  });
+
+  //some functions to control legend updating
+  legend.onAdd = function(map) {
+    var div = L.DomUtil.create("div", "legend");
+    div.innerHTML += "<b>Points Selected: </b><br>" + pointCount
+    return div;
+  };
+
+  legend.onRemove = function(map) {
+    delete map.legend;
+  };
+
+  legend.updateCount = function(str) {
+    this.getContainer().innerHTML = "<b>Points Selected: </b><br>" + pointCount
+  };
+
+  legend.addTo(map);
+
   // on brushing, update the selected points with the most bass-ackwards method of deleting and re-adding layers
   parcoords.on("brush", function() {
     var selectedPoints = GeoJSON.parse(parcoords.brushed(), {
       Point: ['lat', 'lng'],
-      include: ['Description', "Severity", "hour", "month"]
+      include: ['Description', "Severity", "hour", , "day", "month"]
     });
     points.clearLayers();
     points.addData(selectedPoints);
     clusters.clearLayers();
     clusters.addLayer(points);
+    pointCount = points.getLayers().length;
+    legend.updateCount(pointCount);
   });
 
-
-
-
-
-
-
-
-
+  //tipsos
   jQuery(document).ready(function() {
-    // Position Tipso
-    jQuery('.right').tipso({
-      position: 'right',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      useTitle: false,
-    });
-    jQuery('.left').tipso({
-      position: 'left',
-      background: 'tomato',
-      useTitle: false,
-    });
-    jQuery('.bottom').tipso({
-      position: 'bottom',
-      background: '#2574A9',
-      useTitle: false,
-    });
-    jQuery('.top, .destroy, .update, .update-tipso-content').tipso({
-      position: 'top',
-      background: '#F62459',
-      useTitle: false,
-      width: '',
-      maxWidth: 300
-    });
-    jQuery('.hover-tipso-tooltip').tipso({
-      position: 'top',
-      background: '#000',
-      useTitle: false,
-      width: false,
-      maxWidth: 300,
-      tooltipHover: true,
-      content: function() {
-        return 'You can <a href="javascript:;">CLICK ME</a> now!';
-      }
-    });
-
-    jQuery('.top-right').tipso({
-      position: 'top-right',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      titleContent: 'Some title',
-      useTitle: false,
-      tooltipHover: true
-    });
-
-    jQuery('.top-left').tipso({
-      position: 'top-left',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      titleContent: 'Some title',
-      useTitle: false,
-      tooltipHover: true
-    });
-
-    jQuery('.bottom-right').tipso({
-      position: 'bottom-right',
-      background: 'rgba(50,50,50,0.8)',
-      titleBackground: 'tomato',
-      titleContent: 'Some title',
-      useTitle: false,
-      tooltipHover: true
-    });
 
     jQuery('.bottom-left').tipso({
       position: 'bottom-left',
@@ -246,20 +206,10 @@ $(document).ready(function() {
       content: function() {
         return 'Natural language description of weather condition at time of accident.  Was generalized from data source using the <a href = " https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm" > FHWA categories of hazardous weather </a>.';
       }
-
-
-
-
     });
     jQuery(window).on('load', function() {
       // Show Tipso on Load
       jQuery('.page-load').tipso('show');
     });
-
-
-
-
-
-
   });
 });

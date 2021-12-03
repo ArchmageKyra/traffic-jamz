@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Traffic Accidents in Colorado 2019</title>
-  <link rel="shortcut icon" type="image/jpg" href="img/favicon.png"/>
+  <link rel="shortcut icon" type="image/jpg" href="img/favicon.png" />
 
   <!--stylesheets-->
   <link rel="stylesheet" href="css/d3.parcoords.css">
@@ -36,27 +36,30 @@
     <div id="map"></div>
     <div id="columnRight">
       <h1>Traffic Accidents in Colorado</h1>
-      <i>Kyra Slovacek, Mykael Pineda,Taylor Cunningham, Tyler Kemp <br>
-        Made for Morteza Karimzadeh’s GEOG4043 Class</i>
-      <br>
-
-
       Explore traffic accident data in an innovative way with this tool! The data is a subset of the <a href="https://www.kaggle.com/sobhanmoosavi/us-accidents">US Nation-Wide Traffic Data Kaggle</a>, reduced to only the state of Colorado in the year
       2019. Each accident is marked with a point (blue), which can cluster when zoomed in and show a heatmap when zoomed out. Below is a parallel coordinate plot to explore the data; filter by
       <span class="bottom-left" data-tipso-title="Severity" data-tipso="Severity of accidents is based on the effect on traffic determined by the DOT and have been scaled with 1 representing low and 3 representing high severity">severity</span>,
       <span class="bottom-left-WChyperlink" data-tipso-title="Weather Condition" data-tipso="dummy text">weather condition</span>,
       <span class="bottom-left" data-tipso-title="Visibility"
-        data-tipso="Visibility is based off of distance driver can see ahead in miles.  Values are rounded to the nearest 5 and values > 30mi are grouped together as any distance above this value represent high visibility.">visibility</span>,
+        data-tipso="Visibility is based off of distance driver can see ahead in miles.  Values are rounded to the nearest 5 and values greater than 30 mi are grouped at 30 mi as any distance above this value represent high visibility.">visibility</span>,
       <span class="bottom-left" data-tipso-title="Windspeed" data-tipso="Windspeed represents how fast wind is blowing in miles per hour - faster speeds confound the effects of weather.  Values are rounded to the nearest 5.">windspeed</span>, and
-      <span class="bottom-left" data-tipso-title="Precipitation" data-tipso="Amount of precipitation in inches.  Values above 0.1 inches are excluded as outliers.">precipitation</span>.
+      <span class="bottom-left" data-tipso-title="Precipitation" data-tipso="Amount of precipitation in inches.  Values above 0.1 inches are grouped at 0.01.">precipitation</span>.
       <br>
       <br>
-      Click on a cluster to zoom in, and click on a point to see accident details.
-      <br>
-      <br>
-      Click and drag on any axis to select values within a range. Double click on a selected axis to reset.
-      <br>
-      <br>
+
+      <div id="littleRightColumn">
+        Click on a cluster to zoom in, and click on a point to see accident details.
+        <br>
+        <br>
+        Click and drag on any axis to select values within a range. Double click on a selected axis to reset.
+        <br>
+        <br>
+        <i>Kyra Slovacek, Mykael Pineda,Taylor Cunningham, Tyler Kemp <br>
+          Made for Morteza Karimzadeh’s GEOG4043 Class</i>
+      </div>
+
+
+
       <div id="legendContainer">
 
         <b id="clusterValues">Cluster Values- Number of Accidents</b>
