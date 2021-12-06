@@ -1,10 +1,14 @@
 "use strict";
-let lightFill = "#74D2FE";
-let medFill = "#427C97";
-let darkFill = "#162F3B";
-
 
 $(document).ready(function() {
+  // establish "global" variables
+  let lightFill = "#74D2FE";
+  let medFill = "#427C97";
+  let darkFill = "#162F3B";
+  var dataLoad;
+  var theID;
+
+  // customize axes for PCP
   var dimensions = {
     "Severity": {
       tickValues: [1, 2, 3]
@@ -14,7 +18,7 @@ $(document).ready(function() {
     }
   }
 
-  // link the scale to the "Severity" property
+  // link the colors to the "Severity" property
   var color = function(d) {
     if (d['Severity'] === '3') {
       return darkFill;
@@ -27,7 +31,7 @@ $(document).ready(function() {
     }
   };
 
-  // initialize the PCP plot
+  // initialize the PCP plot.  assign color and alpha
   var parcoords = d3.parcoords()("#pcp")
     .color(color)
     .alpha(0.4);
@@ -37,15 +41,39 @@ $(document).ready(function() {
     parcoords
       .data(data)
       .dimensions(dimensions)
-      .hideAxis(["lat", "lng", "hour", "day", "month", "Description"])
+      .hideAxis(["ID", "lat", "lng", "hour", "day", "month", "Description"])
       .render()
       .shadows()
       .interactive()
       .brushMode("1D-axes-multi");
+    // for the later highlighing operation
+    dataLoad = data;
+  });
+
+  // on brushing, update the selected points with the most bass-ackwards method of deleting and re-adding layers
+  parcoords.on("brush", function() {
+    //load the selected points into a variable, and convert them to a GeoJSON
+    var selectedPoints = GeoJSON.parse(parcoords.brushed(), {
+      Point: ['lat', 'lng'],
+      include: ['Description', "Severity", "hour", , "day", "month", "ID"]
+    });
+    //clear all the points from the Points layer
+    points.clearLayers();
+    //put the "selected points" into the Points layer
+    points.addData(selectedPoints);
+    //clear the markerclusters
+    clusters.clearLayers();
+    //put the new points into the clusters
+    clusters.addLayer(points);
+    //ger the length of the Points layer to use as the # of points
+    pointCount = points.getLayers().length;
+    //update the point count
+    legend.updateCount(pointCount);
   });
 
   // create the leaflet map
   var map = L.map('map', {
+    // restrict zoom so you cant leave the data extents
     maxZoom: 16,
     minZoom: 7,
     maxBounds: [
@@ -62,7 +90,7 @@ $(document).ready(function() {
     attribution: 'Map data: &copy; <a href=”https://www.mapbox.com/about/maps/”>Mapbox</a> &copy; <a href=”http://www.openstreetmap.org/copyright”>OpenStreetMap</a>'
   }).addTo(map);
 
-  //make some popups and include the text from the "description" field
+  //make some popups and include the text from the "description" field.  summon the highlighting on hover, too
   function addPopups(feature, layer) {
     let theDescription = "";
     let theHour = "";
@@ -97,7 +125,13 @@ $(document).ready(function() {
     let myString = "On " + theMonth + "/" + theDay + " around " + theHour + ":00<br><b>Description: </b>" + theDescription
 
     //bind that big string to the popup!
-    layer.bindPopup(myString);
+    layer.bindTooltip(myString);
+
+    //run the highlighter code
+    layer.on({
+      mouseover: highlightLine,
+      mouseout: resetHighlight
+    })
   };
 
   //customize the appearance of the markers
@@ -126,6 +160,21 @@ $(document).ready(function() {
     var circleMarker = L.circleMarker(latlng, geojsonMarkerOptions);
 
     return circleMarker;
+  }
+
+  // highlight lines on hovering using the ID property
+  function highlightLine(e) {
+    theID = this.feature.properties.ID
+    for (var i = 0; i < dataLoad.length; i++) {
+      if (dataLoad[i].ID == theID) {
+        parcoords.highlight([dataLoad[i]]);
+      }
+    }
+  }
+
+  //reset highlighting
+  function resetHighlight() {
+    parcoords.unhighlight([dataLoad[theID]]);
   }
 
   //make a helper to actually apply the styling options with Omnivore
@@ -172,57 +221,4 @@ $(document).ready(function() {
 
   legend.addTo(map);
 
-  // on brushing, update the selected points with the most bass-ackwards method of deleting and re-adding layers
-  parcoords.on("brush", function() {
-    var selectedPoints = GeoJSON.parse(parcoords.brushed(), {
-      Point: ['lat', 'lng'],
-      include: ['Description', "Severity", "hour", , "day", "month"]
-    });
-    points.clearLayers();
-    points.addData(selectedPoints);
-    clusters.clearLayers();
-    clusters.addLayer(points);
-    pointCount = points.getLayers().length;
-    legend.updateCount(pointCount);
-  });
-
-  //tipsos
-  jQuery(document).ready(function() {
-
-    jQuery('.bottom-left').tipso({
-      position: 'bottom-left',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      useTitle: false,
-      tooltipHover: true
-    });
-
-    jQuery('.bottom-left-WChyperlink').tipso({
-      position: 'bottom-left',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      useTitle: false,
-      tooltipHover: true,
-      content: function() {
-        return 'Natural language description of weather condition at time of accident.  Was generalized from data source using the <a href = " https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm" >FHWA categories of hazardous weather</a>.';
-      }
-    });
-
-    jQuery('.bottom-left-sources').tipso({
-      position: 'bottom-left',
-      background: 'rgba(0,0,0,0.8)',
-      titleBackground: 'tomato',
-      useTitle: false,
-      tooltipHover: true,
-      width: 500,
-      content: function() {
-        return 'Kyra Slovacek, Mykael Pineda,Taylor Cunningham, Tyler Kemp <br> Made for Morteza Karimzadeh’s GEOG4043 Clas <br> Built using <a href = "https://leafletjs.com/" >Leaflet</a>, <a href = "https://github.com/Leaflet/Leaflet.markercluster" >MarkerCluser</a>,  <a href = "https://github.com/mapbox/leaflet-omnivore" >Omnivore</a>, <a href = "https://d3js.org/" >D3</a>, <a href = "https://syntagmatic.github.io/parallel-coordinates/" >ParCoords</a>, <a href = "https://github.com/caseycesari/GeoJSON.js" >GeoJSON Parser</a>, and <a href = "https://github.com/object505/tipso" >Tipso</a>.';
-      }
-    });
-
-    jQuery(window).on('load', function() {
-      // Show Tipso on Load
-      jQuery('.page-load').tipso('show');
-    });
-  });
 });
