@@ -12,20 +12,18 @@
 }
 
 #legendContainer {
-    width: 280px;
-    height: 120px;
-    align-items: center;
-    margin: 10px;
-    border-style: solid;
-    border-radius: 10px;
-  }
+  width: 280px;
+  height: 120px;
+  align-items: center;
+  margin: auto;
+}
 
 #clusterValues {
-    margin-left: 10px;
+  margin-left: 10px;
 }
 
 #pointValues {
-    margin-left:25px;
+  margin-left: 25px;
 }
 
 #map {
@@ -38,13 +36,6 @@
   position: relative;
 }
 
-#littleRightColumn{
-  float: right;
-  width: 50%;
-  margin-left: 10px;
-  padding-right: 5%;}
-
-
 /*Legend specific*/
 .legend {
   padding: 6px 8px;
@@ -56,6 +47,7 @@
   line-height: 24px;
   color: #555;
 }
+
 .legend h4 {
   text-align: center;
   font-size: 16px;
@@ -81,8 +73,6 @@
   background-color: rgba(255, 255, 255, 1);
 }
 
-
-
 body {
   font-size: 14px;
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -92,11 +82,11 @@ body {
 }
 
 a {
-  color: #ff6347 ;
+  color: #ff6347;
 }
 
 a:hover {
-  color: #ff6347 ;
+  color: #ff6347;
 }
 
 ul {
