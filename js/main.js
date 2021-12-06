@@ -37,7 +37,7 @@ $(document).ready(function() {
     .alpha(0.4);
 
   // load csv file an put it into the PCP
-  d3.csv('data/stupidaccidentsV6.csv', function(data) {
+  d3.csv('data/accidentData.csv', function(data) {
     parcoords
       .data(data)
       .dimensions(dimensions)
@@ -184,7 +184,7 @@ $(document).ready(function() {
   });
 
   //set the default value of points to the whole CSV file, and call the style helper
-  var points = omnivore.csv('data/stupidaccidentsV6.csv', null, omnivoreStyleHelper);
+  var points = omnivore.csv('data/accidentData.csv', null, omnivoreStyleHelper);
 
   //initialize the marker clusters
   var clusters = L.markerClusterGroup({
